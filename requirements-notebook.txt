@@ -1,0 +1,4 @@
+# Hanya dibutuhkan Sesi 12 (batch scoring). Jangan install sekarang.
+#   python -m pip install -r requirements-notebook.txt
+-r requirements.txt
+jupyterlab>=4.0,<5.0

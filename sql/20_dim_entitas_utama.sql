@@ -1,0 +1,22 @@
+-- ============================================================
+-- TUGAS TIM (D2 / UTS item 1.2–1.3) — dimensi entitas utama
+-- Ganti nama berkas ini dengan entitasmu: 20_dim_mahasiswa.sql | 20_dim_product.sql | 20_dim_wilayah.sql
+-- Ganti pula nama tabelnya. Yang WAJIB ada:
+--   * surrogate key  : <entitas>_sk  (INTEGER, hasil row_number() — bukan ID dari sumber)
+--   * natural key    : ID bisnis dari sumber (nim | product_id | kode wilayah) disimpan, tapi bukan PK
+--   * SCD type       : satu tipe per dimensi + alasan satu baris
+--   * Type 2         : valid_from, valid_to, is_current
+-- ============================================================
+
+-- TODO: buat dimensi entitas utama untuk topikmu.
+-- Contoh bentuk (T3 — ganti sesuai topikmu):
+--
+-- CREATE OR REPLACE TABLE dim_wilayah AS
+-- SELECT row_number() OVER (ORDER BY kode) AS wilayah_sk,   -- surrogate key
+--        kode AS natural_key,                               -- kunci bisnis dari sumber
+--        desa, kecamatan, kabkot, provinsi,
+--        DATE '2026-01-01' AS valid_from,                   -- Type 2
+--        DATE '9999-12-31' AS valid_to,
+--        TRUE AS is_current
+-- FROM ...
+-- UNION ALL SELECT -1, 'UNKNOWN', ... ;                      -- anggota Unknown selalu ada

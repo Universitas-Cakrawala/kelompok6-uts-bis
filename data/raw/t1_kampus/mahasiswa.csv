@@ -1,0 +1,2701 @@
+nim,nama,angkatan,prodi,status,kota_asal,tanggal_masuk
+2210001,Dur Wulandari,2022,Sains Data,lulus,Makassar,2022-08-01
+2210002,Bal Pratama,2022,Sains Data,lulus,Jakarta,2022-08-01
+2210003,Man Anggraini,2022,Sains Data,cuti,Makassar,2022-08-01
+2210004,Tor Lestari,2022,Sains Data,do,Bandung,2022-08-01
+2210005,Can Rahmawati,2022,Sains Data,Cuti,Bandung,2022-08-01
+2210006,Rut Putra,2022,Sains Data,Lulus,Semarang,2022-08-01
+2210007,Dad Pratama,2022,Sains Data,cuti,Medan,2022-08-01
+2210008,Hiy Kusuma,2022,Sains Data,do,Surabaya,2022-08-01
+2210009,Tay Kusuma,2022,Sains Data,AKTIF,Medan,2022-08-01
+2210010,Bog Nugroho,2022,Sains Data,lulus,Bandung,2022-08-01
+2210011,Lar Ramadhan,2022,Sains Data,Lulus,Medan,2022-08-01
+2210012,Gim Maulana,2022,Sains Data,Aktif,Semarang,2022-08-01
+2210013,Jot Lestari,2022,Sains Data,cuti,Yogyakarta,2022-08-01
+2210014,Met Pratama,2022,Sains Data,aktif,Jakarta,2022-08-01
+2210015,Aol Hidayat,2022,Sains Data,Aktif,Kupang,2022-08-01
+2210016,Mis Wulandari,2022,Sains Data,AKTIF,Semarang,2022-08-01
+2210017,Tip Wijaya,2022,Sains Data,lulus,Bandung,2022-08-01
+2210018,Fit Maulana,2022,Sains Data,AKTIF,Bandung,2022-08-01
+2210019,Had Sari,2022,Sains Data,Lulus,Bandung,2022-08-01
+2210020,Dok Putra,2022,Sains Data,aktif,Jakarta,2022-08-01
+2210021,Ham Anggraini,2022,Sains Data,Aktif,,2022-08-01
+2210022,Rer Pratama,2022,Sains Data,AKTIF,Medan,2022-08-01
+2210023,Red Kusuma,2022,Sains Data,Cuti,Yogyakarta,2022-08-01
+2210024,Bad Wijaya,,Sains Data,lulus,Kupang,2022-08-01
+2210025,Hak Sari,2022,Sains Data,Cuti,Yogyakarta,2022-08-01
+2210026,Cak Maulana,2022,Sains Data,Aktif,Medan,2022-08-01
+2210027,Fim Firdaus,2022,Sains Data,lulus,Semarang,2022-08-01
+2210028,Cas Firdaus,2022,Sains Data,do,Medan,2022-08-01
+2210029,Kow Pratama,2022,Sains Data,Cuti,Semarang,2022-08-01
+2210030,Tup Rahmawati,2022,Sains Data,cuti,Bandung,2022-08-01
+2210031,Rop Nugroho,2022,Sains Data,do,Surabaya,2022-08-01
+2210032,Fam Firdaus,2022,Sains Data,Lulus,Surabaya,2022-08-01
+2210033,Mag Lestari,2022,Sains Data,AKTIF,Semarang,2022-08-01
+2210034,Bar Ramadhan,2022,Sains Data,lulus,Medan,2022-08-01
+2210035,Eis Sari,2022,Sains Data,Cuti,Kupang,2022-08-01
+2210036,Sob Putra,2022,Sains Data,do,Makassar,2022-08-01
+2210037,Pog Nugroho,2022,Sains Data,Lulus,Yogyakarta,2022-08-01
+2210038,Air Anggraini,2022,Sains Data,Aktif,Bandung,2022-08-01
+2210039,Hot Sari,2022,Sains Data,cuti,Medan,2022-08-01
+2210040,Leh Wulandari,2022,Sains Data,Aktif,Semarang,2022-08-01
+2210041,Dad Wulandari,,Sains Data,Cuti,Semarang,2022-08-01
+2210042,Neg Anggraini,2022,Sains Data,Cuti,Makassar,2022-08-01
+2210043,Haw Saputra,2022,Sains Data,cuti,Jakarta,2022-08-01
+2210044,Nab Nugroho,2022,Sains Data,aktif,,2022-08-01
+2210045,Ruw Firdaus,2022,Sains Data,cuti,Makassar,2022-08-01
+2210046,Eus Wijaya,2022,Sains Data,lulus,Kupang,2022-08-01
+2210047,Rum Wijaya,2022,Sains Data,aktif,Bandung,2022-08-01
+2210048,Log Sari,2022,Sains Data,AKTIF,Bandung,2022-08-01
+2210049,Neh Rahmawati,2022,Sains Data,do,Medan,2022-08-01
+2210050,Tit Firdaus,2022,Sains Data,cuti,Makassar,2022-08-01
+2210051,Eap Firdaus,2022,Sains Data,cuti,Kupang,2022-08-01
+2210052,Tig Rahmawati,2022,Sains Data,AKTIF,Yogyakarta,2022-08-01
+2210053,Aop Firdaus,2022,Sains Data,lulus,Yogyakarta,2022-08-01
+2210054,Aen Rahmawati,2022,Sains Data,lulus,Surabaya,2022-08-01
+2210055,Suk Saputra,2022,Sains Data,aktif,Jakarta,2022-08-01
+2210056,Iah Pratama,2022,Sains Data,do,Semarang,2022-08-01
+2210057,Now Hidayat,2022,Sains Data,do,Semarang,2022-08-01
+2210058,Aot Hidayat,2022,Sains Data,AKTIF,Surabaya,2022-08-01
+2210059,Hik Nugroho,2022,Sains Data,Cuti,Medan,2022-08-01
+2210060,Kew Wijaya,2022,Sains Data,lulus,Semarang,2022-08-01
+2210061,Low Nugroho,2022,Sains Data,aktif,Kupang,2022-08-01
+2210062,Sil Hidayat,2022,Sains Data,lulus,Jakarta,2022-08-01
+2210063,Een Maulana,2022,Sains Data,Lulus,Medan,2022-08-01
+2210064,How Anggraini,2022,Sains Data,cuti,Kupang,2022-08-01
+2210065,Ain Nugroho,2022,Sains Data,cuti,Semarang,2022-08-01
+2210066,Lus Saputra,2022,Sains Data,do,Bandung,2022-08-01
+2210067,Wob Sari,2022,Sains Data,Cuti,Yogyakarta,2022-08-01
+2210068,Big Saputra,2022,Sains Data,Lulus,Makassar,2022-08-01
+2210069,Jun Hidayat,2022,Sains Data,lulus,Kupang,2022-08-01
+2210070,Lug Wijaya,2022,Sains Data,aktif,Yogyakarta,2022-08-01
+2210071,Nuy Ramadhan,2022,Sains Data,Aktif,Yogyakarta,2022-08-01
+2210072,Wel Saputra,2022,Sains Data,lulus,Kupang,2022-08-01
+2210073,Juk Maulana,2022,Sains Data,lulus,Bandung,2022-08-01
+2210074,Iut Nugroho,2022,Sains Data,Lulus,Makassar,2022-08-01
+2210075,Kel Sari,2022,Sains Data,AKTIF,Jakarta,2022-08-01
+2210076,Jol Lestari,2022,Sains Data,Lulus,Bandung,2022-08-01
+2210077,Nes Rahmawati,2022,Sains Data,aktif,Jakarta,2022-08-01
+2210078,Fod Putra,2022,Sains Data,AKTIF,Kupang,2022-08-01
+2210079,Lom Nugroho,2022,Sains Data,cuti,Jakarta,2022-08-01
+2210080,Kut Firdaus,2022,Sains Data,Aktif,Semarang,2022-08-01
+2210081,Den Wulandari,2022,Sains Data,AKTIF,Kupang,2022-08-01
+2210082,Bor Pratama,2022,Sains Data,cuti,Kupang,2022-08-01
+2210083,Nel Rahmawati,2022,Sains Data,lulus,Semarang,2022-08-01
+2210084,Gim Sari,2022,Sains Data,Cuti,Semarang,2022-08-01
+2210085,Wol Anggraini,2022,Sains Data,aktif,Jakarta,2022-08-01
+2210086,Biy Wulandari,2022,Sains Data,Aktif,Bandung,2022-08-01
+2210087,Wib Putra,2022,Sains Data,do,Surabaya,2022-08-01
+2210088,Gul Hidayat,2022,Sains Data,aktif,Makassar,2022-08-01
+2210089,Jit Ramadhan,2022,Sains Data,aktif,Bandung,2022-08-01
+2210090,Hag Wulandari,2022,Sains Data,cuti,Medan,2022-08-01
+2210091,Eiw Pratama,2022,Sains Data,Lulus,Jakarta,2022-08-01
+2210092,Pig Rahmawati,2022,Sains Data,Lulus,Surabaya,2022-08-01
+2210093,Kis Wulandari,2022,Sains Data,Lulus,,2022-08-01
+2210094,Baw Sari,2022,Sains Data,Lulus,Bandung,2022-08-01
+2210095,Ses Sari,2022,Sains Data,Cuti,Jakarta,2022-08-01
+2210096,Lap Lestari,2022,Sains Data,aktif,Surabaya,2022-08-01
+2210097,Fes Putra,2022,Sains Data,cuti,Kupang,2022-08-01
+2210098,Hes Hidayat,2022,Sains Data,aktif,Surabaya,2022-08-01
+2210099,Muk Maulana,2022,Sains Data,lulus,Jakarta,2022-08-01
+2210100,Sur Pratama,2022,Sains Data,do,Jakarta,2022-08-01
+2210101,Cim Firdaus,2022,Sains Data,AKTIF,Bandung,2022-08-01
+2210102,Hol Hidayat,2022,Sains Data,Lulus,Kupang,2022-08-01
+2210103,Cap Lestari,2022,Sains Data,Cuti,Yogyakarta,2022-08-01
+2210104,Rum Maulana,2022,Sains Data,AKTIF,Kupang,2022-08-01
+2210105,Sir Saputra,2022,Sains Data,lulus,Bandung,2022-08-01
+2210106,Kal Rahmawati,2022,Sains Data,lulus,Medan,2022-08-01
+2210107,Pum Sari,2022,Sains Data,cuti,Bandung,2022-08-01
+2210108,Tog Wulandari,2022,Sains Data,AKTIF,Medan,2022-08-01
+2210109,Yow Ramadhan,2022,Sains Data,AKTIF,Semarang,2022-08-01
+2210110,May Nugroho,,Sains Data,AKTIF,Makassar,2022-08-01
+2210111,Iil Wijaya,2022,Sains Data,Lulus,Makassar,2022-08-01
+2210112,Yir Putra,2022,Sains Data,do,Yogyakarta,2022-08-01
+2210113,Kar Hidayat,2022,Sains Data,aktif,Yogyakarta,2022-08-01
+2210114,Beg Sari,2022,Sains Data,cuti,Kupang,2022-08-01
+2210115,Fan Pratama,2022,Sains Data,AKTIF,Surabaya,2022-08-01
+2210116,Kom Lestari,2022,Sains Data,Lulus,Kupang,2022-08-01
+2210117,Hem Kusuma,2022,Sains Data,cuti,Jakarta,2022-08-01
+2210118,Niw Saputra,2022,Sains Data,AKTIF,Kupang,2022-08-01
+2210119,Men Wijaya,2022,Sains Data,AKTIF,Bandung,2022-08-01
+2210120,Lom Maulana,2022,Sains Data,Cuti,Surabaya,2022-08-01
+2210121,Aip Kusuma,2022,Sains Data,lulus,Jakarta,2022-08-01
+2210122,Aes Saputra,2022,Sains Data,lulus,Yogyakarta,2022-08-01
+2210123,Iub Anggraini,2022,Sains Data,lulus,Bandung,2022-08-01
+2210124,Dur Firdaus,,Sains Data,aktif,Makassar,2022-08-01
+2210125,Ray Wulandari,2022,Sains Data,AKTIF,Surabaya,2022-08-01
+2210126,Mad Saputra,2022,Sains Data,AKTIF,Kupang,2022-08-01
+2210127,Pun Sari,2022,Sains Data,aktif,Kupang,2022-08-01
+2210128,Bug Maulana,2022,Sains Data,AKTIF,Yogyakarta,2022-08-01
+2210129,Kir Sari,2022,Sains Data,cuti,Kupang,2022-08-01
+2210130,Gig Pratama,2022,Sains Data,cuti,Yogyakarta,2022-08-01
+2210131,Mos Nugroho,2022,Sains Data,Lulus,Makassar,2022-08-01
+2210132,Yik Putra,2022,Sains Data,Lulus,Jakarta,2022-08-01
+2210133,Aug Ramadhan,2022,Sains Data,Aktif,Jakarta,2022-08-01
+2210134,Mun Putra,2022,Sains Data,Cuti,Makassar,2022-08-01
+2210135,Wuy Saputra,2022,Sains Data,Lulus,Surabaya,2022-08-01
+2210136,Bip Pratama,2022,Sains Data,lulus,Jakarta,2022-08-01
+2210137,Juk Pratama,2022,Sains Data,aktif,Makassar,2022-08-01
+2210138,Pip Kusuma,2022,Sains Data,Cuti,Semarang,2022-08-01
+2210139,Mop Firdaus,2022,Sains Data,cuti,Makassar,2022-08-01
+2210140,Wab Nugroho,2022,Sains Data,Cuti,Jakarta,2022-08-01
+2210141,Bek Saputra,2022,Sains Data,lulus,Makassar,2022-08-01
+2210142,Iok Hidayat,2022,Sains Data,lulus,Medan,2022-08-01
+2210143,Dep Kusuma,2022,Sains Data,Lulus,Semarang,2022-08-01
+2210144,Duh Nugroho,2022,Sains Data,cuti,Yogyakarta,2022-08-01
+2210145,Hul Saputra,2022,Sains Data,Lulus,Kupang,2022-08-01
+2210146,Rip Hidayat,2022,Sains Data,Lulus,Makassar,2022-08-01
+2210147,Sat Maulana,2022,Sains Data,aktif,Surabaya,2022-08-01
+2210148,Nus Firdaus,2022,Sains Data,Lulus,Bandung,2022-08-01
+2210149,Jes Hidayat,2022,Sains Data,cuti,Yogyakarta,2022-08-01
+2210150,Duk Anggraini,2022,Sains Data,aktif,Yogyakarta,2022-08-01
+2210151,Lun Wijaya,2022,Sains Data,Lulus,Bandung,2022-08-01
+2210152,Eat Rahmawati,2022,Sains Data,do,Yogyakarta,2022-08-01
+2210153,Giy Wulandari,2022,Sains Data,do,Jakarta,2022-08-01
+2210154,Hus Anggraini,2022,Sains Data,AKTIF,Semarang,2022-08-01
+2210155,Did Maulana,2022,Sains Data,do,Yogyakarta,2022-08-01
+2210156,Wew Pratama,2022,Sains Data,do,Bandung,2022-08-01
+2210157,Nis Putra,2022,Sains Data,lulus,Kupang,2022-08-01
+2210158,Juy Hidayat,2022,Sains Data,Aktif,Medan,2022-08-01
+2210159,Yuk Lestari,2022,Sains Data,lulus,Surabaya,2022-08-01
+2210160,Ail Firdaus,2022,Sains Data,aktif,Yogyakarta,2022-08-01
+2210161,Gab Ramadhan,2022,Sains Data,do,Surabaya,2022-08-01
+2210162,Fuk Putra,2022,Sains Data,do,Bandung,2022-08-01
+2210163,Rak Wulandari,2022,Sains Data,do,Semarang,2022-08-01
+2210164,Juy Wijaya,2022,Sains Data,aktif,Surabaya,2022-08-01
+2210165,Dad Saputra,2022,Sains Data,Aktif,Semarang,2022-08-01
+2210166,Ceb Lestari,2022,Sains Data,Lulus,Surabaya,2022-08-01
+2210167,Det Saputra,2022,Sains Data,AKTIF,Semarang,2022-08-01
+2210168,Fun Firdaus,2022,Sains Data,cuti,Bandung,2022-08-01
+2210169,Jul Anggraini,2022,Sains Data,Aktif,Jakarta,2022-08-01
+2210170,Aok Sari,2022,Sains Data,cuti,Makassar,2022-08-01
+2210171,Tis Firdaus,2022,Sains Data,cuti,Bandung,2022-08-01
+2210172,God Lestari,2022,Sains Data,do,Jakarta,2022-08-01
+2210173,Sat Ramadhan,2022,Sains Data,cuti,Yogyakarta,2022-08-01
+2210174,Yes Pratama,2022,Sains Data,cuti,Makassar,2022-08-01
+2210175,Iag Rahmawati,2022,Sains Data,Lulus,Kupang,2022-08-01
+2210176,Aop Hidayat,2022,Sains Data,aktif,Surabaya,2022-08-01
+2210177,Nel Anggraini,2022,Sains Data,Cuti,Bandung,2022-08-01
+2210178,Fud Lestari,2022,Sains Data,Cuti,Surabaya,2022-08-01
+2210179,Wak Wulandari,2022,Sains Data,aktif,Makassar,2022-08-01
+2210180,Reh Maulana,2022,Sains Data,Lulus,Kupang,2022-08-01
+2210181,Fog Nugroho,2022,Sains Data,Lulus,Bandung,2022-08-01
+2210182,Boh Sari,2022,Sains Data,Aktif,Jakarta,2022-08-01
+2210183,Lah Hidayat,2022,Sains Data,lulus,Medan,2022-08-01
+2210184,Aeb Pratama,2022,Sains Data,Cuti,Yogyakarta,2022-08-01
+2210185,Eos Pratama,2022,Sains Data,lulus,Makassar,2022-08-01
+2210186,Suw Ramadhan,2022,Sains Data,Aktif,Kupang,2022-08-01
+2210187,Hit Hidayat,2022,Sains Data,aktif,Bandung,2022-08-01
+2210188,Kom Anggraini,2022,Sains Data,Cuti,Kupang,2022-08-01
+2210189,Cuw Maulana,2022,Sains Data,lulus,Bandung,2022-08-01
+2210190,Eay Nugroho,2022,Sains Data,cuti,Medan,2022-08-01
+2210191,Fob Nugroho,2022,Sains Data,aktif,Kupang,2022-08-01
+2210192,Gos Wulandari,2022,Sains Data,Cuti,Medan,2022-08-01
+2210193,Ful Wulandari,2022,Sains Data,Lulus,Surabaya,2022-08-01
+2210194,Yak Anggraini,2022,Sains Data,lulus,Surabaya,2022-08-01
+2210195,Wod Wijaya,2022,Sains Data,AKTIF,Jakarta,2022-08-01
+2210196,Wuh Sari,,Sains Data,cuti,Makassar,2022-08-01
+2210197,Mer Wulandari,2022,Sains Data,Cuti,Makassar,2022-08-01
+2210198,Eob Firdaus,2022,Sains Data,cuti,Makassar,2022-08-01
+2210199,Iay Sari,2022,Sains Data,aktif,Jakarta,2022-08-01
+2210200,Ben Putra,2022,Sains Data,Lulus,Bandung,2022-08-01
+2210201,Rum Maulana,2022,Sains Data,do,Surabaya,2022-08-01
+2210202,Neh Wijaya,2022,Sains Data,lulus,Bandung,2022-08-01
+2210203,Aob Kusuma,2022,Sains Data,lulus,Medan,2022-08-01
+2210204,Ros Anggraini,2022,Sains Data,aktif,Bandung,2022-08-01
+2210205,Nek Maulana,2022,Sains Data,Cuti,Semarang,2022-08-01
+2210206,Teh Rahmawati,2022,Sains Data,Lulus,Makassar,2022-08-01
+2210207,Hap Maulana,2022,Sains Data,AKTIF,Bandung,2022-08-01
+2210208,Dod Wijaya,,Sains Data,AKTIF,Bandung,2022-08-01
+2210209,Aom Pratama,2022,Sains Data,Lulus,Medan,2022-08-01
+2210210,Koy Saputra,2022,Sains Data,cuti,Bandung,2022-08-01
+2210211,Mok Sari,2022,Sains Data,do,Makassar,2022-08-01
+2210212,Nil Wulandari,2022,Sains Data,Cuti,Jakarta,2022-08-01
+2210213,Net Putra,2022,Sains Data,cuti,Kupang,2022-08-01
+2210214,Cem Maulana,2022,Sains Data,AKTIF,Bandung,2022-08-01
+2210215,Pah Firdaus,2022,Sains Data,aktif,Kupang,2022-08-01
+2210216,Yem Anggraini,2022,Sains Data,do,Bandung,2022-08-01
+2210217,Ses Anggraini,2022,Sains Data,lulus,Makassar,2022-08-01
+2210218,Wew Pratama,2022,Sains Data,do,Medan,2022-08-01
+2210219,Mab Nugroho,2022,Sains Data,Lulus,Jakarta,2022-08-01
+2210220,Eor Anggraini,2022,Sains Data,do,Yogyakarta,2022-08-01
+2210221,Dur Anggraini,2022,Sains Data,Lulus,Bandung,2022-08-01
+2210222,Dub Pratama,2022,Sains Data,aktif,Surabaya,2022-08-01
+2210223,Guh Saputra,2022,Sains Data,Aktif,Yogyakarta,2022-08-01
+2210224,Hul Sari,2022,Sains Data,Lulus,Medan,2022-08-01
+2210225,Mos Hidayat,2022,Sains Data,Cuti,Yogyakarta,2022-08-01
+2210226,Iab Firdaus,2022,Sains Data,do,Yogyakarta,2022-08-01
+2210227,Ear Putra,2022,Sains Data,aktif,Semarang,2022-08-01
+2210228,Lim Rahmawati,2022,Sains Data,Lulus,Makassar,2022-08-01
+2210229,Fed Putra,2022,Sains Data,do,Medan,2022-08-01
+2210230,Gur Nugroho,2022,Sains Data,cuti,Yogyakarta,2022-08-01
+2210231,Ceh Anggraini,2022,Sains Data,aktif,Surabaya,2022-08-01
+2210232,Nir Wijaya,2022,Sains Data,do,Yogyakarta,2022-08-01
+2210233,Wup Nugroho,2022,Sains Data,AKTIF,Jakarta,2022-08-01
+2210234,Miy Saputra,2022,Sains Data,lulus,Kupang,2022-08-01
+2210235,Jet Wijaya,2022,Sains Data,Aktif,Kupang,2022-08-01
+2210236,Lem Maulana,2022,Sains Data,lulus,Jakarta,2022-08-01
+2210237,Tul Hidayat,2022,Sains Data,lulus,Semarang,2022-08-01
+2210238,Wem Putra,2022,Sains Data,Aktif,Makassar,2022-08-01
+2210239,Lap Pratama,2022,Sains Data,Aktif,Surabaya,2022-08-01
+2210240,Kiy Rahmawati,2022,Sains Data,aktif,Semarang,2022-08-01
+2210241,Ear Sari,2022,Sains Data,Lulus,,2022-08-01
+2210242,Til Wijaya,2022,Sains Data,cuti,Yogyakarta,2022-08-01
+2210243,Muh Ramadhan,2022,Sains Data,do,Yogyakarta,2022-08-01
+2210244,Top Kusuma,2022,Sains Data,do,Bandung,2022-08-01
+2210245,Leg Wijaya,2022,Sains Data,cuti,Semarang,2022-08-01
+2210246,Sit Anggraini,2022,Sains Data,Lulus,Jakarta,2022-08-01
+2210247,Wum Maulana,2022,Sains Data,aktif,Yogyakarta,2022-08-01
+2210248,Jet Putra,2022,Sains Data,Cuti,Medan,2022-08-01
+2210249,Pig Wulandari,2022,Sains Data,cuti,Jakarta,2022-08-01
+2210250,Pip Putra,2022,Sains Data,lulus,Semarang,2022-08-01
+2210251,Eiw Rahmawati,2022,Sains Data,aktif,Semarang,2022-08-01
+2210252,Kad Saputra,2022,Sains Data,Lulus,Semarang,2022-08-01
+2210253,Cuk Putra,2022,Sains Data,do,Surabaya,2022-08-01
+2210254,Kan Sari,2022,Sains Data,Cuti,Bandung,2022-08-01
+2210255,Jam Wijaya,,Sains Data,lulus,Semarang,2022-08-01
+2210256,Guh Kusuma,2022,Sains Data,AKTIF,Jakarta,2022-08-01
+2210257,Hir Hidayat,2022,Sains Data,Aktif,Yogyakarta,2022-08-01
+2210258,Tek Putra,2022,Sains Data,Cuti,Kupang,2022-08-01
+2210259,Jip Sari,,Sains Data,do,Semarang,2022-08-01
+2210260,Reh Wulandari,2022,Sains Data,do,Semarang,2022-08-01
+2210261,Yid Kusuma,2022,Sains Data,lulus,,2022-08-01
+2210262,Hug Maulana,2022,Sains Data,AKTIF,Bandung,2022-08-01
+2210263,Rah Saputra,2022,Sains Data,aktif,Yogyakarta,2022-08-01
+2210264,Jas Firdaus,2022,Sains Data,cuti,Kupang,2022-08-01
+2210265,Kuw Saputra,2022,Sains Data,do,Semarang,2022-08-01
+2210266,Eis Hidayat,2022,Sains Data,lulus,Jakarta,2022-08-01
+2210267,Ged Anggraini,2022,Sains Data,AKTIF,Bandung,2022-08-01
+2210268,Puy Lestari,2022,Sains Data,AKTIF,Makassar,2022-08-01
+2210269,Soy Sari,2022,Sains Data,do,Bandung,2022-08-01
+2210270,Pew Pratama,2022,Sains Data,Cuti,Semarang,2022-08-01
+2210271,Cep Firdaus,,Sains Data,lulus,Jakarta,2022-08-01
+2210272,Yin Pratama,2022,Sains Data,aktif,Surabaya,2022-08-01
+2210273,Eim Anggraini,2022,Sains Data,aktif,Medan,2022-08-01
+2210274,Dem Rahmawati,2022,Sains Data,do,Jakarta,2022-08-01
+2210275,Ceb Putra,2022,Sains Data,do,Kupang,2022-08-01
+2210276,Ban Hidayat,2022,Sains Data,AKTIF,Jakarta,2022-08-01
+2210277,Sip Pratama,2022,Sains Data,Cuti,Bandung,2022-08-01
+2210278,Fug Ramadhan,2022,Sains Data,lulus,Kupang,2022-08-01
+2210279,Tur Kusuma,2022,Sains Data,Cuti,Semarang,2022-08-01
+2210280,Pas Kusuma,2022,Sains Data,lulus,Semarang,2022-08-01
+2210281,Pid Wulandari,2022,Sains Data,AKTIF,,2022-08-01
+2210282,Eel Nugroho,2022,Sains Data,Aktif,Semarang,2022-08-01
+2210283,Yud Lestari,2022,Sains Data,Aktif,Jakarta,2022-08-01
+2210284,Gop Hidayat,2022,Sains Data,aktif,Jakarta,2022-08-01
+2210285,Rog Wulandari,2022,Sains Data,Lulus,Makassar,2022-08-01
+2210286,Ian Sari,2022,Sains Data,Cuti,Bandung,2022-08-01
+2210287,Rur Nugroho,2022,Sains Data,Cuti,Yogyakarta,2022-08-01
+2210288,Tom Maulana,2022,Sains Data,lulus,Surabaya,2022-08-01
+2210289,Yot Kusuma,2022,Sains Data,Lulus,Semarang,2022-08-01
+2210290,Nen Pratama,2022,Sains Data,cuti,Surabaya,2022-08-01
+2210291,Tih Kusuma,,Sains Data,Lulus,Medan,2022-08-01
+2210292,Wap Sari,2022,Sains Data,lulus,Jakarta,2022-08-01
+2210293,Ris Sari,2022,Sains Data,do,Makassar,2022-08-01
+2210294,Cod Anggraini,2022,Sains Data,Cuti,Semarang,2022-08-01
+2210295,Pop Firdaus,2022,Sains Data,do,Makassar,2022-08-01
+2210296,Deh Wulandari,2022,Sains Data,lulus,Surabaya,2022-08-01
+2210297,Kok Wulandari,2022,Sains Data,do,Makassar,2022-08-01
+2210298,Bed Hidayat,2022,Sains Data,lulus,Kupang,2022-08-01
+2210299,Bok Wulandari,2022,Sains Data,aktif,Makassar,2022-08-01
+2210300,Lah Maulana,2022,Sains Data,Aktif,Kupang,2022-08-01
+2310001,Gol Firdaus,2023,Sains Data,do,Jakarta,2023-08-01
+2310002,Juk Hidayat,2023,Sains Data,lulus,Semarang,2023-08-01
+2310003,Tun Ramadhan,2023,Sains Data,do,Kupang,2023-08-01
+2310004,Tub Saputra,2023,Sains Data,Lulus,Bandung,2023-08-01
+2310005,Bog Nugroho,2023,Sains Data,Aktif,Medan,2023-08-01
+2310006,Sod Hidayat,2023,Sains Data,lulus,Medan,2023-08-01
+2310007,Fom Sari,2023,Sains Data,cuti,Bandung,2023-08-01
+2310008,Hol Lestari,2023,Sains Data,Aktif,Makassar,2023-08-01
+2310009,Nek Kusuma,2023,Sains Data,AKTIF,Bandung,2023-08-01
+2310010,Mug Pratama,2023,Sains Data,Lulus,Bandung,2023-08-01
+2310011,Dak Rahmawati,2023,Sains Data,cuti,Surabaya,2023-08-01
+2310012,Cut Wijaya,2023,Sains Data,lulus,Yogyakarta,2023-08-01
+2310013,Eeb Rahmawati,2023,Sains Data,Cuti,Medan,2023-08-01
+2310014,Kep Kusuma,2023,Sains Data,AKTIF,Surabaya,2023-08-01
+2310015,Lap Wijaya,2023,Sains Data,AKTIF,Makassar,2023-08-01
+2310016,Eoh Kusuma,2023,Sains Data,lulus,Bandung,2023-08-01
+2310017,Beg Wijaya,2023,Sains Data,aktif,Yogyakarta,2023-08-01
+2310018,Yam Maulana,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310019,Jat Putra,2023,Sains Data,Lulus,Surabaya,2023-08-01
+2310020,Reg Hidayat,2023,Sains Data,AKTIF,Medan,2023-08-01
+2310021,Kok Maulana,2023,Sains Data,aktif,Bandung,2023-08-01
+2310022,Bol Hidayat,2023,Sains Data,do,Bandung,2023-08-01
+2310023,Far Kusuma,2023,Sains Data,do,Semarang,2023-08-01
+2310024,Eah Wijaya,2023,Sains Data,Cuti,Bandung,2023-08-01
+2310025,Cob Sari,2023,Sains Data,Aktif,Kupang,2023-08-01
+2310026,Neh Maulana,2023,Sains Data,AKTIF,Medan,2023-08-01
+2310027,Ais Wijaya,2023,Sains Data,do,Makassar,2023-08-01
+2310028,Doy Sari,2023,Sains Data,AKTIF,Kupang,2023-08-01
+2310029,Jog Wulandari,2023,Sains Data,cuti,Yogyakarta,2023-08-01
+2310030,Eik Hidayat,2023,Sains Data,Lulus,Surabaya,2023-08-01
+2310031,Eet Rahmawati,2023,Sains Data,Lulus,Semarang,2023-08-01
+2310032,Doy Hidayat,2023,Sains Data,lulus,Yogyakarta,2023-08-01
+2310033,Fuy Pratama,2023,Sains Data,cuti,Medan,2023-08-01
+2310034,Sur Anggraini,2023,Sains Data,do,Medan,2023-08-01
+2310035,Auh Rahmawati,2023,Sains Data,lulus,Jakarta,2023-08-01
+2310036,Get Wulandari,2023,Sains Data,Aktif,Kupang,2023-08-01
+2310037,Aey Anggraini,2023,Sains Data,AKTIF,Medan,2023-08-01
+2310038,Fed Putra,2023,Sains Data,do,Makassar,2023-08-01
+2310039,Bow Pratama,2023,Sains Data,Cuti,Makassar,2023-08-01
+2310040,Rep Wijaya,2023,Sains Data,Aktif,Makassar,2023-08-01
+2310041,Hoh Maulana,2023,Sains Data,Lulus,Yogyakarta,2023-08-01
+2310042,Kut Anggraini,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310043,Rip Hidayat,2023,Sains Data,Cuti,Semarang,2023-08-01
+2310044,Lat Nugroho,2023,Sains Data,lulus,Medan,2023-08-01
+2310045,Ras Ramadhan,2023,Sains Data,aktif,Makassar,2023-08-01
+2310046,Dar Maulana,2023,Sains Data,Cuti,Makassar,2023-08-01
+2310047,Mel Hidayat,2023,Sains Data,Aktif,Kupang,2023-08-01
+2310048,Mep Ramadhan,2023,Sains Data,Lulus,Jakarta,2023-08-01
+2310049,Eag Kusuma,2023,Sains Data,AKTIF,Surabaya,2023-08-01
+2310050,Lot Hidayat,2023,Sains Data,Lulus,Makassar,2023-08-01
+2310051,Nad Kusuma,2023,Sains Data,do,Semarang,2023-08-01
+2310052,Woh Saputra,2023,Sains Data,Lulus,Yogyakarta,2023-08-01
+2310053,Dok Ramadhan,,Sains Data,Aktif,Makassar,2023-08-01
+2310054,Hib Kusuma,2023,Sains Data,Cuti,Surabaya,2023-08-01
+2310055,Few Anggraini,2023,Sains Data,cuti,Jakarta,2023-08-01
+2310056,Per Firdaus,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310057,Ser Firdaus,2023,Sains Data,aktif,Kupang,2023-08-01
+2310058,Yis Maulana,2023,Sains Data,lulus,Surabaya,2023-08-01
+2310059,Loh Anggraini,2023,Sains Data,cuti,Jakarta,2023-08-01
+2310060,Yid Pratama,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310061,Tib Sari,2023,Sains Data,do,Semarang,2023-08-01
+2310062,Net Pratama,2023,Sains Data,AKTIF,Surabaya,2023-08-01
+2310063,Aat Firdaus,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310064,Kom Nugroho,2023,Sains Data,AKTIF,Yogyakarta,2023-08-01
+2310065,Yal Wulandari,2023,Sains Data,AKTIF,Bandung,2023-08-01
+2310066,Hir Lestari,2023,Sains Data,AKTIF,Semarang,2023-08-01
+2310067,Ceb Anggraini,2023,Sains Data,lulus,Yogyakarta,2023-08-01
+2310068,Ier Anggraini,2023,Sains Data,Aktif,Makassar,2023-08-01
+2310069,Dog Hidayat,2023,Sains Data,lulus,Jakarta,2023-08-01
+2310070,Bak Ramadhan,2023,Sains Data,AKTIF,Bandung,2023-08-01
+2310071,Lob Sari,2023,Sains Data,Cuti,Medan,2023-08-01
+2310072,Bek Wijaya,2023,Sains Data,aktif,Bandung,2023-08-01
+2310073,Sed Saputra,2023,Sains Data,lulus,,2023-08-01
+2310074,Yik Ramadhan,2023,Sains Data,AKTIF,Yogyakarta,2023-08-01
+2310075,Jad Anggraini,2023,Sains Data,lulus,Surabaya,2023-08-01
+2310076,Joh Kusuma,2023,Sains Data,cuti,Semarang,2023-08-01
+2310077,Kod Lestari,2023,Sains Data,Aktif,Yogyakarta,2023-08-01
+2310078,Iat Putra,2023,Sains Data,Lulus,Makassar,2023-08-01
+2310079,Gol Firdaus,2023,Sains Data,Aktif,Surabaya,2023-08-01
+2310080,Dib Pratama,2023,Sains Data,Lulus,Yogyakarta,2023-08-01
+2310081,Tay Lestari,2023,Sains Data,aktif,Kupang,2023-08-01
+2310082,Aub Nugroho,2023,Sains Data,do,Makassar,2023-08-01
+2310083,Dew Sari,2023,Sains Data,Lulus,Semarang,2023-08-01
+2310084,Yor Kusuma,2023,Sains Data,Aktif,Bandung,2023-08-01
+2310085,Iem Maulana,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310086,Aem Kusuma,2023,Sains Data,Lulus,Medan,2023-08-01
+2310087,Rak Anggraini,2023,Sains Data,do,Surabaya,2023-08-01
+2310088,Yiw Wulandari,2023,Sains Data,do,Jakarta,2023-08-01
+2310089,Dow Ramadhan,2023,Sains Data,Aktif,Surabaya,2023-08-01
+2310090,Pul Saputra,2023,Sains Data,do,Semarang,2023-08-01
+2310091,Dul Lestari,2023,Sains Data,Cuti,,2023-08-01
+2310092,Hiy Saputra,2023,Sains Data,do,Surabaya,2023-08-01
+2310093,Siw Pratama,2023,Sains Data,aktif,Kupang,2023-08-01
+2310094,Tan Firdaus,2023,Sains Data,Aktif,Makassar,2023-08-01
+2310095,Kon Kusuma,2023,Sains Data,Lulus,Bandung,2023-08-01
+2310096,Jup Firdaus,2023,Sains Data,aktif,Jakarta,2023-08-01
+2310097,Pel Saputra,2023,Sains Data,do,Yogyakarta,2023-08-01
+2310098,Lak Wijaya,2023,Sains Data,Lulus,Semarang,2023-08-01
+2310099,Sek Putra,2023,Sains Data,aktif,Yogyakarta,2023-08-01
+2310100,Bil Kusuma,2023,Sains Data,Lulus,Kupang,2023-08-01
+2310101,Goh Wulandari,2023,Sains Data,AKTIF,Medan,2023-08-01
+2310102,Wuk Putra,2023,Sains Data,aktif,Medan,2023-08-01
+2310103,Fam Pratama,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310104,Tug Lestari,2023,Sains Data,aktif,Semarang,2023-08-01
+2310105,Lud Wijaya,2023,Sains Data,AKTIF,Bandung,2023-08-01
+2310106,Fak Maulana,2023,Sains Data,cuti,Surabaya,2023-08-01
+2310107,Muh Kusuma,2023,Sains Data,cuti,Medan,2023-08-01
+2310108,Wit Saputra,2023,Sains Data,Aktif,Makassar,2023-08-01
+2310109,Iak Kusuma,2023,Sains Data,aktif,Yogyakarta,2023-08-01
+2310110,Iem Wijaya,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310111,Mik Maulana,2023,Sains Data,do,Bandung,2023-08-01
+2310112,Don Sari,2023,Sains Data,lulus,Medan,2023-08-01
+2310113,Yiy Lestari,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310114,Wur Anggraini,2023,Sains Data,Cuti,Yogyakarta,2023-08-01
+2310115,Hik Maulana,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310116,Nom Rahmawati,2023,Sains Data,lulus,Yogyakarta,2023-08-01
+2310117,Jop Ramadhan,2023,Sains Data,Cuti,Medan,2023-08-01
+2310118,Dup Lestari,2023,Sains Data,Aktif,Semarang,2023-08-01
+2310119,Jin Wulandari,2023,Sains Data,Aktif,Yogyakarta,2023-08-01
+2310120,Yet Maulana,2023,Sains Data,cuti,Yogyakarta,2023-08-01
+2310121,Sek Rahmawati,2023,Sains Data,Lulus,Semarang,2023-08-01
+2310122,Dad Lestari,2023,Sains Data,aktif,Makassar,2023-08-01
+2310123,Eur Hidayat,2023,Sains Data,cuti,Semarang,2023-08-01
+2310124,Eit Nugroho,2023,Sains Data,Lulus,Kupang,2023-08-01
+2310125,Yid Lestari,,Sains Data,Cuti,Semarang,2023-08-01
+2310126,Aan Putra,2023,Sains Data,Aktif,Jakarta,2023-08-01
+2310127,Fed Kusuma,2023,Sains Data,cuti,Kupang,2023-08-01
+2310128,Pes Sari,2023,Sains Data,do,Bandung,2023-08-01
+2310129,Ded Anggraini,2023,Sains Data,aktif,Makassar,2023-08-01
+2310130,Nih Wulandari,2023,Sains Data,Cuti,Semarang,2023-08-01
+2310131,Mon Pratama,2023,Sains Data,Cuti,Kupang,2023-08-01
+2310132,Som Nugroho,2023,Sains Data,do,Yogyakarta,2023-08-01
+2310133,Com Wijaya,2023,Sains Data,lulus,Makassar,2023-08-01
+2310134,Cal Anggraini,2023,Sains Data,Lulus,Jakarta,2023-08-01
+2310135,Jik Pratama,2023,Sains Data,cuti,Kupang,2023-08-01
+2310136,Toh Hidayat,2023,Sains Data,aktif,Kupang,2023-08-01
+2310137,Sor Ramadhan,2023,Sains Data,Lulus,Semarang,2023-08-01
+2310138,Kas Wijaya,2023,Sains Data,Lulus,Surabaya,2023-08-01
+2310139,Yim Wijaya,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310140,Cud Kusuma,2023,Sains Data,Cuti,Medan,2023-08-01
+2310141,Ren Saputra,2023,Sains Data,do,Yogyakarta,2023-08-01
+2310142,Aay Rahmawati,2023,Sains Data,AKTIF,Bandung,2023-08-01
+2310143,Gur Anggraini,2023,Sains Data,Cuti,Medan,2023-08-01
+2310144,Eih Pratama,2023,Sains Data,aktif,Semarang,2023-08-01
+2310145,Pol Lestari,2023,Sains Data,do,Yogyakarta,2023-08-01
+2310146,Eeg Lestari,2023,Sains Data,do,Yogyakarta,2023-08-01
+2310147,Mer Saputra,2023,Sains Data,aktif,Medan,2023-08-01
+2310148,Aen Hidayat,2023,Sains Data,do,Surabaya,2023-08-01
+2310149,Top Putra,2023,Sains Data,Aktif,Bandung,2023-08-01
+2310150,Son Lestari,2023,Sains Data,lulus,Yogyakarta,2023-08-01
+2310151,Tom Kusuma,2023,Sains Data,Cuti,,2023-08-01
+2310152,Aew Rahmawati,2023,Sains Data,lulus,Semarang,2023-08-01
+2310153,Del Rahmawati,2023,Sains Data,Aktif,Surabaya,2023-08-01
+2310154,Nul Putra,2023,Sains Data,AKTIF,Kupang,2023-08-01
+2310155,Bid Anggraini,2023,Sains Data,AKTIF,Yogyakarta,2023-08-01
+2310156,Eaw Anggraini,2023,Sains Data,AKTIF,Semarang,2023-08-01
+2310157,Kir Rahmawati,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310158,Sun Hidayat,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310159,Yup Anggraini,2023,Sains Data,Aktif,Bandung,2023-08-01
+2310160,Sem Sari,2023,Sains Data,aktif,Makassar,2023-08-01
+2310161,Iay Saputra,2023,Sains Data,lulus,Bandung,2023-08-01
+2310162,Tat Ramadhan,2023,Sains Data,Cuti,Bandung,2023-08-01
+2310163,Mow Rahmawati,2023,Sains Data,AKTIF,Makassar,2023-08-01
+2310164,Eob Nugroho,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310165,Wob Sari,2023,Sains Data,lulus,Surabaya,2023-08-01
+2310166,Cab Nugroho,2023,Sains Data,aktif,Bandung,2023-08-01
+2310167,Yor Firdaus,2023,Sains Data,aktif,,2023-08-01
+2310168,Fed Firdaus,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310169,Nib Nugroho,2023,Sains Data,lulus,Semarang,2023-08-01
+2310170,Nob Rahmawati,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310171,Tem Wijaya,2023,Sains Data,Lulus,Yogyakarta,2023-08-01
+2310172,Sak Pratama,2023,Sains Data,aktif,Kupang,2023-08-01
+2310173,Reg Hidayat,2023,Sains Data,Aktif,Yogyakarta,2023-08-01
+2310174,Lom Hidayat,2023,Sains Data,Cuti,Yogyakarta,2023-08-01
+2310175,Yik Ramadhan,2023,Sains Data,Aktif,Jakarta,2023-08-01
+2310176,Gom Lestari,2023,Sains Data,do,,2023-08-01
+2310177,Yop Kusuma,2023,Sains Data,AKTIF,Medan,2023-08-01
+2310178,Jek Rahmawati,2023,Sains Data,Aktif,Jakarta,2023-08-01
+2310179,Eul Ramadhan,,Sains Data,do,Yogyakarta,2023-08-01
+2310180,Lin Sari,2023,Sains Data,aktif,Yogyakarta,2023-08-01
+2310181,Aog Putra,2023,Sains Data,Lulus,Surabaya,2023-08-01
+2310182,Gep Wijaya,2023,Sains Data,AKTIF,Surabaya,2023-08-01
+2310183,Tiy Maulana,2023,Sains Data,aktif,Yogyakarta,2023-08-01
+2310184,Col Wijaya,2023,Sains Data,Lulus,Semarang,2023-08-01
+2310185,Bew Firdaus,2023,Sains Data,AKTIF,Surabaya,2023-08-01
+2310186,Mow Maulana,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310187,Tiy Saputra,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310188,Tud Kusuma,2023,Sains Data,AKTIF,Makassar,2023-08-01
+2310189,Tap Rahmawati,2023,Sains Data,cuti,Surabaya,2023-08-01
+2310190,Ion Wijaya,2023,Sains Data,AKTIF,Semarang,2023-08-01
+2310191,Hut Putra,2023,Sains Data,cuti,Yogyakarta,2023-08-01
+2310192,Sir Sari,2023,Sains Data,do,Makassar,2023-08-01
+2310193,Bem Putra,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310194,Ser Wulandari,2023,Sains Data,Cuti,Semarang,2023-08-01
+2310195,Pus Nugroho,2023,Sains Data,Cuti,Semarang,2023-08-01
+2310196,Jiw Wijaya,2023,Sains Data,lulus,Surabaya,2023-08-01
+2310197,Deh Saputra,2023,Sains Data,do,Makassar,2023-08-01
+2310198,Gos Hidayat,2023,Sains Data,do,Surabaya,2023-08-01
+2310199,Cow Ramadhan,2023,Sains Data,Cuti,Medan,2023-08-01
+2310200,Ial Anggraini,2023,Sains Data,lulus,Surabaya,2023-08-01
+2310201,Rel Kusuma,2023,Sains Data,Cuti,Semarang,2023-08-01
+2310202,Cum Wulandari,2023,Sains Data,aktif,Semarang,2023-08-01
+2310203,Mah Anggraini,2023,Sains Data,do,Jakarta,2023-08-01
+2310204,Fid Hidayat,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310205,Eow Firdaus,2023,Sains Data,Aktif,Bandung,2023-08-01
+2310206,Iag Wijaya,2023,Sains Data,do,Surabaya,2023-08-01
+2310207,Piy Wijaya,2023,Sains Data,AKTIF,Yogyakarta,2023-08-01
+2310208,Ced Maulana,2023,Sains Data,aktif,Kupang,2023-08-01
+2310209,Ran Rahmawati,2023,Sains Data,AKTIF,Bandung,2023-08-01
+2310210,Jip Kusuma,2023,Sains Data,Cuti,Yogyakarta,2023-08-01
+2310211,Sed Wijaya,2023,Sains Data,aktif,Kupang,2023-08-01
+2310212,Wid Sari,2023,Sains Data,Aktif,Surabaya,2023-08-01
+2310213,Had Lestari,2023,Sains Data,Lulus,Jakarta,2023-08-01
+2310214,Hol Nugroho,2023,Sains Data,aktif,Semarang,2023-08-01
+2310215,Duh Kusuma,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310216,Map Firdaus,2023,Sains Data,Cuti,Bandung,2023-08-01
+2310217,Iow Wulandari,2023,Sains Data,Aktif,Jakarta,2023-08-01
+2310218,Lad Hidayat,2023,Sains Data,Lulus,Jakarta,2023-08-01
+2310219,Gih Firdaus,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310220,Him Maulana,2023,Sains Data,Cuti,Kupang,2023-08-01
+2310221,Lir Sari,2023,Sains Data,do,Kupang,2023-08-01
+2310222,Bup Wijaya,2023,Sains Data,lulus,Yogyakarta,2023-08-01
+2310223,Heb Ramadhan,,Sains Data,Lulus,Medan,2023-08-01
+2310224,Lus Saputra,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310225,Koy Wijaya,2023,Sains Data,cuti,Jakarta,2023-08-01
+2310226,Tuw Wijaya,2023,Sains Data,lulus,Jakarta,2023-08-01
+2310227,Nid Sari,2023,Sains Data,Cuti,Makassar,2023-08-01
+2310228,Niy Wijaya,2023,Sains Data,lulus,Kupang,2023-08-01
+2310229,Mub Sari,2023,Sains Data,aktif,Jakarta,2023-08-01
+2310230,Pah Kusuma,2023,Sains Data,aktif,Jakarta,2023-08-01
+2310231,Jik Wijaya,2023,Sains Data,Lulus,Jakarta,2023-08-01
+2310232,Yat Nugroho,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310233,Som Saputra,2023,Sains Data,aktif,Bandung,2023-08-01
+2310234,Cab Putra,2023,Sains Data,AKTIF,Makassar,2023-08-01
+2310235,Wod Lestari,2023,Sains Data,Lulus,Surabaya,2023-08-01
+2310236,Eud Rahmawati,2023,Sains Data,aktif,Medan,2023-08-01
+2310237,Ioh Saputra,2023,Sains Data,Lulus,Makassar,2023-08-01
+2310238,Gih Firdaus,2023,Sains Data,Cuti,Semarang,2023-08-01
+2310239,Hap Maulana,2023,Sains Data,cuti,Jakarta,2023-08-01
+2310240,Yal Saputra,2023,Sains Data,AKTIF,Kupang,2023-08-01
+2310241,Can Maulana,2023,Sains Data,Aktif,Surabaya,2023-08-01
+2310242,Dul Wijaya,2023,Sains Data,do,Yogyakarta,2023-08-01
+2310243,Fib Wijaya,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310244,Kiy Anggraini,2023,Sains Data,lulus,Jakarta,2023-08-01
+2310245,Mum Kusuma,2023,Sains Data,lulus,Semarang,2023-08-01
+2310246,Wuw Wijaya,2023,Sains Data,Cuti,Makassar,2023-08-01
+2310247,Eew Pratama,2023,Sains Data,AKTIF,Kupang,2023-08-01
+2310248,Aap Pratama,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310249,Nok Nugroho,2023,Sains Data,lulus,Medan,2023-08-01
+2310250,Ris Pratama,2023,Sains Data,Lulus,Surabaya,2023-08-01
+2310251,Huw Saputra,2023,Sains Data,do,Jakarta,2023-08-01
+2310252,Hig Lestari,2023,Sains Data,Cuti,Makassar,2023-08-01
+2310253,Hin Kusuma,2023,Sains Data,do,Yogyakarta,2023-08-01
+2310254,Hot Maulana,2023,Sains Data,Aktif,Jakarta,2023-08-01
+2310255,Wak Wijaya,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310256,Had Anggraini,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310257,Ped Nugroho,2023,Sains Data,aktif,Yogyakarta,2023-08-01
+2310258,Auh Hidayat,2023,Sains Data,Aktif,Yogyakarta,2023-08-01
+2310259,Gas Wulandari,2023,Sains Data,lulus,Bandung,2023-08-01
+2310260,Teb Saputra,2023,Sains Data,lulus,Semarang,2023-08-01
+2310261,Heb Sari,2023,Sains Data,Lulus,Yogyakarta,2023-08-01
+2310262,Duy Kusuma,2023,Sains Data,do,Kupang,2023-08-01
+2310263,Nay Wulandari,2023,Sains Data,cuti,Makassar,2023-08-01
+2310264,Aod Ramadhan,2023,Sains Data,lulus,Jakarta,2023-08-01
+2310265,Dew Kusuma,2023,Sains Data,aktif,Surabaya,2023-08-01
+2310266,Yak Anggraini,2023,Sains Data,lulus,Bandung,2023-08-01
+2310267,Gel Saputra,2023,Sains Data,lulus,Jakarta,2023-08-01
+2310268,Eel Sari,2023,Sains Data,cuti,Yogyakarta,2023-08-01
+2310269,Peh Wulandari,2023,Sains Data,lulus,Surabaya,2023-08-01
+2310270,Yan Pratama,2023,Sains Data,cuti,Bandung,2023-08-01
+2310271,Gid Ramadhan,2023,Sains Data,Cuti,Semarang,2023-08-01
+2310272,Ner Maulana,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310273,Gob Putra,2023,Sains Data,aktif,Semarang,2023-08-01
+2310274,Lol Hidayat,2023,Sains Data,AKTIF,Semarang,2023-08-01
+2310275,Yik Sari,,Sains Data,AKTIF,Yogyakarta,2023-08-01
+2310276,Hig Nugroho,2023,Sains Data,aktif,Medan,2023-08-01
+2310277,Jiy Pratama,2023,Sains Data,Lulus,Makassar,2023-08-01
+2310278,Yud Maulana,2023,Sains Data,lulus,,2023-08-01
+2310279,Jeh Sari,2023,Sains Data,Aktif,Semarang,2023-08-01
+2310280,Bid Rahmawati,2023,Sains Data,lulus,Kupang,2023-08-01
+2310281,Cus Sari,2023,Sains Data,cuti,Yogyakarta,2023-08-01
+2310282,Hat Sari,2023,Sains Data,Cuti,Makassar,2023-08-01
+2310283,Seh Rahmawati,2023,Sains Data,Cuti,Jakarta,2023-08-01
+2310284,Tud Maulana,2023,Sains Data,lulus,Yogyakarta,2023-08-01
+2310285,Kin Firdaus,2023,Sains Data,AKTIF,Yogyakarta,2023-08-01
+2310286,Huw Ramadhan,2023,Sains Data,aktif,Semarang,2023-08-01
+2310287,Nut Anggraini,2023,Sains Data,Lulus,Surabaya,2023-08-01
+2310288,Jun Hidayat,2023,Sains Data,AKTIF,Surabaya,2023-08-01
+2310289,Nak Putra,2023,Sains Data,Cuti,Bandung,2023-08-01
+2310290,Jow Saputra,2023,Sains Data,lulus,Medan,2023-08-01
+2310291,Lit Wulandari,2023,Sains Data,cuti,Surabaya,2023-08-01
+2310292,Nen Saputra,2023,Sains Data,lulus,Semarang,2023-08-01
+2310293,Dat Nugroho,2023,Sains Data,AKTIF,Medan,2023-08-01
+2310294,Meb Nugroho,2023,Sains Data,AKTIF,Jakarta,2023-08-01
+2310295,Eas Wulandari,2023,Sains Data,AKTIF,,2023-08-01
+2310296,Das Ramadhan,2023,Sains Data,do,Medan,2023-08-01
+2310297,Eor Anggraini,2023,Sains Data,cuti,Surabaya,2023-08-01
+2310298,Wis Saputra,2023,Sains Data,Aktif,Makassar,2023-08-01
+2310299,Hat Pratama,2023,Sains Data,aktif,Medan,2023-08-01
+2310300,Sem Firdaus,2023,Sains Data,Cuti,Medan,2023-08-01
+2410001,Gay Lestari,2024,Sains Data,Cuti,Bandung,2024-08-01
+2410002,Pet Pratama,2024,Sains Data,lulus,Medan,2024-08-01
+2410003,Aur Lestari,2024,Sains Data,AKTIF,Makassar,2024-08-01
+2410004,Men Rahmawati,2024,Sains Data,Cuti,Surabaya,2024-08-01
+2410005,Wid Pratama,2024,Sains Data,do,Bandung,2024-08-01
+2410006,Fep Anggraini,2024,Sains Data,do,,2024-08-01
+2410007,Jel Hidayat,2024,Sains Data,cuti,Jakarta,2024-08-01
+2410008,Gep Pratama,2024,Sains Data,do,Medan,2024-08-01
+2410009,Iay Lestari,2024,Sains Data,lulus,Makassar,2024-08-01
+2410010,Nub Hidayat,2024,Sains Data,Cuti,Bandung,2024-08-01
+2410011,Nug Hidayat,2024,Sains Data,Cuti,Yogyakarta,2024-08-01
+2410012,Yub Nugroho,2024,Sains Data,AKTIF,Semarang,2024-08-01
+2410013,Fos Wijaya,2024,Sains Data,Lulus,Bandung,2024-08-01
+2410014,Pes Anggraini,2024,Sains Data,cuti,Kupang,2024-08-01
+2410015,Aos Pratama,2024,Sains Data,Aktif,Jakarta,2024-08-01
+2410016,Ret Anggraini,2024,Sains Data,lulus,Jakarta,2024-08-01
+2410017,Kis Sari,2024,Sains Data,do,Semarang,2024-08-01
+2410018,Luy Lestari,2024,Sains Data,Lulus,Bandung,2024-08-01
+2410019,Ruk Pratama,2024,Sains Data,lulus,Yogyakarta,2024-08-01
+2410020,New Kusuma,2024,Sains Data,lulus,Medan,2024-08-01
+2410021,Gor Anggraini,2024,Sains Data,Lulus,Surabaya,2024-08-01
+2410022,Fed Maulana,2024,Sains Data,Cuti,Bandung,2024-08-01
+2410023,Men Anggraini,2024,Sains Data,do,Makassar,2024-08-01
+2410024,Bey Wulandari,2024,Sains Data,Cuti,Bandung,2024-08-01
+2410025,Lig Nugroho,2024,Sains Data,Lulus,Semarang,2024-08-01
+2410026,Yan Firdaus,2024,Sains Data,cuti,Surabaya,2024-08-01
+2410027,Wey Saputra,2024,Sains Data,lulus,,2024-08-01
+2410028,Led Wijaya,2024,Sains Data,Cuti,Jakarta,2024-08-01
+2410029,Low Wulandari,2024,Sains Data,AKTIF,Yogyakarta,2024-08-01
+2410030,Sem Anggraini,2024,Sains Data,cuti,Medan,2024-08-01
+2410031,Lan Nugroho,2024,Sains Data,AKTIF,Surabaya,2024-08-01
+2410032,Eap Rahmawati,2024,Sains Data,do,Kupang,2024-08-01
+2410033,Pen Kusuma,2024,Sains Data,Lulus,Makassar,2024-08-01
+2410034,Tin Ramadhan,2024,Sains Data,Aktif,Bandung,2024-08-01
+2410035,Kum Rahmawati,2024,Sains Data,Cuti,Makassar,2024-08-01
+2410036,Aab Nugroho,2024,Sains Data,AKTIF,Medan,2024-08-01
+2410037,Fas Anggraini,2024,Sains Data,Lulus,Jakarta,2024-08-01
+2410038,Wob Lestari,2024,Sains Data,Lulus,Bandung,2024-08-01
+2410039,Aem Kusuma,2024,Sains Data,lulus,Medan,2024-08-01
+2410040,Jeb Saputra,2024,Sains Data,Cuti,Makassar,2024-08-01
+2410041,Gow Wulandari,2024,Sains Data,Lulus,Makassar,2024-08-01
+2410042,Map Wijaya,2024,Sains Data,aktif,Surabaya,2024-08-01
+2410043,Fed Pratama,2024,Sains Data,aktif,Jakarta,2024-08-01
+2410044,Sim Firdaus,2024,Sains Data,Aktif,Bandung,2024-08-01
+2410045,Gok Sari,2024,Sains Data,do,Surabaya,2024-08-01
+2410046,Lab Maulana,2024,Sains Data,AKTIF,Surabaya,2024-08-01
+2410047,Fum Firdaus,2024,Sains Data,AKTIF,Medan,2024-08-01
+2410048,Fog Wijaya,2024,Sains Data,Aktif,Semarang,2024-08-01
+2410049,Kos Lestari,2024,Sains Data,cuti,Medan,2024-08-01
+2410050,Rup Wulandari,2024,Sains Data,Lulus,Medan,2024-08-01
+2410051,Yol Hidayat,2024,Sains Data,aktif,Semarang,2024-08-01
+2410052,Seg Wijaya,2024,Sains Data,Cuti,Makassar,2024-08-01
+2410053,Sos Putra,2024,Sains Data,aktif,Bandung,2024-08-01
+2410054,Pob Saputra,2024,Sains Data,lulus,Bandung,2024-08-01
+2410055,Dal Anggraini,2024,Sains Data,cuti,Makassar,2024-08-01
+2410056,Mop Lestari,2024,Sains Data,do,Bandung,2024-08-01
+2410057,Rip Maulana,2024,Sains Data,aktif,Medan,2024-08-01
+2410058,Gey Sari,2024,Sains Data,cuti,Yogyakarta,2024-08-01
+2410059,Ced Maulana,2024,Sains Data,AKTIF,Medan,2024-08-01
+2410060,Nuk Hidayat,2024,Sains Data,Cuti,Semarang,2024-08-01
+2410061,Rit Nugroho,2024,Sains Data,Lulus,Makassar,2024-08-01
+2410062,Iog Anggraini,2024,Sains Data,AKTIF,Yogyakarta,2024-08-01
+2410063,Gin Rahmawati,2024,Sains Data,Cuti,Bandung,2024-08-01
+2410064,Pon Nugroho,2024,Sains Data,do,Bandung,2024-08-01
+2410065,Bil Maulana,2024,Sains Data,Lulus,Makassar,2024-08-01
+2410066,Gum Nugroho,2024,Sains Data,do,Makassar,2024-08-01
+2410067,Gon Firdaus,2024,Sains Data,cuti,Jakarta,2024-08-01
+2410068,Tem Wijaya,2024,Sains Data,lulus,Semarang,2024-08-01
+2410069,Dul Firdaus,2024,Sains Data,Cuti,Kupang,2024-08-01
+2410070,Sih Wijaya,2024,Sains Data,aktif,Makassar,2024-08-01
+2410071,Lem Kusuma,2024,Sains Data,lulus,Bandung,2024-08-01
+2410072,Wus Maulana,2024,Sains Data,AKTIF,Surabaya,2024-08-01
+2410073,Ret Wulandari,2024,Sains Data,Cuti,,2024-08-01
+2410074,Iem Saputra,2024,Sains Data,lulus,Jakarta,2024-08-01
+2410075,Won Putra,2024,Sains Data,aktif,Kupang,2024-08-01
+2410076,Lel Anggraini,2024,Sains Data,Lulus,Semarang,2024-08-01
+2410077,Kep Rahmawati,2024,Sains Data,do,Kupang,2024-08-01
+2410078,Fak Firdaus,2024,Sains Data,cuti,Semarang,2024-08-01
+2410079,Ian Wijaya,2024,Sains Data,Lulus,Yogyakarta,2024-08-01
+2410080,Jer Pratama,2024,Sains Data,Cuti,Yogyakarta,2024-08-01
+2410081,Fal Rahmawati,2024,Sains Data,Aktif,Jakarta,2024-08-01
+2410082,Yiy Rahmawati,2024,Sains Data,do,Medan,2024-08-01
+2410083,Eot Hidayat,2024,Sains Data,do,Makassar,2024-08-01
+2410084,Fed Sari,2024,Sains Data,Aktif,Bandung,2024-08-01
+2410085,Aip Wulandari,2024,Sains Data,Cuti,Makassar,2024-08-01
+2410086,Iip Kusuma,2024,Sains Data,Lulus,Bandung,2024-08-01
+2410087,Mek Maulana,,Sains Data,AKTIF,Surabaya,2024-08-01
+2410088,Pun Ramadhan,2024,Sains Data,aktif,Kupang,2024-08-01
+2410089,Sag Saputra,2024,Sains Data,Lulus,Jakarta,2024-08-01
+2410090,Kit Hidayat,2024,Sains Data,lulus,Surabaya,2024-08-01
+2410091,Kab Saputra,2024,Sains Data,Aktif,Makassar,2024-08-01
+2410092,Pew Anggraini,2024,Sains Data,Cuti,Jakarta,2024-08-01
+2410093,Iup Hidayat,2024,Sains Data,Cuti,Jakarta,2024-08-01
+2410094,Sad Sari,2024,Sains Data,Cuti,Medan,2024-08-01
+2410095,Cuw Firdaus,,Sains Data,cuti,Kupang,2024-08-01
+2410096,Rop Wulandari,2024,Sains Data,cuti,Medan,2024-08-01
+2410097,Cap Nugroho,2024,Sains Data,do,Yogyakarta,2024-08-01
+2410098,Jiw Saputra,2024,Sains Data,Lulus,Kupang,2024-08-01
+2410099,Fil Ramadhan,2024,Sains Data,Aktif,Surabaya,2024-08-01
+2410100,Kah Saputra,2024,Sains Data,Aktif,Kupang,2024-08-01
+2410101,Wer Anggraini,2024,Sains Data,AKTIF,Jakarta,2024-08-01
+2410102,Pum Lestari,2024,Sains Data,cuti,Medan,2024-08-01
+2410103,Jap Lestari,2024,Sains Data,Lulus,Surabaya,2024-08-01
+2410104,Juh Lestari,2024,Sains Data,lulus,Surabaya,2024-08-01
+2410105,His Wijaya,2024,Sains Data,do,Yogyakarta,2024-08-01
+2410106,Fir Firdaus,2024,Sains Data,Lulus,Bandung,2024-08-01
+2410107,Cog Lestari,2024,Sains Data,cuti,Semarang,2024-08-01
+2410108,Dig Maulana,2024,Sains Data,lulus,Makassar,2024-08-01
+2410109,Eiy Ramadhan,2024,Sains Data,cuti,Semarang,2024-08-01
+2410110,Yur Nugroho,2024,Sains Data,lulus,Medan,2024-08-01
+2410111,Fuh Saputra,2024,Sains Data,aktif,Semarang,2024-08-01
+2410112,Dey Anggraini,2024,Sains Data,Lulus,Jakarta,2024-08-01
+2410113,Tey Pratama,2024,Sains Data,Lulus,Kupang,2024-08-01
+2410114,Mih Saputra,2024,Sains Data,Cuti,Bandung,2024-08-01
+2410115,Eay Lestari,2024,Sains Data,Cuti,Medan,2024-08-01
+2410116,Hik Pratama,2024,Sains Data,aktif,Yogyakarta,2024-08-01
+2410117,Bad Saputra,,Sains Data,do,Jakarta,2024-08-01
+2410118,Pir Wijaya,2024,Sains Data,Lulus,Kupang,2024-08-01
+2410119,Ean Ramadhan,2024,Sains Data,Lulus,Semarang,2024-08-01
+2410120,Bep Ramadhan,2024,Sains Data,do,Medan,2024-08-01
+2410121,Dig Kusuma,2024,Sains Data,Aktif,Makassar,2024-08-01
+2410122,How Anggraini,2024,Sains Data,Aktif,Bandung,2024-08-01
+2410123,Wuy Ramadhan,2024,Sains Data,lulus,Makassar,2024-08-01
+2410124,Ter Rahmawati,2024,Sains Data,Cuti,,2024-08-01
+2410125,Cag Lestari,2024,Sains Data,do,Surabaya,2024-08-01
+2410126,Map Sari,2024,Sains Data,Lulus,Yogyakarta,2024-08-01
+2410127,Wup Nugroho,2024,Sains Data,Lulus,Surabaya,2024-08-01
+2410128,Lin Wijaya,2024,Sains Data,do,Semarang,2024-08-01
+2410129,Sen Wijaya,2024,Sains Data,Aktif,Makassar,2024-08-01
+2410130,Miw Rahmawati,2024,Sains Data,AKTIF,Jakarta,2024-08-01
+2410131,Por Pratama,2024,Sains Data,Lulus,Bandung,2024-08-01
+2410132,Yim Nugroho,2024,Sains Data,cuti,Yogyakarta,2024-08-01
+2410133,Aaw Pratama,2024,Sains Data,cuti,Kupang,2024-08-01
+2410134,Cip Firdaus,2024,Sains Data,Aktif,Jakarta,2024-08-01
+2410135,Kal Rahmawati,2024,Sains Data,Cuti,Medan,2024-08-01
+2410136,His Kusuma,2024,Sains Data,Cuti,Jakarta,2024-08-01
+2410137,Lib Putra,2024,Sains Data,lulus,Semarang,2024-08-01
+2410138,Leb Rahmawati,2024,Sains Data,Cuti,Bandung,2024-08-01
+2410139,Eud Firdaus,2024,Sains Data,AKTIF,Kupang,2024-08-01
+2410140,Eob Rahmawati,2024,Sains Data,Cuti,Makassar,2024-08-01
+2410141,Kar Wulandari,2024,Sains Data,Aktif,Yogyakarta,2024-08-01
+2410142,Guk Wijaya,2024,Sains Data,Cuti,Makassar,2024-08-01
+2410143,Eup Kusuma,2024,Sains Data,do,Semarang,2024-08-01
+2410144,Way Sari,2024,Sains Data,AKTIF,Jakarta,2024-08-01
+2410145,Mib Saputra,2024,Sains Data,Cuti,Semarang,2024-08-01
+2410146,Ter Firdaus,2024,Sains Data,AKTIF,Surabaya,2024-08-01
+2410147,Fek Lestari,2024,Sains Data,lulus,Jakarta,2024-08-01
+2410148,Dul Rahmawati,2024,Sains Data,cuti,Kupang,2024-08-01
+2410149,Tay Wulandari,2024,Sains Data,Cuti,Surabaya,2024-08-01
+2410150,Bab Sari,2024,Sains Data,lulus,Yogyakarta,2024-08-01
+2410151,Mad Wijaya,2024,Sains Data,lulus,Bandung,2024-08-01
+2410152,Jid Anggraini,2024,Sains Data,AKTIF,Medan,2024-08-01
+2410153,Dum Maulana,2024,Sains Data,Aktif,Bandung,2024-08-01
+2410154,Kuk Wulandari,2024,Sains Data,do,Jakarta,2024-08-01
+2410155,Hir Ramadhan,2024,Sains Data,Lulus,,2024-08-01
+2410156,Wag Pratama,2024,Sains Data,AKTIF,Medan,2024-08-01
+2410157,Nab Putra,2024,Sains Data,Cuti,Kupang,2024-08-01
+2410158,Aah Saputra,2024,Sains Data,AKTIF,Jakarta,2024-08-01
+2410159,Fol Sari,2024,Sains Data,Cuti,Jakarta,2024-08-01
+2410160,Goh Sari,2024,Sains Data,aktif,Yogyakarta,2024-08-01
+2410161,Cal Nugroho,2024,Sains Data,lulus,Surabaya,2024-08-01
+2410162,Hur Hidayat,2024,Sains Data,lulus,Makassar,2024-08-01
+2410163,Jit Anggraini,2024,Sains Data,aktif,Surabaya,2024-08-01
+2410164,Iag Hidayat,2024,Sains Data,Aktif,Jakarta,2024-08-01
+2410165,Mim Putra,2024,Sains Data,aktif,Jakarta,2024-08-01
+2410166,Iir Rahmawati,2024,Sains Data,lulus,Semarang,2024-08-01
+2410167,Bid Maulana,2024,Sains Data,Lulus,Medan,2024-08-01
+2410168,Mut Hidayat,2024,Sains Data,AKTIF,Semarang,2024-08-01
+2410169,Hom Putra,2024,Sains Data,do,Semarang,2024-08-01
+2410170,Cik Anggraini,2024,Sains Data,aktif,Medan,2024-08-01
+2410171,Yik Wijaya,2024,Sains Data,Cuti,Jakarta,2024-08-01
+2410172,Aod Hidayat,2024,Sains Data,lulus,Makassar,2024-08-01
+2410173,Tod Wijaya,2024,Sains Data,Lulus,Medan,2024-08-01
+2410174,Jek Putra,2024,Sains Data,cuti,,2024-08-01
+2410175,Dor Pratama,2024,Sains Data,Lulus,Makassar,2024-08-01
+2410176,Jey Ramadhan,2024,Sains Data,lulus,Surabaya,2024-08-01
+2410177,Bah Wijaya,2024,Sains Data,do,Medan,2024-08-01
+2410178,Wil Saputra,2024,Sains Data,lulus,Medan,2024-08-01
+2410179,Pep Wulandari,2024,Sains Data,cuti,Kupang,2024-08-01
+2410180,Nag Wijaya,2024,Sains Data,AKTIF,Medan,2024-08-01
+2410181,Fip Putra,2024,Sains Data,do,Yogyakarta,2024-08-01
+2410182,Mib Firdaus,2024,Sains Data,do,Semarang,2024-08-01
+2410183,Mup Wulandari,2024,Sains Data,cuti,Medan,2024-08-01
+2410184,Wew Ramadhan,2024,Sains Data,lulus,Bandung,2024-08-01
+2410185,Sep Kusuma,2024,Sains Data,do,Jakarta,2024-08-01
+2410186,Lip Anggraini,2024,Sains Data,cuti,Semarang,2024-08-01
+2410187,Mol Wulandari,2024,Sains Data,cuti,Jakarta,2024-08-01
+2410188,Sig Putra,2024,Sains Data,AKTIF,Surabaya,2024-08-01
+2410189,Mat Ramadhan,2024,Sains Data,Lulus,Jakarta,2024-08-01
+2410190,Pep Anggraini,2024,Sains Data,AKTIF,Yogyakarta,2024-08-01
+2410191,Riy Nugroho,2024,Sains Data,do,Kupang,2024-08-01
+2410192,Jum Kusuma,2024,Sains Data,Cuti,Jakarta,2024-08-01
+2410193,Riy Wijaya,2024,Sains Data,Lulus,Bandung,2024-08-01
+2410194,Jew Firdaus,2024,Sains Data,AKTIF,Semarang,2024-08-01
+2410195,Pin Kusuma,2024,Sains Data,AKTIF,Bandung,2024-08-01
+2410196,Jip Putra,2024,Sains Data,lulus,Kupang,2024-08-01
+2410197,Aip Anggraini,2024,Sains Data,do,Kupang,2024-08-01
+2410198,Peb Hidayat,2024,Sains Data,Cuti,Jakarta,2024-08-01
+2410199,Eos Maulana,2024,Sains Data,do,Medan,2024-08-01
+2410200,Maw Nugroho,2024,Sains Data,Lulus,Kupang,2024-08-01
+2410201,Riy Nugroho,2024,Sains Data,Lulus,Makassar,2024-08-01
+2410202,Yup Hidayat,2024,Sains Data,do,Bandung,2024-08-01
+2410203,Ger Pratama,2024,Sains Data,Lulus,Bandung,2024-08-01
+2410204,Rob Saputra,2024,Sains Data,lulus,Jakarta,2024-08-01
+2410205,Jiy Pratama,2024,Sains Data,Aktif,Makassar,2024-08-01
+2410206,Jol Hidayat,2024,Sains Data,aktif,Kupang,2024-08-01
+2410207,Sam Wijaya,2024,Sains Data,do,Surabaya,2024-08-01
+2410208,Kog Saputra,2024,Sains Data,AKTIF,Makassar,2024-08-01
+2410209,Los Anggraini,2024,Sains Data,Lulus,Yogyakarta,2024-08-01
+2410210,Eun Anggraini,2024,Sains Data,lulus,Bandung,2024-08-01
+2410211,Bot Wijaya,2024,Sains Data,cuti,Medan,2024-08-01
+2410212,Gok Ramadhan,2024,Sains Data,do,Bandung,2024-08-01
+2410213,Eos Maulana,2024,Sains Data,Cuti,Makassar,2024-08-01
+2410214,Yir Nugroho,2024,Sains Data,cuti,Medan,2024-08-01
+2410215,Boh Ramadhan,2024,Sains Data,Lulus,,2024-08-01
+2410216,Yin Putra,2024,Sains Data,aktif,Bandung,2024-08-01
+2410217,Wok Nugroho,2024,Sains Data,Cuti,Kupang,2024-08-01
+2410218,Eok Kusuma,2024,Sains Data,cuti,Yogyakarta,2024-08-01
+2410219,Boh Lestari,2024,Sains Data,do,Yogyakarta,2024-08-01
+2410220,Aoy Pratama,2024,Sains Data,lulus,Bandung,2024-08-01
+2410221,Wes Wijaya,2024,Sains Data,aktif,Surabaya,2024-08-01
+2410222,Ret Anggraini,2024,Sains Data,Lulus,Jakarta,2024-08-01
+2410223,Bad Rahmawati,2024,Sains Data,do,Medan,2024-08-01
+2410224,Yow Ramadhan,2024,Sains Data,aktif,Semarang,2024-08-01
+2410225,Ban Putra,2024,Sains Data,lulus,Medan,2024-08-01
+2410226,Tek Saputra,2024,Sains Data,AKTIF,Jakarta,2024-08-01
+2410227,Tot Ramadhan,2024,Sains Data,do,Semarang,2024-08-01
+2410228,Pas Hidayat,2024,Sains Data,AKTIF,Bandung,2024-08-01
+2410229,Ear Maulana,2024,Sains Data,Lulus,Bandung,2024-08-01
+2410230,Iin Putra,2024,Sains Data,do,Kupang,2024-08-01
+2410231,Nim Ramadhan,2024,Sains Data,cuti,Semarang,2024-08-01
+2410232,Yey Putra,2024,Sains Data,cuti,Bandung,2024-08-01
+2410233,Kes Anggraini,,Sains Data,Lulus,Surabaya,2024-08-01
+2410234,Dud Hidayat,2024,Sains Data,aktif,Semarang,2024-08-01
+2410235,Pew Rahmawati,2024,Sains Data,AKTIF,Bandung,2024-08-01
+2410236,Met Wulandari,2024,Sains Data,Cuti,Yogyakarta,2024-08-01
+2410237,Dak Hidayat,2024,Sains Data,Lulus,Makassar,2024-08-01
+2410238,Pug Saputra,2024,Sains Data,aktif,Yogyakarta,2024-08-01
+2410239,Bun Kusuma,2024,Sains Data,AKTIF,Medan,2024-08-01
+2410240,Bir Ramadhan,2024,Sains Data,cuti,Surabaya,2024-08-01
+2410241,Per Ramadhan,2024,Sains Data,aktif,Surabaya,2024-08-01
+2410242,Wah Lestari,2024,Sains Data,Aktif,Kupang,2024-08-01
+2410243,Tap Wulandari,2024,Sains Data,aktif,Semarang,2024-08-01
+2410244,Cep Wijaya,2024,Sains Data,cuti,Medan,2024-08-01
+2410245,Wod Kusuma,2024,Sains Data,lulus,Bandung,2024-08-01
+2410246,Ias Sari,2024,Sains Data,aktif,Semarang,2024-08-01
+2410247,Mah Rahmawati,2024,Sains Data,AKTIF,Yogyakarta,2024-08-01
+2410248,Cog Pratama,2024,Sains Data,Lulus,Medan,2024-08-01
+2410249,Rub Lestari,,Sains Data,Aktif,Semarang,2024-08-01
+2410250,Fur Lestari,2024,Sains Data,lulus,Bandung,2024-08-01
+2410251,Res Anggraini,2024,Sains Data,AKTIF,Bandung,2024-08-01
+2410252,Iol Ramadhan,2024,Sains Data,do,Jakarta,2024-08-01
+2410253,Jal Saputra,2024,Sains Data,do,Semarang,2024-08-01
+2410254,Lag Anggraini,2024,Sains Data,AKTIF,Surabaya,2024-08-01
+2410255,Eop Sari,2024,Sains Data,Aktif,Jakarta,2024-08-01
+2410256,Nit Pratama,2024,Sains Data,do,Kupang,2024-08-01
+2410257,Gop Nugroho,,Sains Data,do,Jakarta,2024-08-01
+2410258,Teg Saputra,2024,Sains Data,aktif,Medan,2024-08-01
+2410259,Tap Pratama,2024,Sains Data,Aktif,Jakarta,2024-08-01
+2410260,Hon Firdaus,2024,Sains Data,AKTIF,Medan,2024-08-01
+2410261,Kiw Saputra,2024,Sains Data,AKTIF,Bandung,2024-08-01
+2410262,Jis Lestari,2024,Sains Data,Cuti,Kupang,2024-08-01
+2410263,Iap Lestari,2024,Sains Data,Cuti,Kupang,2024-08-01
+2410264,Bep Pratama,2024,Sains Data,AKTIF,Bandung,2024-08-01
+2410265,Fik Wulandari,2024,Sains Data,cuti,Jakarta,2024-08-01
+2410266,Nuy Ramadhan,2024,Sains Data,do,Surabaya,2024-08-01
+2410267,Jub Rahmawati,2024,Sains Data,Aktif,Yogyakarta,2024-08-01
+2410268,Ped Sari,2024,Sains Data,aktif,Surabaya,2024-08-01
+2410269,Nat Sari,2024,Sains Data,cuti,,2024-08-01
+2410270,Der Kusuma,2024,Sains Data,cuti,Kupang,2024-08-01
+2410271,Sep Firdaus,2024,Sains Data,lulus,Makassar,2024-08-01
+2410272,Dem Firdaus,2024,Sains Data,Aktif,Kupang,2024-08-01
+2410273,Hib Ramadhan,2024,Sains Data,lulus,Yogyakarta,2024-08-01
+2410274,Wet Wulandari,2024,Sains Data,AKTIF,Yogyakarta,2024-08-01
+2410275,Sab Nugroho,,Sains Data,do,Yogyakarta,2024-08-01
+2410276,Put Putra,2024,Sains Data,Aktif,Makassar,2024-08-01
+2410277,Sem Hidayat,2024,Sains Data,lulus,,2024-08-01
+2410278,Fad Pratama,2024,Sains Data,Cuti,Medan,2024-08-01
+2410279,Pop Maulana,2024,Sains Data,lulus,Yogyakarta,2024-08-01
+2410280,Eib Kusuma,2024,Sains Data,Cuti,Kupang,2024-08-01
+2410281,Huk Rahmawati,2024,Sains Data,Aktif,Makassar,2024-08-01
+2410282,Pit Putra,,Sains Data,lulus,Medan,2024-08-01
+2410283,Hag Lestari,2024,Sains Data,cuti,Surabaya,2024-08-01
+2410284,Eew Ramadhan,2024,Sains Data,AKTIF,Makassar,2024-08-01
+2410285,Yup Wijaya,2024,Sains Data,lulus,Semarang,2024-08-01
+2410286,Tib Ramadhan,2024,Sains Data,Cuti,Yogyakarta,2024-08-01
+2410287,Ral Firdaus,2024,Sains Data,lulus,Surabaya,2024-08-01
+2410288,Duh Pratama,2024,Sains Data,lulus,Jakarta,2024-08-01
+2410289,Bet Lestari,2024,Sains Data,Lulus,Makassar,2024-08-01
+2410290,Fup Sari,2024,Sains Data,Cuti,Yogyakarta,2024-08-01
+2410291,Kaw Firdaus,2024,Sains Data,lulus,Jakarta,2024-08-01
+2410292,Lir Nugroho,2024,Sains Data,Cuti,Makassar,2024-08-01
+2410293,Iap Nugroho,2024,Sains Data,AKTIF,Medan,2024-08-01
+2410294,Wak Pratama,2024,Sains Data,Aktif,,2024-08-01
+2410295,Dik Wulandari,2024,Sains Data,aktif,Yogyakarta,2024-08-01
+2410296,Reh Wulandari,2024,Sains Data,Lulus,Jakarta,2024-08-01
+2410297,Jad Lestari,2024,Sains Data,cuti,Yogyakarta,2024-08-01
+2410298,Sum Kusuma,2024,Sains Data,cuti,Medan,2024-08-01
+2410299,Lon Lestari,2024,Sains Data,Lulus,Semarang,2024-08-01
+2410300,Aas Pratama,2024,Sains Data,lulus,Yogyakarta,2024-08-01
+2220001,Fet Wijaya,2022,Informatika,Lulus,Kupang,2022-08-01
+2220002,Cup Wulandari,2022,Informatika,Cuti,Jakarta,2022-08-01
+2220003,Taw Hidayat,2022,Informatika,Aktif,Yogyakarta,2022-08-01
+2220004,Cin Sari,2022,Informatika,lulus,Makassar,2022-08-01
+2220005,Bes Kusuma,2022,Informatika,AKTIF,Kupang,2022-08-01
+2220006,Ges Ramadhan,2022,Informatika,cuti,Surabaya,2022-08-01
+2220007,Sah Nugroho,2022,Informatika,AKTIF,Yogyakarta,2022-08-01
+2220008,Gon Sari,2022,Informatika,cuti,,2022-08-01
+2220009,Men Hidayat,2022,Informatika,cuti,Medan,2022-08-01
+2220010,Nal Firdaus,2022,Informatika,do,Makassar,2022-08-01
+2220011,Pek Sari,2022,Informatika,aktif,Makassar,2022-08-01
+2220012,Wug Firdaus,2022,Informatika,Aktif,Yogyakarta,2022-08-01
+2220013,Tak Lestari,2022,Informatika,AKTIF,Medan,2022-08-01
+2220014,Pos Lestari,2022,Informatika,AKTIF,Semarang,2022-08-01
+2220015,Eet Hidayat,2022,Informatika,AKTIF,Jakarta,2022-08-01
+2220016,Reg Sari,2022,Informatika,AKTIF,Yogyakarta,2022-08-01
+2220017,Iek Rahmawati,2022,Informatika,do,Medan,2022-08-01
+2220018,Lil Saputra,2022,Informatika,cuti,Semarang,2022-08-01
+2220019,Ral Ramadhan,2022,Informatika,lulus,Bandung,2022-08-01
+2220020,Yal Kusuma,2022,Informatika,Lulus,Yogyakarta,2022-08-01
+2220021,Fog Firdaus,2022,Informatika,do,Semarang,2022-08-01
+2220022,Sis Anggraini,2022,Informatika,Cuti,Yogyakarta,2022-08-01
+2220023,Bow Ramadhan,2022,Informatika,Cuti,Surabaya,2022-08-01
+2220024,Sop Rahmawati,2022,Informatika,Cuti,Semarang,2022-08-01
+2220025,Tas Firdaus,2022,Informatika,do,Kupang,2022-08-01
+2220026,Fed Maulana,2022,Informatika,aktif,Surabaya,2022-08-01
+2220027,Iew Firdaus,2022,Informatika,lulus,Kupang,2022-08-01
+2220028,Kid Firdaus,2022,Informatika,Aktif,Kupang,2022-08-01
+2220029,Nag Nugroho,2022,Informatika,aktif,Jakarta,2022-08-01
+2220030,Gik Anggraini,2022,Informatika,aktif,Semarang,2022-08-01
+2220031,Iid Wijaya,2022,Informatika,AKTIF,Yogyakarta,2022-08-01
+2220032,Lib Putra,2022,Informatika,cuti,Yogyakarta,2022-08-01
+2220033,Keb Wijaya,,Informatika,aktif,Kupang,2022-08-01
+2220034,Gun Kusuma,2022,Informatika,Lulus,Bandung,2022-08-01
+2220035,Fow Putra,2022,Informatika,Cuti,Kupang,2022-08-01
+2220036,Yoy Firdaus,2022,Informatika,cuti,Kupang,2022-08-01
+2220037,Dim Ramadhan,2022,Informatika,Aktif,Bandung,2022-08-01
+2220038,Iig Hidayat,2022,Informatika,Lulus,Surabaya,2022-08-01
+2220039,Iom Sari,2022,Informatika,AKTIF,Makassar,2022-08-01
+2220040,Eos Anggraini,2022,Informatika,lulus,Kupang,2022-08-01
+2220041,Bew Firdaus,2022,Informatika,aktif,Yogyakarta,2022-08-01
+2220042,Hir Pratama,2022,Informatika,Aktif,Jakarta,2022-08-01
+2220043,Bim Lestari,2022,Informatika,Lulus,Jakarta,2022-08-01
+2220044,Dom Putra,2022,Informatika,do,Yogyakarta,2022-08-01
+2220045,Kop Putra,2022,Informatika,Cuti,Bandung,2022-08-01
+2220046,Aum Maulana,2022,Informatika,Cuti,Surabaya,2022-08-01
+2220047,Iop Wulandari,2022,Informatika,Lulus,Bandung,2022-08-01
+2220048,Jab Nugroho,2022,Informatika,Aktif,Bandung,2022-08-01
+2220049,Jod Firdaus,2022,Informatika,aktif,Bandung,2022-08-01
+2220050,Rap Kusuma,2022,Informatika,aktif,Bandung,2022-08-01
+2220051,Iub Maulana,2022,Informatika,Lulus,Kupang,2022-08-01
+2220052,Lup Anggraini,2022,Informatika,Cuti,Medan,2022-08-01
+2220053,Eat Pratama,2022,Informatika,Aktif,Makassar,2022-08-01
+2220054,Sak Kusuma,2022,Informatika,lulus,Surabaya,2022-08-01
+2220055,Suw Ramadhan,2022,Informatika,Cuti,Medan,2022-08-01
+2220056,Tag Kusuma,2022,Informatika,Cuti,Bandung,2022-08-01
+2220057,Wow Maulana,2022,Informatika,aktif,Medan,2022-08-01
+2220058,Cut Firdaus,2022,Informatika,lulus,Medan,2022-08-01
+2220059,Iok Wijaya,2022,Informatika,AKTIF,Surabaya,2022-08-01
+2220060,Cin Rahmawati,2022,Informatika,Lulus,Semarang,2022-08-01
+2220061,Sak Kusuma,2022,Informatika,AKTIF,Kupang,2022-08-01
+2220062,Yeg Wijaya,2022,Informatika,cuti,Makassar,2022-08-01
+2220063,Jih Kusuma,,Informatika,AKTIF,Bandung,2022-08-01
+2220064,Nab Ramadhan,2022,Informatika,Aktif,Yogyakarta,2022-08-01
+2220065,Tid Wijaya,2022,Informatika,Aktif,Surabaya,2022-08-01
+2220066,Pur Lestari,2022,Informatika,cuti,Semarang,2022-08-01
+2220067,Keg Lestari,2022,Informatika,lulus,Kupang,2022-08-01
+2220068,Mur Firdaus,2022,Informatika,do,Jakarta,2022-08-01
+2220069,Mot Anggraini,2022,Informatika,cuti,Kupang,2022-08-01
+2220070,Gel Putra,2022,Informatika,AKTIF,Semarang,2022-08-01
+2220071,Fom Ramadhan,2022,Informatika,AKTIF,Semarang,2022-08-01
+2220072,Beb Lestari,2022,Informatika,Cuti,Kupang,2022-08-01
+2220073,Ieh Wijaya,2022,Informatika,Cuti,Jakarta,2022-08-01
+2220074,Mal Wulandari,2022,Informatika,cuti,Makassar,2022-08-01
+2220075,Cud Anggraini,2022,Informatika,AKTIF,Yogyakarta,2022-08-01
+2220076,Cog Wijaya,2022,Informatika,lulus,Bandung,2022-08-01
+2220077,Cab Saputra,2022,Informatika,Lulus,Medan,2022-08-01
+2220078,Nig Wijaya,2022,Informatika,Aktif,Kupang,2022-08-01
+2220079,Aud Anggraini,2022,Informatika,cuti,Jakarta,2022-08-01
+2220080,Lah Anggraini,2022,Informatika,Cuti,Bandung,2022-08-01
+2220081,Yam Nugroho,2022,Informatika,Aktif,Surabaya,2022-08-01
+2220082,Kep Saputra,2022,Informatika,AKTIF,Bandung,2022-08-01
+2220083,Rek Hidayat,2022,Informatika,lulus,Jakarta,2022-08-01
+2220084,Guw Wulandari,2022,Informatika,AKTIF,Kupang,2022-08-01
+2220085,Jag Lestari,2022,Informatika,do,Bandung,2022-08-01
+2220086,Cup Maulana,2022,Informatika,Lulus,Bandung,2022-08-01
+2220087,Caw Hidayat,,Informatika,do,Semarang,2022-08-01
+2220088,Sun Nugroho,2022,Informatika,Lulus,Jakarta,2022-08-01
+2220089,Gid Hidayat,2022,Informatika,AKTIF,Jakarta,2022-08-01
+2220090,Moy Maulana,2022,Informatika,do,Jakarta,2022-08-01
+2220091,Luk Ramadhan,2022,Informatika,Lulus,Surabaya,2022-08-01
+2220092,Sek Firdaus,2022,Informatika,do,Makassar,2022-08-01
+2220093,Pow Putra,2022,Informatika,AKTIF,Yogyakarta,2022-08-01
+2220094,Euh Sari,2022,Informatika,aktif,Surabaya,2022-08-01
+2220095,Mil Wulandari,2022,Informatika,AKTIF,Semarang,2022-08-01
+2220096,Moh Nugroho,2022,Informatika,Aktif,Semarang,2022-08-01
+2220097,Aod Lestari,2022,Informatika,AKTIF,Makassar,2022-08-01
+2220098,Pur Kusuma,2022,Informatika,aktif,,2022-08-01
+2220099,Jod Maulana,2022,Informatika,cuti,Kupang,2022-08-01
+2220100,Hep Lestari,2022,Informatika,cuti,Makassar,2022-08-01
+2220101,Kog Firdaus,2022,Informatika,Aktif,Jakarta,2022-08-01
+2220102,Fen Firdaus,2022,Informatika,lulus,Makassar,2022-08-01
+2220103,Liw Maulana,2022,Informatika,do,Semarang,2022-08-01
+2220104,Ion Ramadhan,2022,Informatika,Aktif,Jakarta,2022-08-01
+2220105,Eih Wijaya,2022,Informatika,do,Semarang,2022-08-01
+2220106,Heg Kusuma,2022,Informatika,Lulus,Jakarta,2022-08-01
+2220107,Tug Hidayat,2022,Informatika,Aktif,Surabaya,2022-08-01
+2220108,Nom Wijaya,2022,Informatika,AKTIF,Yogyakarta,2022-08-01
+2220109,Fik Wulandari,2022,Informatika,Cuti,Bandung,2022-08-01
+2220110,Mus Putra,2022,Informatika,Cuti,Semarang,2022-08-01
+2220111,Kuh Wijaya,2022,Informatika,Aktif,Bandung,2022-08-01
+2220112,Lin Hidayat,2022,Informatika,do,Surabaya,2022-08-01
+2220113,Mat Wulandari,2022,Informatika,cuti,Semarang,2022-08-01
+2220114,Ead Pratama,2022,Informatika,AKTIF,Jakarta,2022-08-01
+2220115,Loy Rahmawati,2022,Informatika,aktif,Surabaya,2022-08-01
+2220116,Pay Firdaus,2022,Informatika,Lulus,Jakarta,2022-08-01
+2220117,Kop Putra,2022,Informatika,lulus,Yogyakarta,2022-08-01
+2220118,Tin Lestari,2022,Informatika,lulus,Kupang,2022-08-01
+2220119,Dol Firdaus,2022,Informatika,do,Yogyakarta,2022-08-01
+2220120,Eun Wulandari,2022,Informatika,AKTIF,Surabaya,2022-08-01
+2220121,Iay Anggraini,2022,Informatika,aktif,Surabaya,2022-08-01
+2220122,Tah Putra,2022,Informatika,AKTIF,Makassar,2022-08-01
+2220123,Ait Sari,2022,Informatika,Cuti,Makassar,2022-08-01
+2220124,Jap Maulana,2022,Informatika,cuti,Surabaya,2022-08-01
+2220125,Nuk Pratama,2022,Informatika,AKTIF,Jakarta,2022-08-01
+2220126,Nid Lestari,,Informatika,lulus,Kupang,2022-08-01
+2220127,Mok Wijaya,2022,Informatika,aktif,Kupang,2022-08-01
+2220128,Non Putra,2022,Informatika,aktif,Jakarta,2022-08-01
+2220129,Eup Sari,2022,Informatika,lulus,Medan,2022-08-01
+2220130,Bit Hidayat,2022,Informatika,Cuti,Bandung,2022-08-01
+2220131,Jam Pratama,2022,Informatika,AKTIF,Surabaya,2022-08-01
+2220132,Pap Pratama,2022,Informatika,do,Semarang,2022-08-01
+2220133,Fag Maulana,2022,Informatika,Aktif,Makassar,2022-08-01
+2220134,Rup Sari,2022,Informatika,Lulus,Semarang,2022-08-01
+2220135,Kor Nugroho,2022,Informatika,AKTIF,Jakarta,2022-08-01
+2220136,Ees Wijaya,2022,Informatika,Lulus,Kupang,2022-08-01
+2220137,Kuh Anggraini,2022,Informatika,aktif,Surabaya,2022-08-01
+2220138,Air Sari,2022,Informatika,cuti,Yogyakarta,2022-08-01
+2220139,Yer Sari,2022,Informatika,cuti,Yogyakarta,2022-08-01
+2220140,Hew Sari,2022,Informatika,do,Surabaya,2022-08-01
+2220141,Gor Wulandari,2022,Informatika,cuti,Kupang,2022-08-01
+2220142,Iem Firdaus,2022,Informatika,Aktif,Yogyakarta,2022-08-01
+2220143,Few Kusuma,2022,Informatika,cuti,Surabaya,2022-08-01
+2220144,Gab Ramadhan,2022,Informatika,cuti,Jakarta,2022-08-01
+2220145,Ton Lestari,,Informatika,lulus,Kupang,2022-08-01
+2220146,Woh Putra,2022,Informatika,Cuti,Jakarta,2022-08-01
+2220147,Gom Pratama,2022,Informatika,Aktif,Kupang,2022-08-01
+2220148,Fid Wijaya,2022,Informatika,do,Semarang,2022-08-01
+2220149,Sih Anggraini,2022,Informatika,Lulus,Semarang,2022-08-01
+2220150,Wel Saputra,2022,Informatika,Cuti,Medan,2022-08-01
+2220151,Wot Firdaus,2022,Informatika,aktif,Makassar,2022-08-01
+2220152,Neh Ramadhan,2022,Informatika,cuti,Bandung,2022-08-01
+2220153,Fop Rahmawati,2022,Informatika,Aktif,Yogyakarta,2022-08-01
+2220154,Pel Anggraini,2022,Informatika,aktif,Kupang,2022-08-01
+2220155,Eik Lestari,2022,Informatika,AKTIF,Kupang,2022-08-01
+2220156,Rem Lestari,2022,Informatika,cuti,Yogyakarta,2022-08-01
+2220157,Jat Ramadhan,2022,Informatika,Lulus,Yogyakarta,2022-08-01
+2220158,Piw Saputra,2022,Informatika,cuti,Kupang,2022-08-01
+2220159,Dik Nugroho,2022,Informatika,Cuti,Bandung,2022-08-01
+2220160,Rur Saputra,2022,Informatika,cuti,Medan,2022-08-01
+2220161,Pag Kusuma,2022,Informatika,Lulus,,2022-08-01
+2220162,Aod Putra,2022,Informatika,cuti,Makassar,2022-08-01
+2220163,Nim Ramadhan,2022,Informatika,aktif,Bandung,2022-08-01
+2220164,Lip Ramadhan,2022,Informatika,do,Bandung,2022-08-01
+2220165,Gir Sari,2022,Informatika,cuti,Bandung,2022-08-01
+2220166,Sat Nugroho,2022,Informatika,AKTIF,Jakarta,2022-08-01
+2220167,Kuw Wijaya,2022,Informatika,Cuti,Yogyakarta,2022-08-01
+2220168,Eeb Hidayat,2022,Informatika,lulus,Semarang,2022-08-01
+2220169,Eog Saputra,2022,Informatika,cuti,Makassar,2022-08-01
+2220170,Dik Ramadhan,2022,Informatika,do,Medan,2022-08-01
+2220171,Ioy Wulandari,2022,Informatika,aktif,Yogyakarta,2022-08-01
+2220172,Til Hidayat,2022,Informatika,do,Semarang,2022-08-01
+2220173,Hug Putra,2022,Informatika,lulus,Jakarta,2022-08-01
+2220174,Sah Maulana,2022,Informatika,Lulus,Makassar,2022-08-01
+2220175,Jag Firdaus,2022,Informatika,lulus,Kupang,2022-08-01
+2220176,Neh Maulana,2022,Informatika,do,Semarang,2022-08-01
+2220177,Wad Wijaya,2022,Informatika,Cuti,Makassar,2022-08-01
+2220178,Mon Rahmawati,2022,Informatika,aktif,Kupang,2022-08-01
+2220179,Tip Maulana,2022,Informatika,AKTIF,Medan,2022-08-01
+2220180,Til Wijaya,2022,Informatika,AKTIF,Jakarta,2022-08-01
+2220181,Tik Lestari,2022,Informatika,Aktif,Yogyakarta,2022-08-01
+2220182,Ran Maulana,2022,Informatika,aktif,Bandung,2022-08-01
+2220183,Pom Firdaus,2022,Informatika,aktif,Jakarta,2022-08-01
+2220184,Sew Lestari,2022,Informatika,Lulus,Kupang,2022-08-01
+2220185,Nok Saputra,2022,Informatika,aktif,Kupang,2022-08-01
+2220186,Boy Maulana,2022,Informatika,lulus,Semarang,2022-08-01
+2220187,Rok Anggraini,2022,Informatika,aktif,Semarang,2022-08-01
+2220188,Eil Anggraini,2022,Informatika,do,Surabaya,2022-08-01
+2220189,Cuw Kusuma,2022,Informatika,Aktif,Semarang,2022-08-01
+2220190,Jos Rahmawati,2022,Informatika,cuti,Medan,2022-08-01
+2220191,Bor Maulana,2022,Informatika,cuti,Semarang,2022-08-01
+2220192,Luy Ramadhan,2022,Informatika,cuti,Bandung,2022-08-01
+2220193,Iik Pratama,2022,Informatika,Cuti,Semarang,2022-08-01
+2220194,Bik Nugroho,2022,Informatika,Cuti,Jakarta,2022-08-01
+2220195,Yur Maulana,2022,Informatika,Lulus,Semarang,2022-08-01
+2220196,Jun Rahmawati,2022,Informatika,aktif,Kupang,2022-08-01
+2220197,Yum Firdaus,2022,Informatika,Aktif,Kupang,2022-08-01
+2220198,Eud Ramadhan,2022,Informatika,cuti,Makassar,2022-08-01
+2220199,Put Wulandari,2022,Informatika,Cuti,Jakarta,2022-08-01
+2220200,Cin Wijaya,2022,Informatika,aktif,Yogyakarta,2022-08-01
+2220201,Nek Wulandari,2022,Informatika,cuti,Jakarta,2022-08-01
+2220202,Doy Wulandari,2022,Informatika,do,Medan,2022-08-01
+2220203,Yul Firdaus,2022,Informatika,aktif,Bandung,2022-08-01
+2220204,Noy Kusuma,2022,Informatika,aktif,Kupang,2022-08-01
+2220205,Sit Pratama,2022,Informatika,Lulus,,2022-08-01
+2220206,Hob Maulana,2022,Informatika,Lulus,Surabaya,2022-08-01
+2220207,Bin Pratama,2022,Informatika,Cuti,Jakarta,2022-08-01
+2220208,Lag Ramadhan,2022,Informatika,lulus,Makassar,2022-08-01
+2220209,Kir Maulana,2022,Informatika,Cuti,Jakarta,2022-08-01
+2220210,Gop Wijaya,,Informatika,do,Kupang,2022-08-01
+2220211,Nup Putra,2022,Informatika,AKTIF,Semarang,2022-08-01
+2220212,Cig Rahmawati,2022,Informatika,do,Semarang,2022-08-01
+2220213,Fid Putra,2022,Informatika,Cuti,Makassar,2022-08-01
+2220214,Jad Sari,2022,Informatika,lulus,Makassar,2022-08-01
+2220215,Rip Putra,2022,Informatika,lulus,Jakarta,2022-08-01
+2220216,Ril Saputra,2022,Informatika,cuti,Yogyakarta,2022-08-01
+2220217,Cih Lestari,2022,Informatika,Cuti,Semarang,2022-08-01
+2220218,Web Hidayat,2022,Informatika,Aktif,Kupang,2022-08-01
+2220219,Lib Putra,2022,Informatika,lulus,Medan,2022-08-01
+2220220,Iur Ramadhan,2022,Informatika,do,Makassar,2022-08-01
+2220221,Did Kusuma,2022,Informatika,aktif,Yogyakarta,2022-08-01
+2220222,Pes Saputra,2022,Informatika,lulus,Surabaya,2022-08-01
+2220223,Had Anggraini,2022,Informatika,do,Medan,2022-08-01
+2220224,Tot Rahmawati,2022,Informatika,AKTIF,Medan,2022-08-01
+2220225,Aop Firdaus,2022,Informatika,aktif,Yogyakarta,2022-08-01
+2220226,Kim Anggraini,2022,Informatika,Aktif,Jakarta,2022-08-01
+2220227,Lar Maulana,2022,Informatika,do,Yogyakarta,2022-08-01
+2220228,Mod Lestari,2022,Informatika,Aktif,Jakarta,2022-08-01
+2220229,Yig Firdaus,2022,Informatika,do,Kupang,2022-08-01
+2220230,Bey Saputra,2022,Informatika,Cuti,Yogyakarta,2022-08-01
+2220231,Gar Saputra,2022,Informatika,Lulus,Surabaya,2022-08-01
+2220232,Eem Putra,2022,Informatika,Aktif,Surabaya,2022-08-01
+2220233,Map Wulandari,2022,Informatika,do,Medan,2022-08-01
+2220234,Riw Firdaus,2022,Informatika,aktif,Bandung,2022-08-01
+2220235,Kil Anggraini,2022,Informatika,aktif,Makassar,2022-08-01
+2220236,Sok Kusuma,2022,Informatika,Lulus,Makassar,2022-08-01
+2220237,Suy Pratama,2022,Informatika,Aktif,Yogyakarta,2022-08-01
+2220238,Dab Sari,2022,Informatika,Aktif,Yogyakarta,2022-08-01
+2220239,Bon Firdaus,2022,Informatika,Lulus,Medan,2022-08-01
+2220240,Sed Wijaya,2022,Informatika,Cuti,Makassar,2022-08-01
+2220241,Yiw Anggraini,2022,Informatika,Lulus,Medan,2022-08-01
+2220242,Gey Hidayat,2022,Informatika,cuti,Kupang,2022-08-01
+2220243,Iun Firdaus,2022,Informatika,lulus,Yogyakarta,2022-08-01
+2220244,Ceh Rahmawati,2022,Informatika,Lulus,Jakarta,2022-08-01
+2220245,Ror Hidayat,2022,Informatika,Aktif,Medan,2022-08-01
+2220246,Nug Ramadhan,2022,Informatika,aktif,Yogyakarta,2022-08-01
+2220247,Wob Wijaya,2022,Informatika,do,Bandung,2022-08-01
+2220248,Pig Saputra,2022,Informatika,AKTIF,Yogyakarta,2022-08-01
+2220249,Let Maulana,2022,Informatika,aktif,Semarang,2022-08-01
+2220250,Tab Putra,2022,Informatika,Cuti,Kupang,2022-08-01
+2220251,Dod Wulandari,2022,Informatika,Aktif,Makassar,2022-08-01
+2220252,Aep Wijaya,2022,Informatika,Cuti,Jakarta,2022-08-01
+2220253,Tun Firdaus,2022,Informatika,lulus,Jakarta,2022-08-01
+2220254,Lun Pratama,2022,Informatika,Lulus,Semarang,2022-08-01
+2220255,Eim Lestari,2022,Informatika,Aktif,Surabaya,2022-08-01
+2220256,Lol Saputra,2022,Informatika,do,Kupang,2022-08-01
+2220257,Loh Saputra,2022,Informatika,Aktif,Bandung,2022-08-01
+2220258,Jak Saputra,2022,Informatika,Cuti,Kupang,2022-08-01
+2220259,Boh Hidayat,2022,Informatika,aktif,Bandung,2022-08-01
+2220260,Fer Ramadhan,2022,Informatika,Lulus,Bandung,2022-08-01
+2220261,Tob Sari,2022,Informatika,AKTIF,Medan,2022-08-01
+2220262,Kay Wijaya,2022,Informatika,Cuti,Bandung,2022-08-01
+2220263,Ruk Nugroho,2022,Informatika,AKTIF,Medan,2022-08-01
+2220264,Pil Hidayat,2022,Informatika,AKTIF,Yogyakarta,2022-08-01
+2220265,Cak Rahmawati,2022,Informatika,AKTIF,Surabaya,2022-08-01
+2220266,Aah Anggraini,2022,Informatika,Aktif,Makassar,2022-08-01
+2220267,Fag Firdaus,2022,Informatika,aktif,Kupang,2022-08-01
+2220268,Hoh Maulana,2022,Informatika,AKTIF,Jakarta,2022-08-01
+2220269,Sep Lestari,2022,Informatika,Aktif,Jakarta,2022-08-01
+2220270,Non Firdaus,2022,Informatika,do,Bandung,2022-08-01
+2220271,Mow Wijaya,2022,Informatika,Lulus,Jakarta,2022-08-01
+2220272,Pir Kusuma,2022,Informatika,do,Medan,2022-08-01
+2220273,Tir Rahmawati,2022,Informatika,Lulus,Bandung,2022-08-01
+2220274,Heb Wulandari,2022,Informatika,lulus,Yogyakarta,2022-08-01
+2220275,Nam Putra,2022,Informatika,do,Surabaya,2022-08-01
+2220276,Lad Anggraini,2022,Informatika,aktif,Medan,2022-08-01
+2220277,Rob Firdaus,2022,Informatika,Aktif,Jakarta,2022-08-01
+2220278,Dis Ramadhan,2022,Informatika,cuti,Yogyakarta,2022-08-01
+2220279,Siy Kusuma,2022,Informatika,Lulus,Medan,2022-08-01
+2220280,Cad Lestari,2022,Informatika,cuti,Makassar,2022-08-01
+2220281,Saw Hidayat,2022,Informatika,lulus,Makassar,2022-08-01
+2220282,Yas Putra,2022,Informatika,Cuti,Bandung,2022-08-01
+2220283,Fak Hidayat,2022,Informatika,Aktif,Makassar,2022-08-01
+2220284,Pah Nugroho,2022,Informatika,Lulus,Surabaya,2022-08-01
+2220285,Wit Kusuma,2022,Informatika,aktif,Medan,2022-08-01
+2220286,Bew Wijaya,2022,Informatika,Lulus,Medan,2022-08-01
+2220287,Mip Saputra,2022,Informatika,lulus,Bandung,2022-08-01
+2220288,Wed Wijaya,,Informatika,aktif,Kupang,2022-08-01
+2220289,Jow Ramadhan,2022,Informatika,do,Yogyakarta,2022-08-01
+2220290,Gig Putra,2022,Informatika,Cuti,Jakarta,2022-08-01
+2220291,Kih Nugroho,2022,Informatika,AKTIF,Semarang,2022-08-01
+2220292,Sos Anggraini,2022,Informatika,cuti,Makassar,2022-08-01
+2220293,Wup Kusuma,2022,Informatika,Cuti,Semarang,2022-08-01
+2220294,Tor Pratama,2022,Informatika,aktif,Medan,2022-08-01
+2220295,Eeh Lestari,2022,Informatika,aktif,Surabaya,2022-08-01
+2220296,Pig Pratama,2022,Informatika,AKTIF,Kupang,2022-08-01
+2220297,Nag Ramadhan,2022,Informatika,do,Kupang,2022-08-01
+2220298,Job Anggraini,2022,Informatika,aktif,Medan,2022-08-01
+2220299,Ros Lestari,2022,Informatika,aktif,Semarang,2022-08-01
+2220300,Beb Maulana,2022,Informatika,Lulus,Bandung,2022-08-01
+2320001,Kas Pratama,2023,Informatika,lulus,Kupang,2023-08-01
+2320002,Dal Wijaya,2023,Informatika,Cuti,Kupang,2023-08-01
+2320003,Peb Sari,2023,Informatika,lulus,Makassar,2023-08-01
+2320004,Rup Rahmawati,2023,Informatika,aktif,Kupang,2023-08-01
+2320005,Buw Ramadhan,2023,Informatika,AKTIF,Makassar,2023-08-01
+2320006,Tub Saputra,2023,Informatika,do,Medan,2023-08-01
+2320007,Iot Wijaya,2023,Informatika,aktif,Yogyakarta,2023-08-01
+2320008,Guh Anggraini,2023,Informatika,cuti,Kupang,2023-08-01
+2320009,Mug Lestari,2023,Informatika,do,Makassar,2023-08-01
+2320010,Fih Sari,2023,Informatika,AKTIF,Makassar,2023-08-01
+2320011,Jes Kusuma,2023,Informatika,AKTIF,Jakarta,2023-08-01
+2320012,Gak Nugroho,2023,Informatika,aktif,Yogyakarta,2023-08-01
+2320013,Bok Wulandari,2023,Informatika,do,Medan,2023-08-01
+2320014,Hem Sari,2023,Informatika,Aktif,Kupang,2023-08-01
+2320015,Yub Saputra,2023,Informatika,AKTIF,Medan,2023-08-01
+2320016,Saw Firdaus,2023,Informatika,Cuti,Makassar,2023-08-01
+2320017,Yon Sari,2023,Informatika,lulus,Kupang,2023-08-01
+2320018,Eab Rahmawati,2023,Informatika,cuti,Medan,2023-08-01
+2320019,Wur Ramadhan,2023,Informatika,lulus,Semarang,2023-08-01
+2320020,Hah Wijaya,2023,Informatika,do,Jakarta,2023-08-01
+2320021,Aed Wulandari,2023,Informatika,aktif,Bandung,2023-08-01
+2320022,Aid Wulandari,2023,Informatika,Lulus,Makassar,2023-08-01
+2320023,Cos Nugroho,2023,Informatika,cuti,Bandung,2023-08-01
+2320024,Tab Anggraini,2023,Informatika,Cuti,Bandung,2023-08-01
+2320025,Jak Sari,2023,Informatika,cuti,Kupang,2023-08-01
+2320026,Eiy Sari,2023,Informatika,Cuti,Makassar,2023-08-01
+2320027,Meb Nugroho,2023,Informatika,Aktif,Kupang,2023-08-01
+2320028,Meh Pratama,,Informatika,AKTIF,Medan,2023-08-01
+2320029,Juw Rahmawati,2023,Informatika,Cuti,Jakarta,2023-08-01
+2320030,Lip Anggraini,,Informatika,do,Jakarta,2023-08-01
+2320031,Gak Wijaya,2023,Informatika,Aktif,Yogyakarta,2023-08-01
+2320032,Mik Saputra,2023,Informatika,lulus,Bandung,2023-08-01
+2320033,Nim Maulana,2023,Informatika,do,Surabaya,2023-08-01
+2320034,Hos Pratama,2023,Informatika,Cuti,Semarang,2023-08-01
+2320035,Eom Wijaya,2023,Informatika,cuti,Makassar,2023-08-01
+2320036,Gip Wijaya,2023,Informatika,cuti,Semarang,2023-08-01
+2320037,Roh Maulana,,Informatika,lulus,Makassar,2023-08-01
+2320038,Puw Sari,2023,Informatika,Lulus,Yogyakarta,2023-08-01
+2320039,Aes Wijaya,2023,Informatika,Cuti,Semarang,2023-08-01
+2320040,Iob Anggraini,2023,Informatika,Cuti,Makassar,2023-08-01
+2320041,Hem Firdaus,2023,Informatika,Lulus,Surabaya,2023-08-01
+2320042,Mup Lestari,2023,Informatika,Aktif,Makassar,2023-08-01
+2320043,Fed Kusuma,2023,Informatika,do,Surabaya,2023-08-01
+2320044,Iem Pratama,2023,Informatika,Lulus,Yogyakarta,2023-08-01
+2320045,Ail Saputra,2023,Informatika,lulus,Bandung,2023-08-01
+2320046,Cow Rahmawati,2023,Informatika,Cuti,Bandung,2023-08-01
+2320047,Wut Saputra,2023,Informatika,AKTIF,Bandung,2023-08-01
+2320048,Ret Anggraini,2023,Informatika,Lulus,Bandung,2023-08-01
+2320049,Kil Ramadhan,2023,Informatika,aktif,Semarang,2023-08-01
+2320050,Low Putra,2023,Informatika,do,Bandung,2023-08-01
+2320051,Ruk Pratama,2023,Informatika,aktif,Semarang,2023-08-01
+2320052,Har Anggraini,2023,Informatika,Lulus,Kupang,2023-08-01
+2320053,Hem Hidayat,2023,Informatika,cuti,Kupang,2023-08-01
+2320054,Cod Wijaya,2023,Informatika,Aktif,Semarang,2023-08-01
+2320055,Wiw Nugroho,,Informatika,Lulus,Kupang,2023-08-01
+2320056,Tas Sari,2023,Informatika,Aktif,Medan,2023-08-01
+2320057,Ted Anggraini,2023,Informatika,Cuti,Yogyakarta,2023-08-01
+2320058,Heg Pratama,2023,Informatika,AKTIF,Medan,2023-08-01
+2320059,Eak Nugroho,2023,Informatika,AKTIF,Bandung,2023-08-01
+2320060,Pim Wijaya,2023,Informatika,lulus,Makassar,2023-08-01
+2320061,Fiy Maulana,2023,Informatika,cuti,Surabaya,2023-08-01
+2320062,Gig Ramadhan,2023,Informatika,Aktif,Bandung,2023-08-01
+2320063,Tam Pratama,2023,Informatika,do,Bandung,2023-08-01
+2320064,Sad Nugroho,2023,Informatika,cuti,,2023-08-01
+2320065,Jiy Ramadhan,2023,Informatika,lulus,Jakarta,2023-08-01
+2320066,Cop Kusuma,2023,Informatika,Aktif,Makassar,2023-08-01
+2320067,Dot Ramadhan,2023,Informatika,cuti,Bandung,2023-08-01
+2320068,Aar Ramadhan,2023,Informatika,Cuti,,2023-08-01
+2320069,Dum Putra,2023,Informatika,do,Surabaya,2023-08-01
+2320070,Cuk Kusuma,2023,Informatika,Lulus,Semarang,2023-08-01
+2320071,Tek Lestari,2023,Informatika,Lulus,Surabaya,2023-08-01
+2320072,Gis Rahmawati,2023,Informatika,Cuti,Jakarta,2023-08-01
+2320073,Rol Pratama,2023,Informatika,Cuti,Kupang,2023-08-01
+2320074,Gos Putra,2023,Informatika,do,Jakarta,2023-08-01
+2320075,Rop Wulandari,2023,Informatika,aktif,Yogyakarta,2023-08-01
+2320076,Ias Saputra,,Informatika,lulus,Semarang,2023-08-01
+2320077,Yop Wulandari,2023,Informatika,cuti,Kupang,2023-08-01
+2320078,Hey Anggraini,2023,Informatika,lulus,Kupang,2023-08-01
+2320079,Yin Kusuma,2023,Informatika,AKTIF,Semarang,2023-08-01
+2320080,Joy Rahmawati,2023,Informatika,AKTIF,Yogyakarta,2023-08-01
+2320081,Tem Wijaya,2023,Informatika,lulus,Semarang,2023-08-01
+2320082,Dat Rahmawati,2023,Informatika,aktif,Medan,2023-08-01
+2320083,Wil Hidayat,2023,Informatika,aktif,Surabaya,2023-08-01
+2320084,Kip Lestari,2023,Informatika,do,Surabaya,2023-08-01
+2320085,Yuy Pratama,2023,Informatika,do,Jakarta,2023-08-01
+2320086,Jod Nugroho,2023,Informatika,AKTIF,Jakarta,2023-08-01
+2320087,Aop Kusuma,2023,Informatika,AKTIF,Surabaya,2023-08-01
+2320088,Iir Sari,2023,Informatika,aktif,Yogyakarta,2023-08-01
+2320089,Lud Sari,2023,Informatika,lulus,Semarang,2023-08-01
+2320090,Dar Wijaya,2023,Informatika,Lulus,Kupang,2023-08-01
+2320091,Ien Anggraini,2023,Informatika,lulus,Medan,2023-08-01
+2320092,Len Wulandari,,Informatika,lulus,Medan,2023-08-01
+2320093,Kim Nugroho,2023,Informatika,do,Jakarta,2023-08-01
+2320094,Wom Wulandari,2023,Informatika,Aktif,Makassar,2023-08-01
+2320095,Hun Kusuma,2023,Informatika,Lulus,Semarang,2023-08-01
+2320096,Kiw Nugroho,2023,Informatika,aktif,Medan,2023-08-01
+2320097,Iun Pratama,2023,Informatika,lulus,Jakarta,2023-08-01
+2320098,Bis Putra,2023,Informatika,Aktif,Medan,2023-08-01
+2320099,Jiy Sari,2023,Informatika,lulus,Makassar,2023-08-01
+2320100,Had Lestari,2023,Informatika,Cuti,Surabaya,2023-08-01
+2320101,Mur Lestari,2023,Informatika,do,Kupang,2023-08-01
+2320102,Nol Wulandari,2023,Informatika,Cuti,Semarang,2023-08-01
+2320103,Hag Ramadhan,2023,Informatika,lulus,Surabaya,2023-08-01
+2320104,Gek Rahmawati,2023,Informatika,lulus,Yogyakarta,2023-08-01
+2320105,Cim Nugroho,2023,Informatika,cuti,Jakarta,2023-08-01
+2320106,Rah Saputra,2023,Informatika,Cuti,,2023-08-01
+2320107,Nim Anggraini,2023,Informatika,Lulus,Surabaya,2023-08-01
+2320108,Far Kusuma,2023,Informatika,aktif,,2023-08-01
+2320109,Coh Putra,2023,Informatika,Cuti,Jakarta,2023-08-01
+2320110,Sat Firdaus,2023,Informatika,Lulus,Semarang,2023-08-01
+2320111,Eip Firdaus,2023,Informatika,do,Surabaya,2023-08-01
+2320112,Bed Pratama,2023,Informatika,aktif,Medan,2023-08-01
+2320113,Hil Saputra,2023,Informatika,cuti,Medan,2023-08-01
+2320114,Nud Ramadhan,2023,Informatika,Lulus,Surabaya,2023-08-01
+2320115,Soh Saputra,2023,Informatika,Aktif,Bandung,2023-08-01
+2320116,Eis Hidayat,2023,Informatika,Lulus,Surabaya,2023-08-01
+2320117,Set Putra,2023,Informatika,Aktif,Semarang,2023-08-01
+2320118,Sil Nugroho,2023,Informatika,cuti,Semarang,2023-08-01
+2320119,Aal Rahmawati,2023,Informatika,lulus,Makassar,2023-08-01
+2320120,Aih Ramadhan,2023,Informatika,aktif,Semarang,2023-08-01
+2320121,Aes Wijaya,2023,Informatika,AKTIF,Makassar,2023-08-01
+2320122,Len Lestari,2023,Informatika,cuti,Semarang,2023-08-01
+2320123,Biy Hidayat,2023,Informatika,Lulus,Kupang,2023-08-01
+2320124,Nup Hidayat,2023,Informatika,AKTIF,Surabaya,2023-08-01
+2320125,Cog Wijaya,2023,Informatika,Lulus,Kupang,2023-08-01
+2320126,Ray Pratama,2023,Informatika,AKTIF,Surabaya,2023-08-01
+2320127,Lug Saputra,2023,Informatika,Aktif,Semarang,2023-08-01
+2320128,Nod Firdaus,2023,Informatika,Aktif,Makassar,2023-08-01
+2320129,Mil Putra,2023,Informatika,Lulus,Semarang,2023-08-01
+2320130,Nas Putra,2023,Informatika,lulus,Kupang,2023-08-01
+2320131,Wal Wulandari,2023,Informatika,Lulus,Surabaya,2023-08-01
+2320132,Gal Sari,2023,Informatika,do,Yogyakarta,2023-08-01
+2320133,Yam Putra,2023,Informatika,cuti,Semarang,2023-08-01
+2320134,Pus Saputra,2023,Informatika,AKTIF,Kupang,2023-08-01
+2320135,Ait Sari,2023,Informatika,AKTIF,Makassar,2023-08-01
+2320136,Fuk Kusuma,2023,Informatika,do,Semarang,2023-08-01
+2320137,Iis Nugroho,2023,Informatika,lulus,Yogyakarta,2023-08-01
+2320138,Aib Kusuma,2023,Informatika,AKTIF,Kupang,2023-08-01
+2320139,Eet Pratama,2023,Informatika,Lulus,Medan,2023-08-01
+2320140,Hah Saputra,2023,Informatika,Cuti,Bandung,2023-08-01
+2320141,Duh Sari,2023,Informatika,aktif,Kupang,2023-08-01
+2320142,Iek Firdaus,2023,Informatika,lulus,Semarang,2023-08-01
+2320143,Mug Hidayat,2023,Informatika,Lulus,Yogyakarta,2023-08-01
+2320144,Kir Rahmawati,2023,Informatika,AKTIF,Bandung,2023-08-01
+2320145,Yag Wijaya,2023,Informatika,Aktif,,2023-08-01
+2320146,Yug Saputra,2023,Informatika,cuti,,2023-08-01
+2320147,Tep Sari,2023,Informatika,Cuti,Bandung,2023-08-01
+2320148,Iig Lestari,2023,Informatika,cuti,Makassar,2023-08-01
+2320149,Pun Pratama,2023,Informatika,aktif,Bandung,2023-08-01
+2320150,Tan Anggraini,2023,Informatika,do,Medan,2023-08-01
+2320151,Neb Anggraini,2023,Informatika,Lulus,Surabaya,2023-08-01
+2320152,Duh Wijaya,2023,Informatika,do,Jakarta,2023-08-01
+2320153,Wen Pratama,2023,Informatika,AKTIF,Makassar,2023-08-01
+2320154,Nuy Sari,2023,Informatika,Aktif,Jakarta,2023-08-01
+2320155,Nun Pratama,2023,Informatika,cuti,Yogyakarta,2023-08-01
+2320156,Keb Ramadhan,2023,Informatika,Lulus,Kupang,2023-08-01
+2320157,Tay Lestari,2023,Informatika,do,Jakarta,2023-08-01
+2320158,Kir Wijaya,2023,Informatika,aktif,Jakarta,2023-08-01
+2320159,Gik Nugroho,2023,Informatika,cuti,Kupang,2023-08-01
+2320160,Iip Wijaya,2023,Informatika,aktif,Surabaya,2023-08-01
+2320161,Lub Ramadhan,2023,Informatika,aktif,Makassar,2023-08-01
+2320162,Muk Ramadhan,2023,Informatika,cuti,Jakarta,2023-08-01
+2320163,Hog Firdaus,2023,Informatika,Aktif,Surabaya,2023-08-01
+2320164,Pet Hidayat,2023,Informatika,AKTIF,Jakarta,2023-08-01
+2320165,Lil Maulana,2023,Informatika,AKTIF,Kupang,2023-08-01
+2320166,Eir Putra,2023,Informatika,Lulus,Makassar,2023-08-01
+2320167,Mek Pratama,2023,Informatika,Cuti,Jakarta,2023-08-01
+2320168,Jak Ramadhan,2023,Informatika,aktif,Yogyakarta,2023-08-01
+2320169,Fih Anggraini,2023,Informatika,do,,2023-08-01
+2320170,Eak Hidayat,2023,Informatika,cuti,Kupang,2023-08-01
+2320171,Iam Wulandari,2023,Informatika,Cuti,Bandung,2023-08-01
+2320172,Lan Lestari,2023,Informatika,aktif,Makassar,2023-08-01
+2320173,Hus Wulandari,2023,Informatika,lulus,Surabaya,2023-08-01
+2320174,Wir Kusuma,2023,Informatika,aktif,Jakarta,2023-08-01
+2320175,Eid Saputra,2023,Informatika,cuti,Bandung,2023-08-01
+2320176,Aey Firdaus,2023,Informatika,cuti,Jakarta,2023-08-01
+2320177,Auk Hidayat,2023,Informatika,do,,2023-08-01
+2320178,Wid Firdaus,2023,Informatika,Lulus,Makassar,2023-08-01
+2320179,Gig Sari,2023,Informatika,Cuti,Surabaya,2023-08-01
+2320180,Rek Wulandari,2023,Informatika,lulus,Jakarta,2023-08-01
+2320181,Aad Ramadhan,2023,Informatika,cuti,Semarang,2023-08-01
+2320182,Doh Putra,2023,Informatika,lulus,Semarang,2023-08-01
+2320183,Eag Wulandari,2023,Informatika,Lulus,Medan,2023-08-01
+2320184,Pew Lestari,2023,Informatika,Lulus,Makassar,2023-08-01
+2320185,Led Ramadhan,2023,Informatika,Cuti,Yogyakarta,2023-08-01
+2320186,Jum Lestari,2023,Informatika,do,Semarang,2023-08-01
+2320187,Fam Wulandari,2023,Informatika,AKTIF,Makassar,2023-08-01
+2320188,Rab Nugroho,2023,Informatika,Aktif,Kupang,2023-08-01
+2320189,Wuw Anggraini,2023,Informatika,Aktif,Semarang,2023-08-01
+2320190,Wes Saputra,2023,Informatika,Lulus,Makassar,2023-08-01
+2320191,Geb Pratama,2023,Informatika,cuti,Kupang,2023-08-01
+2320192,Jad Anggraini,2023,Informatika,cuti,Makassar,2023-08-01
+2320193,Guh Lestari,2023,Informatika,Aktif,Medan,2023-08-01
+2320194,Tol Putra,2023,Informatika,aktif,Semarang,2023-08-01
+2320195,Ren Pratama,2023,Informatika,Lulus,Jakarta,2023-08-01
+2320196,Ies Ramadhan,2023,Informatika,Lulus,,2023-08-01
+2320197,Jal Nugroho,2023,Informatika,aktif,Yogyakarta,2023-08-01
+2320198,Yuh Wulandari,2023,Informatika,Aktif,Medan,2023-08-01
+2320199,Fan Ramadhan,2023,Informatika,aktif,Yogyakarta,2023-08-01
+2320200,Wub Saputra,2023,Informatika,Lulus,Yogyakarta,2023-08-01
+2320201,Feb Sari,2023,Informatika,AKTIF,Surabaya,2023-08-01
+2320202,Dod Putra,2023,Informatika,aktif,Jakarta,2023-08-01
+2320203,Sew Kusuma,2023,Informatika,cuti,Yogyakarta,2023-08-01
+2320204,Pan Hidayat,2023,Informatika,lulus,Bandung,2023-08-01
+2320205,Pow Wijaya,2023,Informatika,AKTIF,Makassar,2023-08-01
+2320206,Cab Wulandari,2023,Informatika,Lulus,Medan,2023-08-01
+2320207,Eat Sari,2023,Informatika,cuti,Medan,2023-08-01
+2320208,Toh Lestari,2023,Informatika,Lulus,Kupang,2023-08-01
+2320209,Kop Nugroho,2023,Informatika,AKTIF,Bandung,2023-08-01
+2320210,Sah Saputra,2023,Informatika,aktif,Jakarta,2023-08-01
+2320211,Lub Ramadhan,2023,Informatika,do,Makassar,2023-08-01
+2320212,Set Anggraini,2023,Informatika,Cuti,Semarang,2023-08-01
+2320213,Aow Putra,2023,Informatika,cuti,Kupang,2023-08-01
+2320214,Fom Kusuma,2023,Informatika,aktif,Surabaya,2023-08-01
+2320215,Mak Ramadhan,2023,Informatika,cuti,Jakarta,2023-08-01
+2320216,Aip Wulandari,2023,Informatika,do,Jakarta,2023-08-01
+2320217,Pah Nugroho,2023,Informatika,do,Yogyakarta,2023-08-01
+2320218,Nib Wulandari,2023,Informatika,do,Surabaya,2023-08-01
+2320219,Wul Putra,2023,Informatika,aktif,Kupang,2023-08-01
+2320220,Doh Wijaya,2023,Informatika,AKTIF,Jakarta,2023-08-01
+2320221,Eaw Rahmawati,2023,Informatika,cuti,Kupang,2023-08-01
+2320222,Aor Wijaya,2023,Informatika,aktif,Medan,2023-08-01
+2320223,Ioy Wulandari,2023,Informatika,AKTIF,Yogyakarta,2023-08-01
+2320224,Yey Wijaya,2023,Informatika,aktif,Surabaya,2023-08-01
+2320225,Log Lestari,2023,Informatika,cuti,Kupang,2023-08-01
+2320226,Wig Hidayat,2023,Informatika,AKTIF,Kupang,2023-08-01
+2320227,Big Maulana,2023,Informatika,Aktif,Bandung,2023-08-01
+2320228,Jos Lestari,2023,Informatika,lulus,Surabaya,2023-08-01
+2320229,Mop Nugroho,2023,Informatika,AKTIF,Bandung,2023-08-01
+2320230,Pem Sari,2023,Informatika,AKTIF,,2023-08-01
+2320231,Eog Maulana,2023,Informatika,Lulus,Surabaya,2023-08-01
+2320232,Soh Wulandari,2023,Informatika,cuti,Medan,2023-08-01
+2320233,Det Anggraini,2023,Informatika,cuti,Yogyakarta,2023-08-01
+2320234,Nib Anggraini,2023,Informatika,cuti,Surabaya,2023-08-01
+2320235,Ior Putra,2023,Informatika,aktif,Bandung,2023-08-01
+2320236,Eig Hidayat,2023,Informatika,Lulus,Semarang,2023-08-01
+2320237,Bob Sari,2023,Informatika,aktif,Jakarta,2023-08-01
+2320238,Gob Ramadhan,2023,Informatika,aktif,Medan,2023-08-01
+2320239,Kat Nugroho,2023,Informatika,aktif,,2023-08-01
+2320240,Pig Saputra,2023,Informatika,do,Bandung,2023-08-01
+2320241,Roh Wulandari,2023,Informatika,lulus,Bandung,2023-08-01
+2320242,Cew Kusuma,2023,Informatika,AKTIF,Medan,2023-08-01
+2320243,Pup Hidayat,2023,Informatika,lulus,,2023-08-01
+2320244,Lub Lestari,2023,Informatika,Lulus,Yogyakarta,2023-08-01
+2320245,Naw Rahmawati,2023,Informatika,cuti,Makassar,2023-08-01
+2320246,Tat Kusuma,2023,Informatika,Aktif,Kupang,2023-08-01
+2320247,Cow Rahmawati,2023,Informatika,lulus,Semarang,2023-08-01
+2320248,Hus Ramadhan,2023,Informatika,lulus,Makassar,2023-08-01
+2320249,Yer Putra,2023,Informatika,aktif,Surabaya,2023-08-01
+2320250,Iat Saputra,2023,Informatika,lulus,Kupang,2023-08-01
+2320251,Ear Kusuma,2023,Informatika,lulus,Kupang,2023-08-01
+2320252,Bah Lestari,2023,Informatika,do,Makassar,2023-08-01
+2320253,Aes Anggraini,2023,Informatika,Cuti,Makassar,2023-08-01
+2320254,Yer Anggraini,2023,Informatika,aktif,Surabaya,2023-08-01
+2320255,Seb Anggraini,2023,Informatika,Aktif,Surabaya,2023-08-01
+2320256,Aig Hidayat,2023,Informatika,lulus,Yogyakarta,2023-08-01
+2320257,Fed Nugroho,2023,Informatika,AKTIF,Makassar,2023-08-01
+2320258,Eoy Lestari,2023,Informatika,cuti,Semarang,2023-08-01
+2320259,Iak Saputra,2023,Informatika,Cuti,Bandung,2023-08-01
+2320260,Iot Wulandari,2023,Informatika,cuti,Yogyakarta,2023-08-01
+2320261,Kas Rahmawati,2023,Informatika,cuti,Semarang,2023-08-01
+2320262,Mur Firdaus,2023,Informatika,Cuti,Jakarta,2023-08-01
+2320263,Yap Ramadhan,2023,Informatika,cuti,Medan,2023-08-01
+2320264,Keb Saputra,2023,Informatika,do,Makassar,2023-08-01
+2320265,Sow Maulana,2023,Informatika,Lulus,Semarang,2023-08-01
+2320266,Paw Nugroho,2023,Informatika,aktif,Semarang,2023-08-01
+2320267,Kar Rahmawati,2023,Informatika,Aktif,Makassar,2023-08-01
+2320268,Mow Wijaya,2023,Informatika,aktif,Kupang,2023-08-01
+2320269,Bok Anggraini,2023,Informatika,do,Medan,2023-08-01
+2320270,Lur Hidayat,2023,Informatika,cuti,Jakarta,2023-08-01
+2320271,Bay Wijaya,2023,Informatika,Aktif,Makassar,2023-08-01
+2320272,Rew Rahmawati,2023,Informatika,Aktif,Medan,2023-08-01
+2320273,Yib Putra,2023,Informatika,aktif,Makassar,2023-08-01
+2320274,Pup Putra,2023,Informatika,cuti,Medan,2023-08-01
+2320275,Tip Lestari,2023,Informatika,AKTIF,Semarang,2023-08-01
+2320276,Wur Sari,2023,Informatika,aktif,Makassar,2023-08-01
+2320277,Rur Kusuma,2023,Informatika,cuti,Bandung,2023-08-01
+2320278,Wor Sari,2023,Informatika,do,Bandung,2023-08-01
+2320279,Aoy Firdaus,2023,Informatika,lulus,Jakarta,2023-08-01
+2320280,Lug Ramadhan,2023,Informatika,cuti,Medan,2023-08-01
+2320281,Lup Firdaus,2023,Informatika,cuti,Medan,2023-08-01
+2320282,Eoh Lestari,2023,Informatika,cuti,Bandung,2023-08-01
+2320283,Fuy Firdaus,2023,Informatika,do,Surabaya,2023-08-01
+2320284,Aah Saputra,2023,Informatika,Lulus,Surabaya,2023-08-01
+2320285,Eom Maulana,2023,Informatika,lulus,Semarang,2023-08-01
+2320286,Tek Putra,2023,Informatika,do,Makassar,2023-08-01
+2320287,Pub Hidayat,2023,Informatika,lulus,Bandung,2023-08-01
+2320288,Heh Pratama,2023,Informatika,do,Bandung,2023-08-01
+2320289,Men Kusuma,2023,Informatika,aktif,Kupang,2023-08-01
+2320290,Nod Firdaus,2023,Informatika,Aktif,Yogyakarta,2023-08-01
+2320291,Mat Pratama,2023,Informatika,Lulus,Medan,2023-08-01
+2320292,Guk Nugroho,2023,Informatika,AKTIF,Surabaya,2023-08-01
+2320293,Bum Hidayat,2023,Informatika,cuti,Makassar,2023-08-01
+2320294,Pah Lestari,2023,Informatika,Cuti,Kupang,2023-08-01
+2320295,Fod Saputra,2023,Informatika,Cuti,Yogyakarta,2023-08-01
+2320296,Nop Nugroho,2023,Informatika,cuti,Yogyakarta,2023-08-01
+2320297,Jay Ramadhan,2023,Informatika,aktif,Medan,2023-08-01
+2320298,Aop Pratama,2023,Informatika,lulus,Medan,2023-08-01
+2320299,Piw Saputra,2023,Informatika,AKTIF,Bandung,2023-08-01
+2320300,Rad Hidayat,2023,Informatika,lulus,Jakarta,2023-08-01
+2420001,Bas Lestari,2024,Informatika,aktif,Jakarta,2024-08-01
+2420002,Fom Hidayat,2024,Informatika,do,Yogyakarta,2024-08-01
+2420003,Him Firdaus,2024,Informatika,AKTIF,Semarang,2024-08-01
+2420004,Lak Pratama,2024,Informatika,cuti,Jakarta,2024-08-01
+2420005,Jur Wulandari,2024,Informatika,Lulus,Jakarta,2024-08-01
+2420006,Sag Firdaus,2024,Informatika,AKTIF,Surabaya,2024-08-01
+2420007,Nos Hidayat,2024,Informatika,Aktif,Bandung,2024-08-01
+2420008,Dar Ramadhan,2024,Informatika,Aktif,Medan,2024-08-01
+2420009,Gag Wulandari,2024,Informatika,cuti,Surabaya,2024-08-01
+2420010,Hir Anggraini,2024,Informatika,Cuti,Makassar,2024-08-01
+2420011,Iam Wulandari,2024,Informatika,lulus,Bandung,2024-08-01
+2420012,Rep Nugroho,2024,Informatika,AKTIF,Medan,2024-08-01
+2420013,Cos Rahmawati,2024,Informatika,Lulus,Jakarta,2024-08-01
+2420014,Cog Nugroho,2024,Informatika,lulus,Jakarta,2024-08-01
+2420015,Lip Wulandari,2024,Informatika,do,Makassar,2024-08-01
+2420016,Hew Pratama,2024,Informatika,AKTIF,Medan,2024-08-01
+2420017,Sub Maulana,2024,Informatika,Cuti,Surabaya,2024-08-01
+2420018,Sut Ramadhan,2024,Informatika,AKTIF,Makassar,2024-08-01
+2420019,Ron Ramadhan,2024,Informatika,cuti,Makassar,2024-08-01
+2420020,Eip Anggraini,2024,Informatika,lulus,Jakarta,2024-08-01
+2420021,Iir Wijaya,2024,Informatika,do,Jakarta,2024-08-01
+2420022,Nob Hidayat,2024,Informatika,lulus,Yogyakarta,2024-08-01
+2420023,Dap Putra,2024,Informatika,Aktif,Bandung,2024-08-01
+2420024,Sek Pratama,2024,Informatika,cuti,Medan,2024-08-01
+2420025,Pes Anggraini,2024,Informatika,aktif,Kupang,2024-08-01
+2420026,Wuh Wijaya,2024,Informatika,Aktif,Surabaya,2024-08-01
+2420027,Toy Wijaya,2024,Informatika,cuti,Jakarta,2024-08-01
+2420028,Iah Saputra,2024,Informatika,Aktif,Semarang,2024-08-01
+2420029,Has Hidayat,2024,Informatika,do,Yogyakarta,2024-08-01
+2420030,Nak Hidayat,2024,Informatika,aktif,Surabaya,2024-08-01
+2420031,Ceg Pratama,2024,Informatika,Aktif,Surabaya,2024-08-01
+2420032,Kon Saputra,2024,Informatika,Lulus,Makassar,2024-08-01
+2420033,Ril Saputra,2024,Informatika,Cuti,Jakarta,2024-08-01
+2420034,Wok Nugroho,2024,Informatika,Cuti,Kupang,2024-08-01
+2420035,Eup Firdaus,2024,Informatika,Lulus,Semarang,2024-08-01
+2420036,Cok Ramadhan,2024,Informatika,cuti,Semarang,2024-08-01
+2420037,Fup Firdaus,2024,Informatika,Cuti,Yogyakarta,2024-08-01
+2420038,Yit Maulana,2024,Informatika,do,Jakarta,2024-08-01
+2420039,Dos Lestari,2024,Informatika,AKTIF,Makassar,2024-08-01
+2420040,Wuh Sari,2024,Informatika,AKTIF,Makassar,2024-08-01
+2420041,Pok Hidayat,2024,Informatika,aktif,Kupang,2024-08-01
+2420042,Sek Kusuma,2024,Informatika,aktif,Bandung,2024-08-01
+2420043,Jag Rahmawati,2024,Informatika,cuti,Surabaya,2024-08-01
+2420044,Joh Nugroho,2024,Informatika,AKTIF,Surabaya,2024-08-01
+2420045,Cib Anggraini,2024,Informatika,do,Kupang,2024-08-01
+2420046,Ael Saputra,2024,Informatika,AKTIF,Yogyakarta,2024-08-01
+2420047,Jep Putra,2024,Informatika,lulus,Semarang,2024-08-01
+2420048,Wab Saputra,2024,Informatika,Cuti,Bandung,2024-08-01
+2420049,Pir Wulandari,2024,Informatika,aktif,Makassar,2024-08-01
+2420050,Yup Ramadhan,2024,Informatika,aktif,Jakarta,2024-08-01
+2420051,Sor Putra,2024,Informatika,Cuti,Yogyakarta,2024-08-01
+2420052,Wey Pratama,2024,Informatika,Aktif,Semarang,2024-08-01
+2420053,Pom Pratama,2024,Informatika,Aktif,Kupang,2024-08-01
+2420054,Huk Wulandari,2024,Informatika,lulus,Semarang,2024-08-01
+2420055,Wid Pratama,2024,Informatika,AKTIF,Makassar,2024-08-01
+2420056,Lah Anggraini,2024,Informatika,cuti,Bandung,2024-08-01
+2420057,Lor Lestari,2024,Informatika,Aktif,,2024-08-01
+2420058,Mug Firdaus,2024,Informatika,aktif,Bandung,2024-08-01
+2420059,Bap Nugroho,,Informatika,Aktif,Medan,2024-08-01
+2420060,Eud Nugroho,2024,Informatika,aktif,Jakarta,2024-08-01
+2420061,Sak Anggraini,2024,Informatika,AKTIF,Yogyakarta,2024-08-01
+2420062,Pok Sari,2024,Informatika,aktif,Bandung,2024-08-01
+2420063,Fuw Firdaus,2024,Informatika,aktif,Medan,2024-08-01
+2420064,Jus Kusuma,2024,Informatika,Lulus,Makassar,2024-08-01
+2420065,Wit Firdaus,2024,Informatika,aktif,,2024-08-01
+2420066,Yug Saputra,2024,Informatika,Lulus,Yogyakarta,2024-08-01
+2420067,Wok Firdaus,2024,Informatika,Cuti,Yogyakarta,2024-08-01
+2420068,Kir Rahmawati,2024,Informatika,cuti,Makassar,2024-08-01
+2420069,Kub Maulana,2024,Informatika,lulus,Medan,2024-08-01
+2420070,Bin Hidayat,2024,Informatika,aktif,Medan,2024-08-01
+2420071,Cus Hidayat,2024,Informatika,cuti,Semarang,2024-08-01
+2420072,Tan Anggraini,2024,Informatika,Aktif,Yogyakarta,2024-08-01
+2420073,Eob Wijaya,2024,Informatika,aktif,Medan,2024-08-01
+2420074,Buy Putra,2024,Informatika,cuti,Semarang,2024-08-01
+2420075,Jeb Firdaus,2024,Informatika,do,Kupang,2024-08-01
+2420076,Dip Wulandari,2024,Informatika,Cuti,Semarang,2024-08-01
+2420077,Aok Wulandari,2024,Informatika,do,Medan,2024-08-01
+2420078,Nek Saputra,2024,Informatika,do,Kupang,2024-08-01
+2420079,Nap Wijaya,2024,Informatika,AKTIF,Medan,2024-08-01
+2420080,Iay Rahmawati,2024,Informatika,Lulus,Bandung,2024-08-01
+2420081,Eun Anggraini,2024,Informatika,cuti,Bandung,2024-08-01
+2420082,Gop Firdaus,2024,Informatika,Lulus,Semarang,2024-08-01
+2420083,Lak Pratama,2024,Informatika,Lulus,Kupang,2024-08-01
+2420084,Yep Firdaus,2024,Informatika,AKTIF,Semarang,2024-08-01
+2420085,Gig Hidayat,2024,Informatika,Aktif,Surabaya,2024-08-01
+2420086,Yod Rahmawati,2024,Informatika,Aktif,Yogyakarta,2024-08-01
+2420087,Kes Hidayat,2024,Informatika,cuti,Semarang,2024-08-01
+2420088,Dem Kusuma,2024,Informatika,lulus,Medan,2024-08-01
+2420089,Let Lestari,2024,Informatika,lulus,Yogyakarta,2024-08-01
+2420090,Gel Putra,2024,Informatika,aktif,Bandung,2024-08-01
+2420091,Eih Nugroho,2024,Informatika,aktif,Kupang,2024-08-01
+2420092,Cep Firdaus,2024,Informatika,aktif,Medan,2024-08-01
+2420093,Mat Maulana,2024,Informatika,lulus,Kupang,2024-08-01
+2420094,Git Saputra,2024,Informatika,cuti,Bandung,2024-08-01
+2420095,Wer Putra,2024,Informatika,lulus,Semarang,2024-08-01
+2420096,Gor Ramadhan,2024,Informatika,AKTIF,Makassar,2024-08-01
+2420097,Jah Lestari,2024,Informatika,lulus,Medan,2024-08-01
+2420098,Een Nugroho,2024,Informatika,do,Makassar,2024-08-01
+2420099,Sal Wijaya,2024,Informatika,do,Jakarta,2024-08-01
+2420100,Bil Lestari,2024,Informatika,AKTIF,Jakarta,2024-08-01
+2420101,Lir Putra,2024,Informatika,do,Surabaya,2024-08-01
+2420102,Jor Ramadhan,2024,Informatika,lulus,Medan,2024-08-01
+2420103,Jem Maulana,2024,Informatika,lulus,Jakarta,2024-08-01
+2420104,Con Pratama,2024,Informatika,Aktif,Bandung,2024-08-01
+2420105,Far Wijaya,2024,Informatika,aktif,Medan,2024-08-01
+2420106,Sit Nugroho,2024,Informatika,lulus,Medan,2024-08-01
+2420107,Rom Saputra,2024,Informatika,do,Semarang,2024-08-01
+2420108,Tow Putra,2024,Informatika,do,Bandung,2024-08-01
+2420109,Lab Rahmawati,2024,Informatika,lulus,Bandung,2024-08-01
+2420110,Eit Firdaus,2024,Informatika,do,Medan,2024-08-01
+2420111,Bis Anggraini,2024,Informatika,lulus,Semarang,2024-08-01
+2420112,Tur Kusuma,2024,Informatika,do,Yogyakarta,2024-08-01
+2420113,San Saputra,2024,Informatika,cuti,Bandung,2024-08-01
+2420114,Bak Nugroho,2024,Informatika,lulus,Jakarta,2024-08-01
+2420115,Gup Maulana,2024,Informatika,cuti,Bandung,2024-08-01
+2420116,Eut Nugroho,2024,Informatika,lulus,Makassar,2024-08-01
+2420117,Kuy Saputra,2024,Informatika,Lulus,Kupang,2024-08-01
+2420118,Cam Kusuma,2024,Informatika,Cuti,Kupang,2024-08-01
+2420119,Dak Rahmawati,2024,Informatika,cuti,Surabaya,2024-08-01
+2420120,Lub Ramadhan,2024,Informatika,cuti,Makassar,2024-08-01
+2420121,Kud Anggraini,2024,Informatika,cuti,Surabaya,2024-08-01
+2420122,Iad Putra,2024,Informatika,Aktif,Makassar,2024-08-01
+2420123,Sis Wijaya,2024,Informatika,AKTIF,Yogyakarta,2024-08-01
+2420124,Mim Rahmawati,2024,Informatika,cuti,Medan,2024-08-01
+2420125,Aed Putra,2024,Informatika,AKTIF,Surabaya,2024-08-01
+2420126,Kab Sari,2024,Informatika,Aktif,Jakarta,2024-08-01
+2420127,Riw Maulana,2024,Informatika,cuti,Makassar,2024-08-01
+2420128,Mip Lestari,2024,Informatika,cuti,Medan,2024-08-01
+2420129,Fop Anggraini,2024,Informatika,Aktif,Yogyakarta,2024-08-01
+2420130,Lem Firdaus,2024,Informatika,aktif,Bandung,2024-08-01
+2420131,Kud Pratama,2024,Informatika,lulus,Semarang,2024-08-01
+2420132,Tih Maulana,2024,Informatika,Lulus,Yogyakarta,2024-08-01
+2420133,Gal Wulandari,2024,Informatika,Aktif,Yogyakarta,2024-08-01
+2420134,Gel Kusuma,2024,Informatika,Aktif,Jakarta,2024-08-01
+2420135,Bah Wijaya,2024,Informatika,do,Kupang,2024-08-01
+2420136,Gil Wijaya,2024,Informatika,cuti,Surabaya,2024-08-01
+2420137,Wib Wulandari,2024,Informatika,AKTIF,Semarang,2024-08-01
+2420138,Fil Lestari,2024,Informatika,cuti,Yogyakarta,2024-08-01
+2420139,Lek Kusuma,2024,Informatika,lulus,Yogyakarta,2024-08-01
+2420140,Fid Kusuma,2024,Informatika,do,Semarang,2024-08-01
+2420141,Gog Saputra,2024,Informatika,AKTIF,Yogyakarta,2024-08-01
+2420142,Ian Wulandari,2024,Informatika,do,Surabaya,2024-08-01
+2420143,Dos Ramadhan,2024,Informatika,lulus,Kupang,2024-08-01
+2420144,Nok Pratama,2024,Informatika,AKTIF,Jakarta,2024-08-01
+2420145,Ger Wulandari,2024,Informatika,Cuti,Medan,2024-08-01
+2420146,Ler Kusuma,2024,Informatika,Lulus,Makassar,2024-08-01
+2420147,Yuh Maulana,2024,Informatika,Cuti,Surabaya,2024-08-01
+2420148,Tur Sari,2024,Informatika,Aktif,Bandung,2024-08-01
+2420149,Jum Hidayat,2024,Informatika,lulus,Medan,2024-08-01
+2420150,Iar Putra,2024,Informatika,do,Bandung,2024-08-01
+2420151,Car Firdaus,2024,Informatika,Cuti,Makassar,2024-08-01
+2420152,Pul Lestari,2024,Informatika,do,Medan,2024-08-01
+2420153,Fah Pratama,,Informatika,Aktif,Semarang,2024-08-01
+2420154,Bol Nugroho,2024,Informatika,AKTIF,Surabaya,2024-08-01
+2420155,Sug Anggraini,2024,Informatika,lulus,Kupang,2024-08-01
+2420156,Fak Sari,2024,Informatika,Lulus,Kupang,2024-08-01
+2420157,Kiw Nugroho,2024,Informatika,Cuti,Surabaya,2024-08-01
+2420158,Tuk Rahmawati,2024,Informatika,Aktif,Yogyakarta,2024-08-01
+2420159,Ear Maulana,2024,Informatika,cuti,Medan,2024-08-01
+2420160,Gob Ramadhan,2024,Informatika,cuti,Semarang,2024-08-01
+2420161,Fob Putra,2024,Informatika,lulus,Yogyakarta,2024-08-01
+2420162,Nin Maulana,2024,Informatika,AKTIF,Makassar,2024-08-01
+2420163,Big Saputra,2024,Informatika,Cuti,Semarang,2024-08-01
+2420164,Lik Sari,2024,Informatika,Lulus,Makassar,2024-08-01
+2420165,Peg Wulandari,2024,Informatika,AKTIF,Jakarta,2024-08-01
+2420166,Car Sari,2024,Informatika,Lulus,Semarang,2024-08-01
+2420167,Wiw Hidayat,2024,Informatika,cuti,Yogyakarta,2024-08-01
+2420168,Nel Wulandari,2024,Informatika,cuti,Surabaya,2024-08-01
+2420169,Iey Hidayat,2024,Informatika,Lulus,Makassar,2024-08-01
+2420170,Cew Rahmawati,2024,Informatika,Aktif,Semarang,2024-08-01
+2420171,Aus Kusuma,2024,Informatika,lulus,Semarang,2024-08-01
+2420172,Eed Rahmawati,2024,Informatika,cuti,Jakarta,2024-08-01
+2420173,Cun Wijaya,2024,Informatika,Lulus,Yogyakarta,2024-08-01
+2420174,Iam Hidayat,2024,Informatika,aktif,Surabaya,2024-08-01
+2420175,Tan Anggraini,2024,Informatika,Cuti,Bandung,2024-08-01
+2420176,Jik Putra,2024,Informatika,do,Jakarta,2024-08-01
+2420177,Das Maulana,2024,Informatika,aktif,Bandung,2024-08-01
+2420178,Red Pratama,2024,Informatika,Lulus,Makassar,2024-08-01
+2420179,Ioy Wijaya,2024,Informatika,Cuti,Makassar,2024-08-01
+2420180,Run Nugroho,2024,Informatika,cuti,Medan,2024-08-01
+2420181,Boh Wijaya,2024,Informatika,cuti,Makassar,2024-08-01
+2420182,Nir Firdaus,2024,Informatika,Cuti,Kupang,2024-08-01
+2420183,Guw Maulana,2024,Informatika,Aktif,Jakarta,2024-08-01
+2420184,Fab Nugroho,2024,Informatika,lulus,Kupang,2024-08-01
+2420185,Ges Wijaya,2024,Informatika,cuti,Kupang,2024-08-01
+2420186,Hik Putra,2024,Informatika,cuti,Surabaya,2024-08-01
+2420187,Jog Firdaus,2024,Informatika,cuti,Jakarta,2024-08-01
+2420188,Pis Anggraini,2024,Informatika,cuti,Yogyakarta,2024-08-01
+2420189,Jem Firdaus,2024,Informatika,AKTIF,Kupang,2024-08-01
+2420190,Sub Nugroho,2024,Informatika,cuti,Surabaya,2024-08-01
+2420191,Nam Saputra,2024,Informatika,aktif,Kupang,2024-08-01
+2420192,Ceg Saputra,2024,Informatika,Aktif,Medan,2024-08-01
+2420193,Aow Anggraini,2024,Informatika,do,Surabaya,2024-08-01
+2420194,His Kusuma,2024,Informatika,aktif,Yogyakarta,2024-08-01
+2420195,Ieg Rahmawati,2024,Informatika,Lulus,Jakarta,2024-08-01
+2420196,Cur Putra,2024,Informatika,AKTIF,Bandung,2024-08-01
+2420197,Aol Pratama,2024,Informatika,Lulus,Kupang,2024-08-01
+2420198,Lik Wulandari,2024,Informatika,lulus,Medan,2024-08-01
+2420199,Eal Putra,2024,Informatika,aktif,Surabaya,2024-08-01
+2420200,Pep Firdaus,2024,Informatika,Aktif,Surabaya,2024-08-01
+2420201,Eig Sari,2024,Informatika,do,Jakarta,2024-08-01
+2420202,Jep Saputra,2024,Informatika,do,Kupang,2024-08-01
+2420203,Koy Ramadhan,2024,Informatika,cuti,Jakarta,2024-08-01
+2420204,Ber Hidayat,2024,Informatika,aktif,Medan,2024-08-01
+2420205,Bak Sari,2024,Informatika,aktif,Kupang,2024-08-01
+2420206,Nab Ramadhan,2024,Informatika,cuti,Surabaya,2024-08-01
+2420207,Sod Wulandari,2024,Informatika,do,Jakarta,2024-08-01
+2420208,Sit Hidayat,2024,Informatika,AKTIF,Jakarta,2024-08-01
+2420209,Las Putra,2024,Informatika,cuti,Bandung,2024-08-01
+2420210,Cep Wijaya,2024,Informatika,AKTIF,Jakarta,2024-08-01
+2420211,Aob Maulana,2024,Informatika,Aktif,Jakarta,2024-08-01
+2420212,Wob Lestari,2024,Informatika,Lulus,Kupang,2024-08-01
+2420213,Hal Rahmawati,2024,Informatika,aktif,Yogyakarta,2024-08-01
+2420214,Lel Wulandari,2024,Informatika,Aktif,Medan,2024-08-01
+2420215,New Hidayat,2024,Informatika,AKTIF,Yogyakarta,2024-08-01
+2420216,Lod Nugroho,2024,Informatika,aktif,Jakarta,2024-08-01
+2420217,Iod Nugroho,2024,Informatika,cuti,Surabaya,2024-08-01
+2420218,Ceb Pratama,2024,Informatika,Lulus,Semarang,2024-08-01
+2420219,Fay Lestari,2024,Informatika,Cuti,Medan,2024-08-01
+2420220,Iom Maulana,2024,Informatika,cuti,Medan,2024-08-01
+2420221,Mom Putra,2024,Informatika,AKTIF,Semarang,2024-08-01
+2420222,Niw Putra,2024,Informatika,AKTIF,Yogyakarta,2024-08-01
+2420223,Kiy Sari,2024,Informatika,cuti,Surabaya,2024-08-01
+2420224,Ial Pratama,2024,Informatika,lulus,Bandung,2024-08-01
+2420225,Iet Wulandari,2024,Informatika,Cuti,Surabaya,2024-08-01
+2420226,Col Anggraini,2024,Informatika,cuti,Kupang,2024-08-01
+2420227,How Lestari,2024,Informatika,Aktif,Surabaya,2024-08-01
+2420228,Jis Kusuma,2024,Informatika,aktif,Kupang,2024-08-01
+2420229,Fes Lestari,2024,Informatika,Aktif,Makassar,2024-08-01
+2420230,Aep Anggraini,2024,Informatika,aktif,Bandung,2024-08-01
+2420231,Pel Sari,2024,Informatika,Cuti,Makassar,2024-08-01
+2420232,Don Wulandari,,Informatika,lulus,Makassar,2024-08-01
+2420233,Pog Rahmawati,2024,Informatika,Cuti,Jakarta,2024-08-01
+2420234,Keh Sari,2024,Informatika,aktif,Makassar,2024-08-01
+2420235,Gas Firdaus,2024,Informatika,aktif,Bandung,2024-08-01
+2420236,Led Kusuma,2024,Informatika,cuti,Yogyakarta,2024-08-01
+2420237,Nip Anggraini,2024,Informatika,Cuti,Medan,2024-08-01
+2420238,Aan Lestari,2024,Informatika,AKTIF,Makassar,2024-08-01
+2420239,Fag Firdaus,2024,Informatika,cuti,Makassar,2024-08-01
+2420240,Dam Ramadhan,2024,Informatika,AKTIF,Yogyakarta,2024-08-01
+2420241,Sut Nugroho,2024,Informatika,AKTIF,Semarang,2024-08-01
+2420242,Fob Sari,2024,Informatika,cuti,Surabaya,2024-08-01
+2420243,Ean Kusuma,2024,Informatika,do,Kupang,2024-08-01
+2420244,Yod Firdaus,2024,Informatika,cuti,Makassar,2024-08-01
+2420245,Iar Wulandari,2024,Informatika,AKTIF,Jakarta,2024-08-01
+2420246,Nis Firdaus,2024,Informatika,AKTIF,Jakarta,2024-08-01
+2420247,Fih Nugroho,2024,Informatika,Cuti,Surabaya,2024-08-01
+2420248,Nip Wulandari,2024,Informatika,Cuti,Jakarta,2024-08-01
+2420249,Hok Nugroho,2024,Informatika,AKTIF,Surabaya,2024-08-01
+2420250,Cas Wijaya,2024,Informatika,Aktif,Surabaya,2024-08-01
+2420251,Eeb Firdaus,2024,Informatika,do,Bandung,2024-08-01
+2420252,Wow Wulandari,2024,Informatika,Cuti,Surabaya,2024-08-01
+2420253,Wuk Rahmawati,2024,Informatika,Cuti,Surabaya,2024-08-01
+2420254,Lew Nugroho,2024,Informatika,Lulus,Surabaya,2024-08-01
+2420255,Ser Saputra,2024,Informatika,AKTIF,Yogyakarta,2024-08-01
+2420256,Lip Firdaus,2024,Informatika,cuti,Surabaya,2024-08-01
+2420257,Yil Wulandari,2024,Informatika,AKTIF,Surabaya,2024-08-01
+2420258,Hih Wijaya,2024,Informatika,aktif,Yogyakarta,2024-08-01
+2420259,Jit Hidayat,2024,Informatika,aktif,Kupang,2024-08-01
+2420260,Eig Hidayat,2024,Informatika,cuti,Makassar,2024-08-01
+2420261,Hen Putra,2024,Informatika,cuti,Yogyakarta,2024-08-01
+2420262,Pay Hidayat,2024,Informatika,AKTIF,Kupang,2024-08-01
+2420263,Eok Sari,2024,Informatika,Aktif,Semarang,2024-08-01
+2420264,Fab Maulana,2024,Informatika,aktif,Bandung,2024-08-01
+2420265,Few Wulandari,2024,Informatika,do,Kupang,2024-08-01
+2420266,Aes Anggraini,2024,Informatika,lulus,Makassar,2024-08-01
+2420267,Wih Sari,2024,Informatika,cuti,Semarang,2024-08-01
+2420268,Bes Lestari,2024,Informatika,Aktif,Medan,2024-08-01
+2420269,Aet Maulana,2024,Informatika,aktif,Yogyakarta,2024-08-01
+2420270,Lem Nugroho,2024,Informatika,AKTIF,Kupang,2024-08-01
+2420271,Aih Pratama,2024,Informatika,cuti,Surabaya,2024-08-01
+2420272,Ean Firdaus,2024,Informatika,AKTIF,Medan,2024-08-01
+2420273,Ail Lestari,2024,Informatika,lulus,Jakarta,2024-08-01
+2420274,Kuh Kusuma,2024,Informatika,Aktif,Medan,2024-08-01
+2420275,Nup Firdaus,2024,Informatika,aktif,Medan,2024-08-01
+2420276,Hes Firdaus,2024,Informatika,lulus,Makassar,2024-08-01
+2420277,Woh Hidayat,2024,Informatika,AKTIF,Makassar,2024-08-01
+2420278,Rap Kusuma,2024,Informatika,Lulus,Makassar,2024-08-01
+2420279,Hoh Maulana,2024,Informatika,aktif,Jakarta,2024-08-01
+2420280,Rud Firdaus,2024,Informatika,AKTIF,Jakarta,2024-08-01
+2420281,Teb Sari,2024,Informatika,cuti,Makassar,2024-08-01
+2420282,Pum Saputra,2024,Informatika,cuti,Bandung,2024-08-01
+2420283,Mam Putra,2024,Informatika,Aktif,Makassar,2024-08-01
+2420284,Tal Lestari,2024,Informatika,Cuti,Makassar,2024-08-01
+2420285,Iog Lestari,2024,Informatika,do,Makassar,2024-08-01
+2420286,Per Sari,,Informatika,Cuti,Medan,2024-08-01
+2420287,Tir Pratama,2024,Informatika,Aktif,Makassar,2024-08-01
+2420288,Iin Anggraini,2024,Informatika,Cuti,Bandung,2024-08-01
+2420289,Yip Pratama,2024,Informatika,cuti,Surabaya,2024-08-01
+2420290,Lal Wulandari,2024,Informatika,aktif,Kupang,2024-08-01
+2420291,Can Anggraini,2024,Informatika,do,Jakarta,2024-08-01
+2420292,Kup Sari,2024,Informatika,Cuti,Medan,2024-08-01
+2420293,Gil Kusuma,2024,Informatika,Lulus,Jakarta,2024-08-01
+2420294,Lug Firdaus,2024,Informatika,Lulus,Yogyakarta,2024-08-01
+2420295,Fen Rahmawati,2024,Informatika,cuti,Medan,2024-08-01
+2420296,Rig Ramadhan,2024,Informatika,do,Jakarta,2024-08-01
+2420297,Rog Nugroho,2024,Informatika,Cuti,Kupang,2024-08-01
+2420298,Lon Anggraini,2024,Informatika,aktif,Kupang,2024-08-01
+2420299,Cel Lestari,2024,Informatika,Lulus,Surabaya,2024-08-01
+2420300,Iom Anggraini,2024,Informatika,do,Bandung,2024-08-01
+2230001,Ruk Saputra,2022,Sistem Informasi,lulus,Jakarta,2022-08-01
+2230002,Aeb Pratama,2022,Sistem Informasi,Cuti,Yogyakarta,2022-08-01
+2230003,Rir Firdaus,2022,Sistem Informasi,do,Kupang,2022-08-01
+2230004,Lid Firdaus,2022,Sistem Informasi,cuti,Medan,2022-08-01
+2230005,Kat Lestari,2022,Sistem Informasi,do,Kupang,2022-08-01
+2230006,Eot Ramadhan,2022,Sistem Informasi,Aktif,Makassar,2022-08-01
+2230007,Eup Kusuma,2022,Sistem Informasi,aktif,Jakarta,2022-08-01
+2230008,Ten Nugroho,2022,Sistem Informasi,Aktif,Bandung,2022-08-01
+2230009,Tul Firdaus,2022,Sistem Informasi,aktif,Yogyakarta,2022-08-01
+2230010,Eeg Anggraini,2022,Sistem Informasi,Lulus,Bandung,2022-08-01
+2230011,Yow Saputra,2022,Sistem Informasi,lulus,Kupang,2022-08-01
+2230012,Cek Ramadhan,2022,Sistem Informasi,Cuti,Jakarta,2022-08-01
+2230013,Wur Lestari,2022,Sistem Informasi,cuti,Jakarta,2022-08-01
+2230014,Pir Lestari,2022,Sistem Informasi,Cuti,Makassar,2022-08-01
+2230015,Iub Wulandari,2022,Sistem Informasi,Cuti,Bandung,2022-08-01
+2230016,Ton Sari,2022,Sistem Informasi,Cuti,Yogyakarta,2022-08-01
+2230017,Mut Wijaya,2022,Sistem Informasi,aktif,Medan,2022-08-01
+2230018,Iil Anggraini,2022,Sistem Informasi,aktif,Bandung,2022-08-01
+2230019,Jap Nugroho,2022,Sistem Informasi,AKTIF,Surabaya,2022-08-01
+2230020,Bod Hidayat,2022,Sistem Informasi,aktif,Jakarta,2022-08-01
+2230021,Bob Lestari,2022,Sistem Informasi,Lulus,Medan,2022-08-01
+2230022,Aap Ramadhan,2022,Sistem Informasi,Lulus,Kupang,2022-08-01
+2230023,Bun Rahmawati,2022,Sistem Informasi,Aktif,Medan,2022-08-01
+2230024,Iir Kusuma,2022,Sistem Informasi,Lulus,Yogyakarta,2022-08-01
+2230025,Ion Lestari,2022,Sistem Informasi,AKTIF,Yogyakarta,2022-08-01
+2230026,Mum Hidayat,2022,Sistem Informasi,Lulus,Jakarta,2022-08-01
+2230027,Dor Kusuma,2022,Sistem Informasi,do,Makassar,2022-08-01
+2230028,Ruk Wijaya,2022,Sistem Informasi,Aktif,Kupang,2022-08-01
+2230029,Puy Lestari,2022,Sistem Informasi,Cuti,Bandung,2022-08-01
+2230030,Beg Ramadhan,2022,Sistem Informasi,AKTIF,Jakarta,2022-08-01
+2230031,Gal Anggraini,2022,Sistem Informasi,cuti,Surabaya,2022-08-01
+2230032,Kak Putra,2022,Sistem Informasi,AKTIF,Surabaya,2022-08-01
+2230033,Aot Wulandari,2022,Sistem Informasi,cuti,Kupang,2022-08-01
+2230034,Lod Saputra,2022,Sistem Informasi,Cuti,Medan,2022-08-01
+2230035,Red Kusuma,2022,Sistem Informasi,Aktif,Yogyakarta,2022-08-01
+2230036,Neb Hidayat,2022,Sistem Informasi,Lulus,Jakarta,2022-08-01
+2230037,Jot Wulandari,2022,Sistem Informasi,AKTIF,Jakarta,2022-08-01
+2230038,Gih Firdaus,2022,Sistem Informasi,Cuti,Makassar,2022-08-01
+2230039,Rep Anggraini,2022,Sistem Informasi,Cuti,Semarang,2022-08-01
+2230040,Cep Wijaya,2022,Sistem Informasi,Cuti,Bandung,2022-08-01
+2230041,Lad Anggraini,2022,Sistem Informasi,Cuti,Medan,2022-08-01
+2230042,Kur Hidayat,2022,Sistem Informasi,Cuti,Medan,2022-08-01
+2230043,Ces Ramadhan,2022,Sistem Informasi,Cuti,Kupang,2022-08-01
+2230044,Let Lestari,2022,Sistem Informasi,aktif,Yogyakarta,2022-08-01
+2230045,Cus Kusuma,2022,Sistem Informasi,Cuti,Jakarta,2022-08-01
+2230046,Yes Nugroho,2022,Sistem Informasi,AKTIF,Yogyakarta,2022-08-01
+2230047,Con Wulandari,2022,Sistem Informasi,do,Medan,2022-08-01
+2230048,Dat Pratama,2022,Sistem Informasi,Cuti,Semarang,2022-08-01
+2230049,Wad Lestari,2022,Sistem Informasi,cuti,Kupang,2022-08-01
+2230050,Fok Putra,2022,Sistem Informasi,cuti,Jakarta,2022-08-01
+2230051,Aah Anggraini,2022,Sistem Informasi,Aktif,Yogyakarta,2022-08-01
+2230052,Meh Wulandari,2022,Sistem Informasi,do,Surabaya,2022-08-01
+2230053,Git Maulana,2022,Sistem Informasi,Cuti,Yogyakarta,2022-08-01
+2230054,Yir Lestari,2022,Sistem Informasi,do,Bandung,2022-08-01
+2230055,Rih Kusuma,2022,Sistem Informasi,Aktif,Kupang,2022-08-01
+2230056,Rab Wijaya,2022,Sistem Informasi,do,Jakarta,2022-08-01
+2230057,Cik Ramadhan,2022,Sistem Informasi,Cuti,Kupang,2022-08-01
+2230058,Fim Sari,2022,Sistem Informasi,AKTIF,Makassar,2022-08-01
+2230059,Yus Putra,2022,Sistem Informasi,do,Kupang,2022-08-01
+2230060,Tel Saputra,2022,Sistem Informasi,AKTIF,Makassar,2022-08-01
+2230061,Iaw Nugroho,2022,Sistem Informasi,aktif,Makassar,2022-08-01
+2230062,Cas Wijaya,2022,Sistem Informasi,cuti,Medan,2022-08-01
+2230063,Iet Lestari,2022,Sistem Informasi,Cuti,,2022-08-01
+2230064,Nah Anggraini,2022,Sistem Informasi,aktif,Semarang,2022-08-01
+2230065,Ted Lestari,2022,Sistem Informasi,lulus,,2022-08-01
+2230066,Eah Wulandari,,Sistem Informasi,Cuti,Jakarta,2022-08-01
+2230067,Fes Kusuma,2022,Sistem Informasi,cuti,Medan,2022-08-01
+2230068,Iih Ramadhan,2022,Sistem Informasi,do,Semarang,2022-08-01
+2230069,Huw Rahmawati,2022,Sistem Informasi,do,Makassar,2022-08-01
+2230070,Wur Lestari,2022,Sistem Informasi,Lulus,Semarang,2022-08-01
+2230071,Ken Hidayat,2022,Sistem Informasi,Lulus,Yogyakarta,2022-08-01
+2230072,Gis Ramadhan,2022,Sistem Informasi,do,Semarang,2022-08-01
+2230073,Kag Hidayat,2022,Sistem Informasi,Cuti,Yogyakarta,2022-08-01
+2230074,For Nugroho,2022,Sistem Informasi,do,Kupang,2022-08-01
+2230075,Fen Saputra,2022,Sistem Informasi,AKTIF,Makassar,2022-08-01
+2230076,Tol Ramadhan,2022,Sistem Informasi,lulus,Makassar,2022-08-01
+2230077,Bey Putra,2022,Sistem Informasi,lulus,Kupang,2022-08-01
+2230078,Dut Hidayat,2022,Sistem Informasi,lulus,Medan,2022-08-01
+2230079,Gaw Firdaus,2022,Sistem Informasi,cuti,Jakarta,2022-08-01
+2230080,Cal Nugroho,2022,Sistem Informasi,Cuti,Kupang,2022-08-01
+2230081,Nom Wulandari,2022,Sistem Informasi,Aktif,Yogyakarta,2022-08-01
+2230082,Hom Putra,2022,Sistem Informasi,aktif,Surabaya,2022-08-01
+2230083,Cel Lestari,2022,Sistem Informasi,do,Jakarta,2022-08-01
+2230084,Hob Sari,2022,Sistem Informasi,aktif,Bandung,2022-08-01
+2230085,Mok Nugroho,2022,Sistem Informasi,cuti,Semarang,2022-08-01
+2230086,Pup Putra,2022,Sistem Informasi,do,Yogyakarta,2022-08-01
+2230087,Toh Pratama,2022,Sistem Informasi,Lulus,Makassar,2022-08-01
+2230088,Nin Sari,2022,Sistem Informasi,do,Surabaya,2022-08-01
+2230089,Muk Lestari,2022,Sistem Informasi,Lulus,Semarang,2022-08-01
+2230090,Aol Sari,2022,Sistem Informasi,lulus,Bandung,2022-08-01
+2230091,Wuh Saputra,2022,Sistem Informasi,Lulus,Bandung,2022-08-01
+2230092,Gay Wijaya,2022,Sistem Informasi,Cuti,Kupang,2022-08-01
+2230093,Dur Maulana,2022,Sistem Informasi,do,Kupang,2022-08-01
+2230094,Lep Wulandari,2022,Sistem Informasi,do,Jakarta,2022-08-01
+2230095,Iod Putra,,Sistem Informasi,aktif,Yogyakarta,2022-08-01
+2230096,Ges Lestari,2022,Sistem Informasi,Aktif,Surabaya,2022-08-01
+2230097,Huk Lestari,2022,Sistem Informasi,do,Jakarta,2022-08-01
+2230098,Nat Pratama,2022,Sistem Informasi,cuti,Semarang,2022-08-01
+2230099,Eeb Hidayat,2022,Sistem Informasi,Aktif,Medan,2022-08-01
+2230100,Fiy Maulana,,Sistem Informasi,do,Bandung,2022-08-01
+2230101,Ead Lestari,2022,Sistem Informasi,cuti,Kupang,2022-08-01
+2230102,Dar Wijaya,2022,Sistem Informasi,AKTIF,Surabaya,2022-08-01
+2230103,Huh Nugroho,2022,Sistem Informasi,aktif,Bandung,2022-08-01
+2230104,Kir Rahmawati,2022,Sistem Informasi,Lulus,Surabaya,2022-08-01
+2230105,Han Maulana,2022,Sistem Informasi,aktif,Surabaya,2022-08-01
+2230106,Bur Anggraini,2022,Sistem Informasi,AKTIF,Medan,2022-08-01
+2230107,Iel Rahmawati,2022,Sistem Informasi,aktif,Semarang,2022-08-01
+2230108,Aem Saputra,2022,Sistem Informasi,cuti,Kupang,2022-08-01
+2230109,Yim Pratama,2022,Sistem Informasi,Cuti,Semarang,2022-08-01
+2230110,Tel Ramadhan,2022,Sistem Informasi,do,Makassar,2022-08-01
+2230111,Tud Maulana,2022,Sistem Informasi,do,Yogyakarta,2022-08-01
+2230112,Iiy Maulana,2022,Sistem Informasi,cuti,Jakarta,2022-08-01
+2230113,Gok Wijaya,2022,Sistem Informasi,aktif,Bandung,2022-08-01
+2230114,Bih Wulandari,2022,Sistem Informasi,lulus,Semarang,2022-08-01
+2230115,Hay Lestari,2022,Sistem Informasi,Aktif,Medan,2022-08-01
+2230116,Buk Wijaya,2022,Sistem Informasi,AKTIF,Semarang,2022-08-01
+2230117,Hep Sari,,Sistem Informasi,do,Semarang,2022-08-01
+2230118,Cop Maulana,2022,Sistem Informasi,Aktif,Medan,2022-08-01
+2230119,Mog Firdaus,2022,Sistem Informasi,Lulus,,2022-08-01
+2230120,Sad Nugroho,2022,Sistem Informasi,cuti,Makassar,2022-08-01
+2230121,Rom Firdaus,2022,Sistem Informasi,Lulus,Yogyakarta,2022-08-01
+2230122,Bar Lestari,2022,Sistem Informasi,cuti,Bandung,2022-08-01
+2230123,Fen Rahmawati,2022,Sistem Informasi,do,Jakarta,2022-08-01
+2230124,Lip Anggraini,2022,Sistem Informasi,lulus,Medan,2022-08-01
+2230125,Ger Putra,2022,Sistem Informasi,do,Semarang,2022-08-01
+2230126,How Wijaya,2022,Sistem Informasi,Cuti,Medan,2022-08-01
+2230127,Der Rahmawati,2022,Sistem Informasi,do,Makassar,2022-08-01
+2230128,Yon Kusuma,2022,Sistem Informasi,Lulus,Kupang,2022-08-01
+2230129,Tid Lestari,2022,Sistem Informasi,do,Yogyakarta,2022-08-01
+2230130,Buy Hidayat,2022,Sistem Informasi,Lulus,Medan,2022-08-01
+2230131,Jil Kusuma,2022,Sistem Informasi,AKTIF,Makassar,2022-08-01
+2230132,Mug Ramadhan,2022,Sistem Informasi,Cuti,Semarang,2022-08-01
+2230133,Tos Lestari,2022,Sistem Informasi,cuti,Medan,2022-08-01
+2230134,Neg Hidayat,,Sistem Informasi,cuti,Kupang,2022-08-01
+2230135,Hok Putra,2022,Sistem Informasi,Cuti,Yogyakarta,2022-08-01
+2230136,Eas Kusuma,2022,Sistem Informasi,aktif,Makassar,2022-08-01
+2230137,Pin Anggraini,2022,Sistem Informasi,lulus,Surabaya,2022-08-01
+2230138,Jew Ramadhan,2022,Sistem Informasi,Lulus,Semarang,2022-08-01
+2230139,Nug Rahmawati,2022,Sistem Informasi,aktif,Bandung,2022-08-01
+2230140,Fel Maulana,2022,Sistem Informasi,Lulus,Jakarta,2022-08-01
+2230141,Rar Pratama,2022,Sistem Informasi,AKTIF,Bandung,2022-08-01
+2230142,Jol Wulandari,2022,Sistem Informasi,lulus,Jakarta,2022-08-01
+2230143,Eeb Kusuma,2022,Sistem Informasi,Cuti,Jakarta,2022-08-01
+2230144,Hop Sari,2022,Sistem Informasi,Aktif,Yogyakarta,2022-08-01
+2230145,Jub Nugroho,2022,Sistem Informasi,Lulus,Semarang,2022-08-01
+2230146,Len Rahmawati,2022,Sistem Informasi,AKTIF,Bandung,2022-08-01
+2230147,Mag Anggraini,2022,Sistem Informasi,do,Semarang,2022-08-01
+2230148,Wik Maulana,2022,Sistem Informasi,Aktif,Jakarta,2022-08-01
+2230149,Tew Anggraini,2022,Sistem Informasi,do,Semarang,2022-08-01
+2230150,Nar Anggraini,2022,Sistem Informasi,aktif,Kupang,2022-08-01
+2230151,Dun Kusuma,2022,Sistem Informasi,AKTIF,Medan,2022-08-01
+2230152,Dop Saputra,,Sistem Informasi,Lulus,Makassar,2022-08-01
+2230153,Cas Firdaus,2022,Sistem Informasi,aktif,Medan,2022-08-01
+2230154,Duk Lestari,2022,Sistem Informasi,AKTIF,Semarang,2022-08-01
+2230155,Guy Rahmawati,2022,Sistem Informasi,Cuti,Jakarta,2022-08-01
+2230156,Eam Maulana,2022,Sistem Informasi,Cuti,Bandung,2022-08-01
+2230157,Bek Saputra,2022,Sistem Informasi,Cuti,Jakarta,2022-08-01
+2230158,Pen Putra,2022,Sistem Informasi,AKTIF,Jakarta,2022-08-01
+2230159,Rar Ramadhan,2022,Sistem Informasi,do,Bandung,2022-08-01
+2230160,Bug Nugroho,2022,Sistem Informasi,aktif,Makassar,2022-08-01
+2230161,Gim Hidayat,2022,Sistem Informasi,AKTIF,Jakarta,2022-08-01
+2230162,Nin Saputra,2022,Sistem Informasi,Cuti,Medan,2022-08-01
+2230163,Ley Wulandari,2022,Sistem Informasi,do,Surabaya,2022-08-01
+2230164,Tol Wulandari,2022,Sistem Informasi,Aktif,Surabaya,2022-08-01
+2230165,Aor Sari,2022,Sistem Informasi,Cuti,Jakarta,2022-08-01
+2230166,Iam Hidayat,2022,Sistem Informasi,Lulus,Kupang,2022-08-01
+2230167,Iab Firdaus,2022,Sistem Informasi,aktif,Surabaya,2022-08-01
+2230168,Iun Kusuma,2022,Sistem Informasi,aktif,Medan,2022-08-01
+2230169,Rey Lestari,2022,Sistem Informasi,Cuti,Bandung,2022-08-01
+2230170,Hay Maulana,2022,Sistem Informasi,AKTIF,Jakarta,2022-08-01
+2230171,Jey Kusuma,2022,Sistem Informasi,Aktif,Yogyakarta,2022-08-01
+2230172,Rey Hidayat,2022,Sistem Informasi,Lulus,Semarang,2022-08-01
+2230173,Mey Wijaya,2022,Sistem Informasi,cuti,Makassar,2022-08-01
+2230174,Ceh Putra,2022,Sistem Informasi,do,,2022-08-01
+2230175,Hut Nugroho,2022,Sistem Informasi,do,Yogyakarta,2022-08-01
+2230176,Rak Pratama,2022,Sistem Informasi,do,Makassar,2022-08-01
+2230177,Fih Wijaya,2022,Sistem Informasi,Aktif,Bandung,2022-08-01
+2230178,Kal Maulana,2022,Sistem Informasi,Lulus,Kupang,2022-08-01
+2230179,Sah Rahmawati,2022,Sistem Informasi,aktif,Jakarta,2022-08-01
+2230180,Aos Wijaya,2022,Sistem Informasi,do,Kupang,2022-08-01
+2230181,Iop Hidayat,2022,Sistem Informasi,Lulus,Kupang,2022-08-01
+2230182,Yos Firdaus,2022,Sistem Informasi,cuti,Jakarta,2022-08-01
+2230183,Pem Saputra,2022,Sistem Informasi,AKTIF,Kupang,2022-08-01
+2230184,Eod Anggraini,2022,Sistem Informasi,Cuti,Semarang,2022-08-01
+2230185,Aud Saputra,2022,Sistem Informasi,lulus,Surabaya,2022-08-01
+2230186,Fes Sari,2022,Sistem Informasi,Cuti,Semarang,2022-08-01
+2230187,Eob Pratama,2022,Sistem Informasi,Lulus,Surabaya,2022-08-01
+2230188,Hem Hidayat,2022,Sistem Informasi,aktif,Yogyakarta,2022-08-01
+2230189,Yuh Wijaya,2022,Sistem Informasi,do,Yogyakarta,2022-08-01
+2230190,Dad Wulandari,2022,Sistem Informasi,do,Bandung,2022-08-01
+2230191,Lek Sari,2022,Sistem Informasi,Lulus,Surabaya,2022-08-01
+2230192,Lit Maulana,2022,Sistem Informasi,aktif,Surabaya,2022-08-01
+2230193,Cog Putra,2022,Sistem Informasi,AKTIF,Bandung,2022-08-01
+2230194,Sak Kusuma,2022,Sistem Informasi,cuti,Medan,2022-08-01
+2230195,Teh Putra,2022,Sistem Informasi,Aktif,Kupang,2022-08-01
+2230196,Dan Firdaus,2022,Sistem Informasi,cuti,Surabaya,2022-08-01
+2230197,Pok Saputra,2022,Sistem Informasi,do,Yogyakarta,2022-08-01
+2230198,Koy Putra,2022,Sistem Informasi,cuti,Yogyakarta,2022-08-01
+2230199,Tet Saputra,2022,Sistem Informasi,aktif,Kupang,2022-08-01
+2230200,Beb Pratama,2022,Sistem Informasi,do,Surabaya,2022-08-01
+2230201,Gey Wulandari,2022,Sistem Informasi,AKTIF,Makassar,2022-08-01
+2230202,Tik Putra,2022,Sistem Informasi,do,Semarang,2022-08-01
+2230203,Hob Wijaya,2022,Sistem Informasi,Aktif,Makassar,2022-08-01
+2230204,Mow Sari,2022,Sistem Informasi,AKTIF,Makassar,2022-08-01
+2230205,Ruh Sari,2022,Sistem Informasi,AKTIF,Bandung,2022-08-01
+2230206,Mim Putra,,Sistem Informasi,do,Makassar,2022-08-01
+2230207,Yer Lestari,2022,Sistem Informasi,Lulus,Medan,2022-08-01
+2230208,Raw Firdaus,2022,Sistem Informasi,do,Bandung,2022-08-01
+2230209,Feb Saputra,2022,Sistem Informasi,Lulus,Jakarta,2022-08-01
+2230210,Iik Saputra,2022,Sistem Informasi,Lulus,Semarang,2022-08-01
+2230211,Ceb Pratama,2022,Sistem Informasi,do,Bandung,2022-08-01
+2230212,Ged Saputra,2022,Sistem Informasi,AKTIF,Bandung,2022-08-01
+2230213,Wom Firdaus,2022,Sistem Informasi,Lulus,Semarang,2022-08-01
+2230214,Tig Maulana,2022,Sistem Informasi,Cuti,Kupang,2022-08-01
+2230215,Gok Nugroho,2022,Sistem Informasi,Aktif,Makassar,2022-08-01
+2230216,Dol Kusuma,2022,Sistem Informasi,Cuti,Yogyakarta,2022-08-01
+2230217,Ium Sari,2022,Sistem Informasi,do,Medan,2022-08-01
+2230218,Yek Kusuma,2022,Sistem Informasi,lulus,Makassar,2022-08-01
+2230219,Fem Kusuma,2022,Sistem Informasi,lulus,Bandung,2022-08-01
+2230220,Wig Anggraini,2022,Sistem Informasi,lulus,Bandung,2022-08-01
+2230221,Nir Lestari,2022,Sistem Informasi,Cuti,Makassar,2022-08-01
+2230222,Maw Maulana,2022,Sistem Informasi,AKTIF,Medan,2022-08-01
+2230223,Fag Maulana,2022,Sistem Informasi,Aktif,Yogyakarta,2022-08-01
+2230224,Yow Putra,2022,Sistem Informasi,cuti,Medan,2022-08-01
+2230225,Mop Ramadhan,2022,Sistem Informasi,do,Medan,2022-08-01
+2230226,Wat Firdaus,2022,Sistem Informasi,Aktif,Yogyakarta,2022-08-01
+2230227,Sob Kusuma,2022,Sistem Informasi,do,Medan,2022-08-01
+2230228,Fok Rahmawati,2022,Sistem Informasi,aktif,Kupang,2022-08-01
+2230229,Jom Nugroho,2022,Sistem Informasi,cuti,Kupang,2022-08-01
+2230230,Iib Wulandari,2022,Sistem Informasi,Aktif,Semarang,2022-08-01
+2230231,Cut Ramadhan,2022,Sistem Informasi,do,Jakarta,2022-08-01
+2230232,Eah Wijaya,2022,Sistem Informasi,Aktif,Jakarta,2022-08-01
+2230233,Yey Sari,2022,Sistem Informasi,do,Kupang,2022-08-01
+2230234,Kol Putra,2022,Sistem Informasi,lulus,Makassar,2022-08-01
+2230235,Bow Ramadhan,2022,Sistem Informasi,Cuti,Medan,2022-08-01
+2230236,Sal Anggraini,2022,Sistem Informasi,aktif,Yogyakarta,2022-08-01
+2230237,Hom Wulandari,2022,Sistem Informasi,do,Semarang,2022-08-01
+2230238,Jun Pratama,2022,Sistem Informasi,Aktif,Medan,2022-08-01
+2230239,Gop Wulandari,2022,Sistem Informasi,cuti,Semarang,2022-08-01
+2230240,Aig Nugroho,2022,Sistem Informasi,AKTIF,Medan,2022-08-01
+2230241,Sus Putra,2022,Sistem Informasi,cuti,Jakarta,2022-08-01
+2230242,Ies Maulana,2022,Sistem Informasi,Cuti,Kupang,2022-08-01
+2230243,Dad Hidayat,2022,Sistem Informasi,Cuti,Semarang,2022-08-01
+2230244,Ket Lestari,2022,Sistem Informasi,AKTIF,Surabaya,2022-08-01
+2230245,Dir Wijaya,2022,Sistem Informasi,Cuti,Medan,2022-08-01
+2230246,Nay Maulana,2022,Sistem Informasi,lulus,Surabaya,2022-08-01
+2230247,Tig Rahmawati,2022,Sistem Informasi,AKTIF,Semarang,2022-08-01
+2230248,Had Rahmawati,2022,Sistem Informasi,aktif,Bandung,2022-08-01
+2230249,Peg Saputra,2022,Sistem Informasi,Lulus,Jakarta,2022-08-01
+2230250,Aak Rahmawati,2022,Sistem Informasi,Aktif,Yogyakarta,2022-08-01
+2230251,Tim Putra,2022,Sistem Informasi,lulus,Medan,2022-08-01
+2230252,Jib Firdaus,2022,Sistem Informasi,Aktif,Medan,2022-08-01
+2230253,Fed Nugroho,2022,Sistem Informasi,do,Kupang,2022-08-01
+2230254,Kol Lestari,2022,Sistem Informasi,aktif,Makassar,2022-08-01
+2230255,Ruh Maulana,2022,Sistem Informasi,Lulus,Yogyakarta,2022-08-01
+2230256,Pun Firdaus,2022,Sistem Informasi,do,Bandung,2022-08-01
+2230257,Wot Saputra,2022,Sistem Informasi,Lulus,Bandung,2022-08-01
+2230258,Tuk Ramadhan,2022,Sistem Informasi,Cuti,Bandung,2022-08-01
+2230259,Ral Hidayat,2022,Sistem Informasi,cuti,Yogyakarta,2022-08-01
+2230260,Eam Maulana,2022,Sistem Informasi,Aktif,Yogyakarta,2022-08-01
+2230261,Jes Anggraini,2022,Sistem Informasi,Cuti,Yogyakarta,2022-08-01
+2230262,Kug Ramadhan,2022,Sistem Informasi,do,Medan,2022-08-01
+2230263,Eom Saputra,2022,Sistem Informasi,Lulus,Jakarta,2022-08-01
+2230264,Iuh Anggraini,2022,Sistem Informasi,AKTIF,Yogyakarta,2022-08-01
+2230265,Yek Firdaus,2022,Sistem Informasi,Aktif,Kupang,2022-08-01
+2230266,Waw Firdaus,2022,Sistem Informasi,do,Medan,2022-08-01
+2230267,Suy Wulandari,2022,Sistem Informasi,lulus,Yogyakarta,2022-08-01
+2230268,Jiw Wulandari,2022,Sistem Informasi,cuti,Surabaya,2022-08-01
+2230269,Mew Nugroho,2022,Sistem Informasi,cuti,Surabaya,2022-08-01
+2230270,Yuk Nugroho,2022,Sistem Informasi,do,Surabaya,2022-08-01
+2230271,Nir Maulana,2022,Sistem Informasi,do,Semarang,2022-08-01
+2230272,Iek Pratama,2022,Sistem Informasi,do,Jakarta,2022-08-01
+2230273,Has Sari,2022,Sistem Informasi,AKTIF,Semarang,2022-08-01
+2230274,Sey Saputra,2022,Sistem Informasi,cuti,Yogyakarta,2022-08-01
+2230275,Riy Nugroho,2022,Sistem Informasi,cuti,Semarang,2022-08-01
+2230276,Bam Rahmawati,2022,Sistem Informasi,lulus,Surabaya,2022-08-01
+2230277,Dab Firdaus,,Sistem Informasi,Lulus,Bandung,2022-08-01
+2230278,Wey Wijaya,2022,Sistem Informasi,lulus,Jakarta,2022-08-01
+2230279,Mip Putra,2022,Sistem Informasi,Lulus,Kupang,2022-08-01
+2230280,Big Wijaya,2022,Sistem Informasi,Lulus,Makassar,2022-08-01
+2230281,Bid Hidayat,2022,Sistem Informasi,Lulus,,2022-08-01
+2230282,Pig Maulana,2022,Sistem Informasi,cuti,Bandung,2022-08-01
+2230283,Eas Firdaus,2022,Sistem Informasi,cuti,Medan,2022-08-01
+2230284,Fah Wijaya,2022,Sistem Informasi,do,Jakarta,2022-08-01
+2230285,Rap Putra,2022,Sistem Informasi,do,Yogyakarta,2022-08-01
+2230286,Fug Wijaya,2022,Sistem Informasi,Cuti,Medan,2022-08-01
+2230287,Aus Sari,2022,Sistem Informasi,Cuti,Makassar,2022-08-01
+2230288,Gut Nugroho,2022,Sistem Informasi,Cuti,Medan,2022-08-01
+2230289,Tew Maulana,2022,Sistem Informasi,Cuti,Surabaya,2022-08-01
+2230290,Bew Pratama,2022,Sistem Informasi,do,Yogyakarta,2022-08-01
+2230291,Feh Saputra,2022,Sistem Informasi,Aktif,Kupang,2022-08-01
+2230292,Rak Wulandari,2022,Sistem Informasi,aktif,Surabaya,2022-08-01
+2230293,Fir Pratama,2022,Sistem Informasi,Cuti,Kupang,2022-08-01
+2230294,Gan Rahmawati,2022,Sistem Informasi,Aktif,Bandung,2022-08-01
+2230295,Eon Kusuma,2022,Sistem Informasi,AKTIF,Surabaya,2022-08-01
+2230296,Job Saputra,2022,Sistem Informasi,cuti,Jakarta,2022-08-01
+2230297,War Maulana,2022,Sistem Informasi,Cuti,Yogyakarta,2022-08-01
+2230298,Duh Wijaya,2022,Sistem Informasi,lulus,Semarang,2022-08-01
+2230299,Sar Anggraini,2022,Sistem Informasi,cuti,Surabaya,2022-08-01
+2230300,Deg Putra,2022,Sistem Informasi,Aktif,Kupang,2022-08-01
+2330001,Wod Wulandari,2023,Sistem Informasi,Lulus,Yogyakarta,2023-08-01
+2330002,Iuh Kusuma,2023,Sistem Informasi,cuti,Medan,2023-08-01
+2330003,Eol Ramadhan,2023,Sistem Informasi,cuti,Bandung,2023-08-01
+2330004,Nay Sari,2023,Sistem Informasi,AKTIF,Bandung,2023-08-01
+2330005,Iiw Wulandari,2023,Sistem Informasi,AKTIF,Kupang,2023-08-01
+2330006,Ian Anggraini,2023,Sistem Informasi,Aktif,Surabaya,2023-08-01
+2330007,Bok Wulandari,2023,Sistem Informasi,lulus,Jakarta,2023-08-01
+2330008,Yih Nugroho,2023,Sistem Informasi,aktif,Semarang,2023-08-01
+2330009,Ked Sari,2023,Sistem Informasi,lulus,Makassar,2023-08-01
+2330010,Niy Sari,2023,Sistem Informasi,aktif,Yogyakarta,2023-08-01
+2330011,Bit Kusuma,2023,Sistem Informasi,cuti,Yogyakarta,2023-08-01
+2330012,Nal Kusuma,2023,Sistem Informasi,Aktif,Kupang,2023-08-01
+2330013,Meb Anggraini,2023,Sistem Informasi,Lulus,Medan,2023-08-01
+2330014,Nih Saputra,2023,Sistem Informasi,Aktif,Semarang,2023-08-01
+2330015,Yug Saputra,2023,Sistem Informasi,Lulus,Kupang,2023-08-01
+2330016,Tuh Rahmawati,2023,Sistem Informasi,aktif,Makassar,2023-08-01
+2330017,Fen Saputra,2023,Sistem Informasi,Lulus,Makassar,2023-08-01
+2330018,Bot Maulana,2023,Sistem Informasi,lulus,Bandung,2023-08-01
+2330019,Dow Wulandari,2023,Sistem Informasi,cuti,Makassar,2023-08-01
+2330020,Cup Kusuma,2023,Sistem Informasi,Aktif,Jakarta,2023-08-01
+2330021,Kum Anggraini,2023,Sistem Informasi,Aktif,Yogyakarta,2023-08-01
+2330022,Dom Putra,2023,Sistem Informasi,Aktif,Kupang,2023-08-01
+2330023,Bud Anggraini,2023,Sistem Informasi,aktif,Bandung,2023-08-01
+2330024,Cob Hidayat,2023,Sistem Informasi,Cuti,Bandung,2023-08-01
+2330025,Sot Firdaus,2023,Sistem Informasi,cuti,Makassar,2023-08-01
+2330026,Lad Firdaus,2023,Sistem Informasi,Lulus,Jakarta,2023-08-01
+2330027,Gom Maulana,2023,Sistem Informasi,AKTIF,Surabaya,2023-08-01
+2330028,Sap Sari,2023,Sistem Informasi,aktif,Jakarta,2023-08-01
+2330029,Luy Sari,2023,Sistem Informasi,AKTIF,Yogyakarta,2023-08-01
+2330030,Sog Kusuma,2023,Sistem Informasi,AKTIF,Yogyakarta,2023-08-01
+2330031,Ior Rahmawati,2023,Sistem Informasi,Lulus,,2023-08-01
+2330032,Rep Sari,2023,Sistem Informasi,Aktif,Makassar,2023-08-01
+2330033,Nir Kusuma,2023,Sistem Informasi,lulus,Medan,2023-08-01
+2330034,Aig Hidayat,2023,Sistem Informasi,Lulus,Jakarta,2023-08-01
+2330035,Jay Sari,2023,Sistem Informasi,do,Medan,2023-08-01
+2330036,Hiw Firdaus,2023,Sistem Informasi,Cuti,Bandung,2023-08-01
+2330037,Fip Ramadhan,2023,Sistem Informasi,Cuti,,2023-08-01
+2330038,Cir Firdaus,2023,Sistem Informasi,Lulus,Jakarta,2023-08-01
+2330039,Ram Firdaus,2023,Sistem Informasi,Lulus,Makassar,2023-08-01
+2330040,Hig Pratama,2023,Sistem Informasi,cuti,Jakarta,2023-08-01
+2330041,Juw Firdaus,2023,Sistem Informasi,AKTIF,Makassar,2023-08-01
+2330042,Sug Kusuma,2023,Sistem Informasi,aktif,Surabaya,2023-08-01
+2330043,Pip Putra,2023,Sistem Informasi,aktif,Medan,2023-08-01
+2330044,Beb Maulana,2023,Sistem Informasi,aktif,Jakarta,2023-08-01
+2330045,Kuy Anggraini,2023,Sistem Informasi,do,Kupang,2023-08-01
+2330046,Heh Anggraini,2023,Sistem Informasi,Lulus,Semarang,2023-08-01
+2330047,Kur Putra,2023,Sistem Informasi,do,Kupang,2023-08-01
+2330048,Hor Firdaus,2023,Sistem Informasi,lulus,Jakarta,2023-08-01
+2330049,Pok Anggraini,,Sistem Informasi,cuti,Semarang,2023-08-01
+2330050,Fop Saputra,2023,Sistem Informasi,Cuti,Jakarta,2023-08-01
+2330051,Mun Kusuma,2023,Sistem Informasi,cuti,Surabaya,2023-08-01
+2330052,Bey Hidayat,2023,Sistem Informasi,do,,2023-08-01
+2330053,Rub Firdaus,2023,Sistem Informasi,AKTIF,Jakarta,2023-08-01
+2330054,Bok Wulandari,2023,Sistem Informasi,do,Semarang,2023-08-01
+2330055,Yum Ramadhan,2023,Sistem Informasi,cuti,Yogyakarta,2023-08-01
+2330056,Hod Ramadhan,2023,Sistem Informasi,lulus,Yogyakarta,2023-08-01
+2330057,Won Maulana,2023,Sistem Informasi,Aktif,Yogyakarta,2023-08-01
+2330058,Par Hidayat,2023,Sistem Informasi,Lulus,Bandung,2023-08-01
+2330059,Bin Wijaya,2023,Sistem Informasi,cuti,Surabaya,2023-08-01
+2330060,Toy Saputra,2023,Sistem Informasi,Lulus,Surabaya,2023-08-01
+2330061,Dab Ramadhan,2023,Sistem Informasi,cuti,Yogyakarta,2023-08-01
+2330062,His Rahmawati,2023,Sistem Informasi,cuti,Bandung,2023-08-01
+2330063,Cim Nugroho,2023,Sistem Informasi,AKTIF,Kupang,2023-08-01
+2330064,Mip Saputra,2023,Sistem Informasi,AKTIF,Makassar,2023-08-01
+2330065,Pum Putra,2023,Sistem Informasi,Lulus,Kupang,2023-08-01
+2330066,Wil Pratama,2023,Sistem Informasi,AKTIF,Kupang,2023-08-01
+2330067,Hab Saputra,2023,Sistem Informasi,Lulus,Kupang,2023-08-01
+2330068,Cih Wulandari,2023,Sistem Informasi,cuti,Semarang,2023-08-01
+2330069,Bat Wulandari,2023,Sistem Informasi,Cuti,Makassar,2023-08-01
+2330070,Sob Rahmawati,2023,Sistem Informasi,Aktif,Medan,2023-08-01
+2330071,Aah Nugroho,2023,Sistem Informasi,do,Jakarta,2023-08-01
+2330072,Aas Sari,2023,Sistem Informasi,Aktif,Semarang,2023-08-01
+2330073,Bol Wijaya,2023,Sistem Informasi,AKTIF,Surabaya,2023-08-01
+2330074,Sal Maulana,2023,Sistem Informasi,Aktif,Makassar,2023-08-01
+2330075,Moh Putra,2023,Sistem Informasi,Aktif,Semarang,2023-08-01
+2330076,Aon Firdaus,2023,Sistem Informasi,lulus,Yogyakarta,2023-08-01
+2330077,Fuh Hidayat,2023,Sistem Informasi,Cuti,Surabaya,2023-08-01
+2330078,Lok Ramadhan,2023,Sistem Informasi,aktif,Semarang,2023-08-01
+2330079,Kup Pratama,2023,Sistem Informasi,do,Kupang,2023-08-01
+2330080,Ley Wijaya,2023,Sistem Informasi,do,Surabaya,2023-08-01
+2330081,Aad Ramadhan,2023,Sistem Informasi,Aktif,Bandung,2023-08-01
+2330082,Aus Pratama,2023,Sistem Informasi,AKTIF,Kupang,2023-08-01
+2330083,Wiw Lestari,2023,Sistem Informasi,aktif,Kupang,2023-08-01
+2330084,Mok Rahmawati,2023,Sistem Informasi,lulus,Surabaya,2023-08-01
+2330085,Gow Nugroho,2023,Sistem Informasi,Cuti,Kupang,2023-08-01
+2330086,Gep Lestari,2023,Sistem Informasi,lulus,Jakarta,2023-08-01
+2330087,Gel Putra,2023,Sistem Informasi,lulus,Yogyakarta,2023-08-01
+2330088,Jag Lestari,2023,Sistem Informasi,AKTIF,Surabaya,2023-08-01
+2330089,Iom Firdaus,,Sistem Informasi,cuti,Semarang,2023-08-01
+2330090,Neb Putra,,Sistem Informasi,aktif,Surabaya,2023-08-01
+2330091,Aut Kusuma,2023,Sistem Informasi,lulus,Kupang,2023-08-01
+2330092,Kok Maulana,2023,Sistem Informasi,Lulus,Medan,2023-08-01
+2330093,Non Nugroho,2023,Sistem Informasi,Cuti,Makassar,2023-08-01
+2330094,Cor Lestari,2023,Sistem Informasi,Aktif,Kupang,2023-08-01
+2330095,Iok Kusuma,2023,Sistem Informasi,AKTIF,Yogyakarta,2023-08-01
+2330096,Ead Ramadhan,2023,Sistem Informasi,Aktif,Yogyakarta,2023-08-01
+2330097,Pad Kusuma,2023,Sistem Informasi,lulus,Yogyakarta,2023-08-01
+2330098,Auw Ramadhan,2023,Sistem Informasi,cuti,Yogyakarta,2023-08-01
+2330099,Rir Wulandari,2023,Sistem Informasi,Aktif,Jakarta,2023-08-01
+2330100,Jip Anggraini,2023,Sistem Informasi,aktif,Kupang,2023-08-01
+2330101,Gun Wijaya,2023,Sistem Informasi,cuti,Yogyakarta,2023-08-01
+2330102,Rop Sari,2023,Sistem Informasi,aktif,Surabaya,2023-08-01
+2330103,Yut Rahmawati,2023,Sistem Informasi,Lulus,Semarang,2023-08-01
+2330104,Lih Hidayat,,Sistem Informasi,Cuti,Bandung,2023-08-01
+2330105,Kos Ramadhan,2023,Sistem Informasi,Aktif,Kupang,2023-08-01
+2330106,Rik Firdaus,2023,Sistem Informasi,aktif,Medan,2023-08-01
+2330107,Kiw Rahmawati,2023,Sistem Informasi,Aktif,Yogyakarta,2023-08-01
+2330108,Gut Sari,2023,Sistem Informasi,Aktif,Semarang,2023-08-01
+2330109,Mig Nugroho,2023,Sistem Informasi,Lulus,Semarang,2023-08-01
+2330110,Kap Putra,2023,Sistem Informasi,aktif,Medan,2023-08-01
+2330111,Wog Wulandari,2023,Sistem Informasi,aktif,Surabaya,2023-08-01
+2330112,Feg Putra,2023,Sistem Informasi,Aktif,Yogyakarta,2023-08-01
+2330113,Kod Lestari,2023,Sistem Informasi,Cuti,Jakarta,2023-08-01
+2330114,Gog Saputra,2023,Sistem Informasi,cuti,Medan,2023-08-01
+2330115,Sub Rahmawati,2023,Sistem Informasi,Aktif,Bandung,2023-08-01
+2330116,Pes Wulandari,2023,Sistem Informasi,AKTIF,Jakarta,2023-08-01
+2330117,Cat Sari,2023,Sistem Informasi,Aktif,Yogyakarta,2023-08-01
+2330118,Get Wijaya,2023,Sistem Informasi,lulus,Makassar,2023-08-01
+2330119,Wol Wulandari,2023,Sistem Informasi,Cuti,Makassar,2023-08-01
+2330120,Dak Pratama,2023,Sistem Informasi,cuti,Surabaya,2023-08-01
+2330121,Gup Ramadhan,2023,Sistem Informasi,AKTIF,Yogyakarta,2023-08-01
+2330122,Wak Saputra,2023,Sistem Informasi,do,Kupang,2023-08-01
+2330123,Cab Rahmawati,2023,Sistem Informasi,Cuti,,2023-08-01
+2330124,Roy Nugroho,2023,Sistem Informasi,cuti,Yogyakarta,2023-08-01
+2330125,Iad Ramadhan,2023,Sistem Informasi,Aktif,Makassar,2023-08-01
+2330126,Rot Wulandari,2023,Sistem Informasi,Lulus,Jakarta,2023-08-01
+2330127,Eah Wulandari,2023,Sistem Informasi,lulus,Makassar,2023-08-01
+2330128,Iob Anggraini,2023,Sistem Informasi,cuti,Semarang,2023-08-01
+2330129,Bal Sari,2023,Sistem Informasi,cuti,Yogyakarta,2023-08-01
+2330130,Nat Wulandari,2023,Sistem Informasi,aktif,Semarang,2023-08-01
+2330131,Sow Rahmawati,2023,Sistem Informasi,Lulus,Surabaya,2023-08-01
+2330132,Nuh Kusuma,2023,Sistem Informasi,lulus,Medan,2023-08-01
+2330133,Hot Lestari,2023,Sistem Informasi,Cuti,Surabaya,2023-08-01
+2330134,Big Hidayat,2023,Sistem Informasi,Lulus,Yogyakarta,2023-08-01
+2330135,Tey Pratama,2023,Sistem Informasi,Aktif,Yogyakarta,2023-08-01
+2330136,Nud Wijaya,2023,Sistem Informasi,lulus,Bandung,2023-08-01
+2330137,For Nugroho,2023,Sistem Informasi,AKTIF,Yogyakarta,2023-08-01
+2330138,Kuy Kusuma,2023,Sistem Informasi,Lulus,Bandung,2023-08-01
+2330139,Aek Rahmawati,2023,Sistem Informasi,AKTIF,Makassar,2023-08-01
+2330140,Heg Wijaya,2023,Sistem Informasi,do,Surabaya,2023-08-01
+2330141,Kut Pratama,2023,Sistem Informasi,Lulus,Kupang,2023-08-01
+2330142,Muy Saputra,2023,Sistem Informasi,lulus,Bandung,2023-08-01
+2330143,Jih Wijaya,2023,Sistem Informasi,do,,2023-08-01
+2330144,Gis Pratama,2023,Sistem Informasi,Aktif,Surabaya,2023-08-01
+2330145,Cuw Saputra,2023,Sistem Informasi,cuti,Semarang,2023-08-01
+2330146,Eog Saputra,2023,Sistem Informasi,do,Jakarta,2023-08-01
+2330147,Nes Ramadhan,,Sistem Informasi,cuti,Surabaya,2023-08-01
+2330148,Auy Maulana,2023,Sistem Informasi,Aktif,Surabaya,2023-08-01
+2330149,Dog Hidayat,2023,Sistem Informasi,aktif,Surabaya,2023-08-01
+2330150,Yib Firdaus,2023,Sistem Informasi,aktif,Surabaya,2023-08-01
+2330151,Peh Wulandari,2023,Sistem Informasi,do,Jakarta,2023-08-01
+2330152,Col Nugroho,2023,Sistem Informasi,cuti,Bandung,2023-08-01
+2330153,Rar Putra,2023,Sistem Informasi,AKTIF,Bandung,2023-08-01
+2330154,Kig Hidayat,2023,Sistem Informasi,Lulus,Kupang,2023-08-01
+2330155,Aus Putra,2023,Sistem Informasi,AKTIF,Bandung,2023-08-01
+2330156,Fim Wijaya,2023,Sistem Informasi,do,Kupang,2023-08-01
+2330157,Ham Pratama,2023,Sistem Informasi,lulus,Bandung,2023-08-01
+2330158,Tew Kusuma,2023,Sistem Informasi,Aktif,Surabaya,2023-08-01
+2330159,Fon Sari,2023,Sistem Informasi,Cuti,Makassar,2023-08-01
+2330160,Hud Putra,2023,Sistem Informasi,AKTIF,Bandung,2023-08-01
+2330161,Eay Wulandari,2023,Sistem Informasi,do,Yogyakarta,2023-08-01
+2330162,Rap Lestari,2023,Sistem Informasi,lulus,Surabaya,2023-08-01
+2330163,Cit Rahmawati,2023,Sistem Informasi,Cuti,Yogyakarta,2023-08-01
+2330164,Pod Nugroho,2023,Sistem Informasi,do,Jakarta,2023-08-01
+2330165,Mur Sari,2023,Sistem Informasi,AKTIF,Makassar,2023-08-01
+2330166,Fug Wijaya,2023,Sistem Informasi,lulus,Medan,2023-08-01
+2330167,Jel Hidayat,2023,Sistem Informasi,Cuti,Bandung,2023-08-01
+2330168,Yud Lestari,2023,Sistem Informasi,aktif,Medan,2023-08-01
+2330169,Eap Putra,2023,Sistem Informasi,AKTIF,Medan,2023-08-01
+2330170,Bup Sari,2023,Sistem Informasi,lulus,Makassar,2023-08-01
+2330171,Kud Nugroho,,Sistem Informasi,aktif,Makassar,2023-08-01
+2330172,Mir Kusuma,2023,Sistem Informasi,cuti,Bandung,2023-08-01
+2330173,Hoy Firdaus,2023,Sistem Informasi,do,Surabaya,2023-08-01
+2330174,Kil Firdaus,2023,Sistem Informasi,Cuti,Semarang,2023-08-01
+2330175,Nut Saputra,2023,Sistem Informasi,cuti,Surabaya,2023-08-01
+2330176,Eom Saputra,2023,Sistem Informasi,Cuti,Medan,2023-08-01
+2330177,Kem Wijaya,2023,Sistem Informasi,AKTIF,Surabaya,2023-08-01
+2330178,Sem Firdaus,2023,Sistem Informasi,Lulus,Kupang,2023-08-01
+2330179,Not Pratama,,Sistem Informasi,Cuti,Makassar,2023-08-01
+2330180,Lan Rahmawati,2023,Sistem Informasi,AKTIF,Semarang,2023-08-01
+2330181,Gep Hidayat,2023,Sistem Informasi,Cuti,Surabaya,2023-08-01
+2330182,Aim Putra,2023,Sistem Informasi,do,Semarang,2023-08-01
+2330183,Sam Putra,2023,Sistem Informasi,AKTIF,Jakarta,2023-08-01
+2330184,Wam Sari,2023,Sistem Informasi,aktif,Kupang,2023-08-01
+2330185,Let Anggraini,2023,Sistem Informasi,Lulus,Yogyakarta,2023-08-01
+2330186,Cib Rahmawati,2023,Sistem Informasi,AKTIF,Makassar,2023-08-01
+2330187,Eoy Putra,2023,Sistem Informasi,do,Kupang,2023-08-01
+2330188,Rih Rahmawati,2023,Sistem Informasi,cuti,Surabaya,2023-08-01
+2330189,Iog Putra,2023,Sistem Informasi,AKTIF,Yogyakarta,2023-08-01
+2330190,Bey Nugroho,2023,Sistem Informasi,do,Bandung,2023-08-01
+2330191,Dup Putra,2023,Sistem Informasi,lulus,Jakarta,2023-08-01
+2330192,Det Hidayat,2023,Sistem Informasi,cuti,Makassar,2023-08-01
+2330193,Por Lestari,2023,Sistem Informasi,do,Kupang,2023-08-01
+2330194,Dem Sari,2023,Sistem Informasi,do,Surabaya,2023-08-01
+2330195,Pun Ramadhan,2023,Sistem Informasi,Lulus,Jakarta,2023-08-01
+2330196,Aob Ramadhan,2023,Sistem Informasi,lulus,Bandung,2023-08-01
+2330197,Hah Saputra,2023,Sistem Informasi,lulus,Medan,2023-08-01
+2330198,Ham Putra,2023,Sistem Informasi,Lulus,Makassar,2023-08-01
+2330199,Aot Lestari,2023,Sistem Informasi,aktif,Semarang,2023-08-01
+2330200,Des Saputra,2023,Sistem Informasi,AKTIF,Bandung,2023-08-01
+2330201,Leg Maulana,2023,Sistem Informasi,Aktif,Jakarta,2023-08-01
+2330202,Ben Sari,2023,Sistem Informasi,Aktif,Makassar,2023-08-01
+2330203,Aam Lestari,2023,Sistem Informasi,Aktif,Semarang,2023-08-01
+2330204,Mel Rahmawati,2023,Sistem Informasi,Cuti,Yogyakarta,2023-08-01
+2330205,Ten Nugroho,2023,Sistem Informasi,cuti,Bandung,2023-08-01
+2330206,Wus Firdaus,2023,Sistem Informasi,lulus,Kupang,2023-08-01
+2330207,Kas Kusuma,2023,Sistem Informasi,Lulus,Surabaya,2023-08-01
+2330208,Puy Wijaya,2023,Sistem Informasi,aktif,Yogyakarta,2023-08-01
+2330209,Nar Saputra,2023,Sistem Informasi,lulus,Medan,2023-08-01
+2330210,Puk Pratama,2023,Sistem Informasi,Cuti,Makassar,2023-08-01
+2330211,Kel Maulana,2023,Sistem Informasi,AKTIF,Semarang,2023-08-01
+2330212,Loy Firdaus,2023,Sistem Informasi,AKTIF,Makassar,2023-08-01
+2330213,Nos Nugroho,2023,Sistem Informasi,AKTIF,Semarang,2023-08-01
+2330214,Yod Ramadhan,2023,Sistem Informasi,cuti,Medan,2023-08-01
+2330215,Fol Pratama,2023,Sistem Informasi,cuti,Makassar,2023-08-01
+2330216,Eet Pratama,2023,Sistem Informasi,Cuti,Jakarta,2023-08-01
+2330217,Iab Firdaus,2023,Sistem Informasi,Lulus,Kupang,2023-08-01
+2330218,Ger Anggraini,2023,Sistem Informasi,aktif,Makassar,2023-08-01
+2330219,Hor Maulana,2023,Sistem Informasi,cuti,Bandung,2023-08-01
+2330220,Yub Kusuma,2023,Sistem Informasi,Aktif,Jakarta,2023-08-01
+2330221,Eel Hidayat,2023,Sistem Informasi,aktif,Surabaya,2023-08-01
+2330222,Toh Nugroho,2023,Sistem Informasi,AKTIF,Jakarta,2023-08-01
+2330223,Ras Ramadhan,2023,Sistem Informasi,aktif,Kupang,2023-08-01
+2330224,Met Firdaus,2023,Sistem Informasi,cuti,Makassar,2023-08-01
+2330225,Fug Firdaus,2023,Sistem Informasi,do,Bandung,2023-08-01
+2330226,Miy Hidayat,2023,Sistem Informasi,AKTIF,Bandung,2023-08-01
+2330227,Nay Wijaya,2023,Sistem Informasi,lulus,Jakarta,2023-08-01
+2330228,Lim Maulana,2023,Sistem Informasi,cuti,Jakarta,2023-08-01
+2330229,Mow Hidayat,2023,Sistem Informasi,aktif,Kupang,2023-08-01
+2330230,Miy Kusuma,2023,Sistem Informasi,Cuti,Kupang,2023-08-01
+2330231,Red Saputra,2023,Sistem Informasi,Aktif,Yogyakarta,2023-08-01
+2330232,Dew Firdaus,2023,Sistem Informasi,do,Surabaya,2023-08-01
+2330233,Rib Pratama,2023,Sistem Informasi,Aktif,Makassar,2023-08-01
+2330234,Rig Wulandari,2023,Sistem Informasi,Cuti,Makassar,2023-08-01
+2330235,Rot Hidayat,2023,Sistem Informasi,lulus,Semarang,2023-08-01
+2330236,Aal Rahmawati,2023,Sistem Informasi,do,Kupang,2023-08-01
+2330237,Tog Putra,2023,Sistem Informasi,Lulus,Surabaya,2023-08-01
+2330238,Hiy Putra,2023,Sistem Informasi,aktif,Kupang,2023-08-01
+2330239,Pip Wijaya,2023,Sistem Informasi,lulus,Makassar,2023-08-01
+2330240,Tut Maulana,2023,Sistem Informasi,cuti,Surabaya,2023-08-01
+2330241,Fog Firdaus,2023,Sistem Informasi,Lulus,Bandung,2023-08-01
+2330242,Siy Maulana,2023,Sistem Informasi,lulus,Kupang,2023-08-01
+2330243,Nuw Ramadhan,2023,Sistem Informasi,aktif,Semarang,2023-08-01
+2330244,Mus Maulana,2023,Sistem Informasi,aktif,Surabaya,2023-08-01
+2330245,Iag Sari,,Sistem Informasi,aktif,Bandung,2023-08-01
+2330246,Hel Firdaus,2023,Sistem Informasi,lulus,Bandung,2023-08-01
+2330247,Nis Wijaya,2023,Sistem Informasi,Cuti,Surabaya,2023-08-01
+2330248,Gem Maulana,2023,Sistem Informasi,do,Bandung,2023-08-01
+2330249,Nuw Firdaus,2023,Sistem Informasi,do,Yogyakarta,2023-08-01
+2330250,Wem Kusuma,2023,Sistem Informasi,AKTIF,Kupang,2023-08-01
+2330251,Eoy Putra,2023,Sistem Informasi,cuti,Medan,2023-08-01
+2330252,Ioy Pratama,2023,Sistem Informasi,lulus,Yogyakarta,2023-08-01
+2330253,Keb Nugroho,2023,Sistem Informasi,Aktif,Kupang,2023-08-01
+2330254,Guh Putra,2023,Sistem Informasi,lulus,Surabaya,2023-08-01
+2330255,Ieg Hidayat,2023,Sistem Informasi,Cuti,Semarang,2023-08-01
+2330256,Buk Rahmawati,2023,Sistem Informasi,aktif,Semarang,2023-08-01
+2330257,Jiw Lestari,2023,Sistem Informasi,lulus,Bandung,2023-08-01
+2330258,Yip Nugroho,2023,Sistem Informasi,lulus,Semarang,2023-08-01
+2330259,Cih Nugroho,2023,Sistem Informasi,cuti,Semarang,2023-08-01
+2330260,Aeb Putra,2023,Sistem Informasi,Lulus,Bandung,2023-08-01
+2330261,Bih Kusuma,2023,Sistem Informasi,aktif,Jakarta,2023-08-01
+2330262,Aow Putra,2023,Sistem Informasi,Lulus,Makassar,2023-08-01
+2330263,Tum Anggraini,2023,Sistem Informasi,AKTIF,Surabaya,2023-08-01
+2330264,Eat Anggraini,2023,Sistem Informasi,AKTIF,Surabaya,2023-08-01
+2330265,Puw Wulandari,2023,Sistem Informasi,aktif,Yogyakarta,2023-08-01
+2330266,Wag Kusuma,2023,Sistem Informasi,lulus,Kupang,2023-08-01
+2330267,Jar Hidayat,2023,Sistem Informasi,aktif,Yogyakarta,2023-08-01
+2330268,Hek Firdaus,2023,Sistem Informasi,AKTIF,Semarang,2023-08-01
+2330269,Aah Saputra,2023,Sistem Informasi,lulus,Bandung,2023-08-01
+2330270,Ran Sari,2023,Sistem Informasi,aktif,Jakarta,2023-08-01
+2330271,Eek Ramadhan,2023,Sistem Informasi,AKTIF,Yogyakarta,2023-08-01
+2330272,Haw Wulandari,2023,Sistem Informasi,lulus,Jakarta,2023-08-01
+2330273,Cus Saputra,2023,Sistem Informasi,do,Makassar,2023-08-01
+2330274,Lub Saputra,2023,Sistem Informasi,Lulus,Yogyakarta,2023-08-01
+2330275,Eol Ramadhan,2023,Sistem Informasi,Cuti,Jakarta,2023-08-01
+2330276,Yog Wulandari,2023,Sistem Informasi,Aktif,Yogyakarta,2023-08-01
+2330277,Ium Kusuma,2023,Sistem Informasi,aktif,Makassar,2023-08-01
+2330278,Yed Anggraini,2023,Sistem Informasi,Cuti,Surabaya,2023-08-01
+2330279,Deg Saputra,2023,Sistem Informasi,Lulus,Semarang,2023-08-01
+2330280,Got Maulana,2023,Sistem Informasi,do,Makassar,2023-08-01
+2330281,Fop Ramadhan,2023,Sistem Informasi,Cuti,Makassar,2023-08-01
+2330282,Jus Putra,2023,Sistem Informasi,AKTIF,Jakarta,2023-08-01
+2330283,Ioy Wijaya,2023,Sistem Informasi,AKTIF,Semarang,2023-08-01
+2330284,Hiy Firdaus,2023,Sistem Informasi,aktif,Jakarta,2023-08-01
+2330285,Hir Sari,2023,Sistem Informasi,cuti,Medan,2023-08-01
+2330286,Con Putra,2023,Sistem Informasi,Cuti,Yogyakarta,2023-08-01
+2330287,Eat Firdaus,2023,Sistem Informasi,cuti,Surabaya,2023-08-01
+2330288,Tap Wulandari,2023,Sistem Informasi,cuti,Semarang,2023-08-01
+2330289,Fom Wulandari,2023,Sistem Informasi,do,Makassar,2023-08-01
+2330290,Bak Sari,2023,Sistem Informasi,cuti,Semarang,2023-08-01
+2330291,Ras Hidayat,2023,Sistem Informasi,cuti,Yogyakarta,2023-08-01
+2330292,Tih Lestari,2023,Sistem Informasi,Lulus,Semarang,2023-08-01
+2330293,Lip Saputra,2023,Sistem Informasi,Lulus,Medan,2023-08-01
+2330294,Hun Pratama,2023,Sistem Informasi,AKTIF,Yogyakarta,2023-08-01
+2330295,Weh Putra,2023,Sistem Informasi,Aktif,Bandung,2023-08-01
+2330296,Log Anggraini,2023,Sistem Informasi,AKTIF,Makassar,2023-08-01
+2330297,Cew Nugroho,2023,Sistem Informasi,do,Surabaya,2023-08-01
+2330298,Wan Wijaya,2023,Sistem Informasi,do,Yogyakarta,2023-08-01
+2330299,Iiy Nugroho,2023,Sistem Informasi,do,Surabaya,2023-08-01
+2330300,Pam Lestari,2023,Sistem Informasi,Lulus,Yogyakarta,2023-08-01
+2430001,Cah Firdaus,2024,Sistem Informasi,Cuti,Makassar,2024-08-01
+2430002,Auw Nugroho,2024,Sistem Informasi,Aktif,Semarang,2024-08-01
+2430003,Ned Wulandari,2024,Sistem Informasi,lulus,Kupang,2024-08-01
+2430004,Eab Sari,2024,Sistem Informasi,Lulus,Surabaya,2024-08-01
+2430005,Fit Kusuma,2024,Sistem Informasi,do,Jakarta,2024-08-01
+2430006,Mal Putra,2024,Sistem Informasi,do,Yogyakarta,2024-08-01
+2430007,Geb Kusuma,2024,Sistem Informasi,lulus,Bandung,2024-08-01
+2430008,Kul Sari,,Sistem Informasi,cuti,Surabaya,2024-08-01
+2430009,Dah Saputra,2024,Sistem Informasi,AKTIF,Yogyakarta,2024-08-01
+2430010,Gak Hidayat,2024,Sistem Informasi,Aktif,Yogyakarta,2024-08-01
+2430011,Iem Ramadhan,2024,Sistem Informasi,AKTIF,Makassar,2024-08-01
+2430012,Bop Nugroho,2024,Sistem Informasi,Lulus,Medan,2024-08-01
+2430013,Cey Pratama,2024,Sistem Informasi,AKTIF,Kupang,2024-08-01
+2430014,Gag Pratama,2024,Sistem Informasi,Cuti,Bandung,2024-08-01
+2430015,Eog Ramadhan,2024,Sistem Informasi,aktif,Medan,2024-08-01
+2430016,Ten Nugroho,2024,Sistem Informasi,aktif,Jakarta,2024-08-01
+2430017,Tub Lestari,2024,Sistem Informasi,Lulus,Bandung,2024-08-01
+2430018,Wis Nugroho,2024,Sistem Informasi,aktif,Yogyakarta,2024-08-01
+2430019,Suk Kusuma,2024,Sistem Informasi,cuti,Surabaya,2024-08-01
+2430020,Dob Kusuma,2024,Sistem Informasi,do,Medan,2024-08-01
+2430021,Gug Maulana,2024,Sistem Informasi,Cuti,Semarang,2024-08-01
+2430022,Naw Nugroho,2024,Sistem Informasi,Aktif,Surabaya,2024-08-01
+2430023,Gan Wulandari,2024,Sistem Informasi,aktif,Kupang,2024-08-01
+2430024,Aot Lestari,2024,Sistem Informasi,AKTIF,Semarang,2024-08-01
+2430025,Tew Nugroho,2024,Sistem Informasi,AKTIF,Semarang,2024-08-01
+2430026,Sos Rahmawati,2024,Sistem Informasi,do,Yogyakarta,2024-08-01
+2430027,Sek Kusuma,2024,Sistem Informasi,Aktif,Kupang,2024-08-01
+2430028,Ion Lestari,2024,Sistem Informasi,Cuti,Jakarta,2024-08-01
+2430029,Per Maulana,2024,Sistem Informasi,AKTIF,Jakarta,2024-08-01
+2430030,Iuh Wulandari,2024,Sistem Informasi,do,Bandung,2024-08-01
+2430031,Mup Pratama,2024,Sistem Informasi,AKTIF,Semarang,2024-08-01
+2430032,Kon Nugroho,2024,Sistem Informasi,AKTIF,Yogyakarta,2024-08-01
+2430033,Kas Nugroho,2024,Sistem Informasi,Lulus,Makassar,2024-08-01
+2430034,Jap Wulandari,2024,Sistem Informasi,cuti,,2024-08-01
+2430035,Rud Anggraini,2024,Sistem Informasi,aktif,Kupang,2024-08-01
+2430036,Yey Pratama,2024,Sistem Informasi,Lulus,Makassar,2024-08-01
+2430037,Dim Saputra,2024,Sistem Informasi,Aktif,Jakarta,2024-08-01
+2430038,Lit Hidayat,2024,Sistem Informasi,cuti,Bandung,2024-08-01
+2430039,Kim Sari,2024,Sistem Informasi,Aktif,Makassar,2024-08-01
+2430040,Bek Maulana,2024,Sistem Informasi,Aktif,Makassar,2024-08-01
+2430041,Jab Wulandari,2024,Sistem Informasi,AKTIF,Yogyakarta,2024-08-01
+2430042,Bem Anggraini,2024,Sistem Informasi,cuti,Bandung,2024-08-01
+2430043,Kem Rahmawati,2024,Sistem Informasi,Aktif,Bandung,2024-08-01
+2430044,Rey Saputra,2024,Sistem Informasi,AKTIF,Jakarta,2024-08-01
+2430045,Peb Wijaya,2024,Sistem Informasi,AKTIF,Medan,2024-08-01
+2430046,Muw Lestari,2024,Sistem Informasi,Cuti,Bandung,2024-08-01
+2430047,Feb Hidayat,2024,Sistem Informasi,Lulus,Yogyakarta,2024-08-01
+2430048,Guh Pratama,2024,Sistem Informasi,cuti,Medan,2024-08-01
+2430049,Pub Pratama,2024,Sistem Informasi,lulus,Kupang,2024-08-01
+2430050,Dol Kusuma,2024,Sistem Informasi,Lulus,,2024-08-01
+2430051,Ged Maulana,2024,Sistem Informasi,Aktif,Yogyakarta,2024-08-01
+2430052,Dob Lestari,2024,Sistem Informasi,Cuti,Bandung,2024-08-01
+2430053,Wep Hidayat,2024,Sistem Informasi,lulus,Surabaya,2024-08-01
+2430054,Faw Firdaus,2024,Sistem Informasi,aktif,Semarang,2024-08-01
+2430055,Mal Saputra,2024,Sistem Informasi,Cuti,Medan,2024-08-01
+2430056,Ail Firdaus,2024,Sistem Informasi,Cuti,Semarang,2024-08-01
+2430057,Iat Kusuma,2024,Sistem Informasi,do,Surabaya,2024-08-01
+2430058,Wat Nugroho,2024,Sistem Informasi,aktif,Makassar,2024-08-01
+2430059,Yok Kusuma,2024,Sistem Informasi,Lulus,Kupang,2024-08-01
+2430060,Nad Wulandari,2024,Sistem Informasi,AKTIF,Semarang,2024-08-01
+2430061,Kum Maulana,2024,Sistem Informasi,Aktif,Jakarta,2024-08-01
+2430062,Eib Ramadhan,2024,Sistem Informasi,Aktif,Yogyakarta,2024-08-01
+2430063,Has Sari,2024,Sistem Informasi,do,Surabaya,2024-08-01
+2430064,Tey Wulandari,2024,Sistem Informasi,Lulus,Medan,2024-08-01
+2430065,Jas Hidayat,2024,Sistem Informasi,lulus,Yogyakarta,2024-08-01
+2430066,Euh Wulandari,2024,Sistem Informasi,Lulus,Semarang,2024-08-01
+2430067,Iur Lestari,2024,Sistem Informasi,do,Semarang,2024-08-01
+2430068,Teg Maulana,2024,Sistem Informasi,cuti,Makassar,2024-08-01
+2430069,Ban Ramadhan,2024,Sistem Informasi,cuti,Semarang,2024-08-01
+2430070,Los Rahmawati,2024,Sistem Informasi,Cuti,Makassar,2024-08-01
+2430071,Eom Pratama,2024,Sistem Informasi,do,Yogyakarta,2024-08-01
+2430072,Eum Wulandari,2024,Sistem Informasi,Aktif,Yogyakarta,2024-08-01
+2430073,Lab Wijaya,2024,Sistem Informasi,Cuti,Surabaya,2024-08-01
+2430074,Cak Rahmawati,2024,Sistem Informasi,do,Kupang,2024-08-01
+2430075,Ril Hidayat,2024,Sistem Informasi,Cuti,Makassar,2024-08-01
+2430076,Aib Kusuma,2024,Sistem Informasi,lulus,Kupang,2024-08-01
+2430077,Gus Kusuma,2024,Sistem Informasi,cuti,Semarang,2024-08-01
+2430078,Yip Pratama,2024,Sistem Informasi,Aktif,Yogyakarta,2024-08-01
+2430079,Auk Wulandari,2024,Sistem Informasi,AKTIF,Surabaya,2024-08-01
+2430080,Yut Nugroho,2024,Sistem Informasi,do,Jakarta,2024-08-01
+2430081,Jun Putra,2024,Sistem Informasi,do,Makassar,2024-08-01
+2430082,Eok Maulana,2024,Sistem Informasi,aktif,Medan,2024-08-01
+2430083,Muh Firdaus,2024,Sistem Informasi,lulus,Semarang,2024-08-01
+2430084,Wil Maulana,2024,Sistem Informasi,do,Makassar,2024-08-01
+2430085,Ein Wulandari,2024,Sistem Informasi,aktif,Bandung,2024-08-01
+2430086,Aer Ramadhan,2024,Sistem Informasi,cuti,Jakarta,2024-08-01
+2430087,Wuw Wijaya,,Sistem Informasi,Lulus,Medan,2024-08-01
+2430088,Aog Rahmawati,2024,Sistem Informasi,Lulus,Jakarta,2024-08-01
+2430089,Eis Rahmawati,2024,Sistem Informasi,Aktif,Yogyakarta,2024-08-01
+2430090,Cir Hidayat,2024,Sistem Informasi,do,Makassar,2024-08-01
+2430091,Dum Putra,2024,Sistem Informasi,lulus,Yogyakarta,2024-08-01
+2430092,Yed Putra,2024,Sistem Informasi,aktif,,2024-08-01
+2430093,Hip Putra,2024,Sistem Informasi,do,Kupang,2024-08-01
+2430094,Git Nugroho,2024,Sistem Informasi,lulus,Yogyakarta,2024-08-01
+2430095,Nos Hidayat,2024,Sistem Informasi,cuti,Bandung,2024-08-01
+2430096,Kew Pratama,2024,Sistem Informasi,do,Surabaya,2024-08-01
+2430097,Pib Nugroho,2024,Sistem Informasi,aktif,Kupang,2024-08-01
+2430098,Med Sari,2024,Sistem Informasi,cuti,Yogyakarta,2024-08-01
+2430099,Ked Lestari,2024,Sistem Informasi,Cuti,Bandung,2024-08-01
+2430100,Pan Anggraini,2024,Sistem Informasi,cuti,Makassar,2024-08-01
+2430101,Gol Wijaya,2024,Sistem Informasi,AKTIF,Surabaya,2024-08-01
+2430102,Hih Ramadhan,2024,Sistem Informasi,Aktif,Medan,2024-08-01
+2430103,Sub Pratama,2024,Sistem Informasi,lulus,Medan,2024-08-01
+2430104,Ead Putra,2024,Sistem Informasi,Lulus,Jakarta,2024-08-01
+2430105,Lik Kusuma,2024,Sistem Informasi,cuti,Surabaya,2024-08-01
+2430106,Fen Sari,2024,Sistem Informasi,do,Yogyakarta,2024-08-01
+2430107,Jab Firdaus,2024,Sistem Informasi,aktif,Medan,2024-08-01
+2430108,Dig Kusuma,2024,Sistem Informasi,lulus,Kupang,2024-08-01
+2430109,Tik Pratama,2024,Sistem Informasi,Cuti,Jakarta,2024-08-01
+2430110,Sey Kusuma,2024,Sistem Informasi,Aktif,Bandung,2024-08-01
+2430111,Hos Sari,2024,Sistem Informasi,Lulus,Jakarta,2024-08-01
+2430112,Sed Putra,2024,Sistem Informasi,cuti,Surabaya,2024-08-01
+2430113,Cit Ramadhan,2024,Sistem Informasi,Aktif,Yogyakarta,2024-08-01
+2430114,Kow Nugroho,2024,Sistem Informasi,cuti,Bandung,2024-08-01
+2430115,Cad Putra,2024,Sistem Informasi,lulus,Makassar,2024-08-01
+2430116,Ieb Sari,2024,Sistem Informasi,Cuti,Bandung,2024-08-01
+2430117,Eeb Wijaya,2024,Sistem Informasi,Lulus,Jakarta,2024-08-01
+2430118,Eed Nugroho,2024,Sistem Informasi,lulus,Semarang,2024-08-01
+2430119,Huw Wulandari,2024,Sistem Informasi,Aktif,Makassar,2024-08-01
+2430120,Seb Anggraini,2024,Sistem Informasi,Aktif,Jakarta,2024-08-01
+2430121,Pag Nugroho,2024,Sistem Informasi,Lulus,Jakarta,2024-08-01
+2430122,Ies Lestari,2024,Sistem Informasi,Cuti,Semarang,2024-08-01
+2430123,Nus Kusuma,2024,Sistem Informasi,Aktif,Makassar,2024-08-01
+2430124,Ruh Sari,2024,Sistem Informasi,Aktif,Kupang,2024-08-01
+2430125,Yek Rahmawati,2024,Sistem Informasi,lulus,Yogyakarta,2024-08-01
+2430126,Las Sari,2024,Sistem Informasi,do,Jakarta,2024-08-01
+2430127,Tay Putra,2024,Sistem Informasi,lulus,Medan,2024-08-01
+2430128,Pab Hidayat,2024,Sistem Informasi,do,Kupang,2024-08-01
+2430129,Dam Ramadhan,2024,Sistem Informasi,do,Bandung,2024-08-01
+2430130,Wot Saputra,2024,Sistem Informasi,aktif,Bandung,2024-08-01
+2430131,Cim Wulandari,2024,Sistem Informasi,aktif,,2024-08-01
+2430132,Yah Kusuma,2024,Sistem Informasi,cuti,Jakarta,2024-08-01
+2430133,Kah Kusuma,2024,Sistem Informasi,AKTIF,Medan,2024-08-01
+2430134,Riw Firdaus,2024,Sistem Informasi,cuti,Bandung,2024-08-01
+2430135,Yin Nugroho,2024,Sistem Informasi,lulus,Makassar,2024-08-01
+2430136,Pen Wijaya,2024,Sistem Informasi,do,Surabaya,2024-08-01
+2430137,Hod Kusuma,,Sistem Informasi,cuti,Yogyakarta,2024-08-01
+2430138,Nig Saputra,2024,Sistem Informasi,lulus,Makassar,2024-08-01
+2430139,Pun Pratama,2024,Sistem Informasi,Lulus,Bandung,2024-08-01
+2430140,Nep Lestari,2024,Sistem Informasi,AKTIF,Makassar,2024-08-01
+2430141,Pun Hidayat,2024,Sistem Informasi,cuti,Yogyakarta,2024-08-01
+2430142,Del Ramadhan,2024,Sistem Informasi,do,Kupang,2024-08-01
+2430143,Seb Rahmawati,2024,Sistem Informasi,Cuti,Yogyakarta,2024-08-01
+2430144,Bid Anggraini,2024,Sistem Informasi,lulus,Kupang,2024-08-01
+2430145,Gum Maulana,2024,Sistem Informasi,Cuti,Kupang,2024-08-01
+2430146,Gek Putra,2024,Sistem Informasi,Cuti,Kupang,2024-08-01
+2430147,Yan Kusuma,2024,Sistem Informasi,Lulus,Semarang,2024-08-01
+2430148,Iim Wijaya,2024,Sistem Informasi,lulus,Yogyakarta,2024-08-01
+2430149,Kab Rahmawati,2024,Sistem Informasi,lulus,Surabaya,2024-08-01
+2430150,Fum Kusuma,2024,Sistem Informasi,Aktif,Makassar,2024-08-01
+2430151,Eeh Saputra,2024,Sistem Informasi,cuti,Semarang,2024-08-01
+2430152,Hun Pratama,2024,Sistem Informasi,aktif,Semarang,2024-08-01
+2430153,Ieh Hidayat,2024,Sistem Informasi,Lulus,Jakarta,2024-08-01
+2430154,Lut Pratama,2024,Sistem Informasi,AKTIF,Medan,2024-08-01
+2430155,Cug Rahmawati,2024,Sistem Informasi,lulus,Medan,2024-08-01
+2430156,Rik Lestari,2024,Sistem Informasi,lulus,Makassar,2024-08-01
+2430157,Kik Saputra,2024,Sistem Informasi,aktif,Surabaya,2024-08-01
+2430158,Mat Sari,2024,Sistem Informasi,Cuti,Jakarta,2024-08-01
+2430159,Cel Maulana,2024,Sistem Informasi,Cuti,Jakarta,2024-08-01
+2430160,Bek Kusuma,2024,Sistem Informasi,Cuti,Semarang,2024-08-01
+2430161,Daw Sari,2024,Sistem Informasi,AKTIF,Makassar,2024-08-01
+2430162,Fud Anggraini,2024,Sistem Informasi,do,Jakarta,2024-08-01
+2430163,Aey Anggraini,2024,Sistem Informasi,Aktif,Semarang,2024-08-01
+2430164,Fey Sari,2024,Sistem Informasi,lulus,Jakarta,2024-08-01
+2430165,Kug Saputra,,Sistem Informasi,Lulus,Jakarta,2024-08-01
+2430166,Wiw Kusuma,2024,Sistem Informasi,do,Surabaya,2024-08-01
+2430167,Gas Maulana,2024,Sistem Informasi,cuti,Makassar,2024-08-01
+2430168,Jak Saputra,2024,Sistem Informasi,Lulus,,2024-08-01
+2430169,Jil Sari,2024,Sistem Informasi,aktif,Semarang,2024-08-01
+2430170,Lor Rahmawati,2024,Sistem Informasi,Lulus,Bandung,2024-08-01
+2430171,Tew Rahmawati,2024,Sistem Informasi,AKTIF,Kupang,2024-08-01
+2430172,Ier Kusuma,2024,Sistem Informasi,AKTIF,Medan,2024-08-01
+2430173,Pol Lestari,2024,Sistem Informasi,aktif,Jakarta,2024-08-01
+2430174,But Lestari,2024,Sistem Informasi,cuti,Semarang,2024-08-01
+2430175,Pin Maulana,2024,Sistem Informasi,aktif,Semarang,2024-08-01
+2430176,Nay Sari,2024,Sistem Informasi,AKTIF,Bandung,2024-08-01
+2430177,Beh Hidayat,2024,Sistem Informasi,cuti,Medan,2024-08-01
+2430178,Ies Saputra,2024,Sistem Informasi,Lulus,Yogyakarta,2024-08-01
+2430179,Mok Sari,2024,Sistem Informasi,AKTIF,Kupang,2024-08-01
+2430180,Aun Nugroho,2024,Sistem Informasi,Aktif,Bandung,2024-08-01
+2430181,Las Nugroho,2024,Sistem Informasi,Aktif,Semarang,2024-08-01
+2430182,Kay Nugroho,2024,Sistem Informasi,Lulus,Yogyakarta,2024-08-01
+2430183,Bay Saputra,2024,Sistem Informasi,do,Semarang,2024-08-01
+2430184,Wer Rahmawati,2024,Sistem Informasi,do,Yogyakarta,2024-08-01
+2430185,Mah Kusuma,2024,Sistem Informasi,AKTIF,Surabaya,2024-08-01
+2430186,Ras Hidayat,2024,Sistem Informasi,aktif,Surabaya,2024-08-01
+2430187,Eoh Lestari,2024,Sistem Informasi,do,Kupang,2024-08-01
+2430188,Moy Sari,2024,Sistem Informasi,Lulus,Semarang,2024-08-01
+2430189,Mih Saputra,2024,Sistem Informasi,Aktif,Bandung,2024-08-01
+2430190,Lad Lestari,2024,Sistem Informasi,cuti,Surabaya,2024-08-01
+2430191,Yum Putra,2024,Sistem Informasi,cuti,Bandung,2024-08-01
+2430192,Hor Ramadhan,2024,Sistem Informasi,Lulus,Surabaya,2024-08-01
+2430193,Dab Saputra,2024,Sistem Informasi,do,Bandung,2024-08-01
+2430194,Rip Firdaus,2024,Sistem Informasi,aktif,Jakarta,2024-08-01
+2430195,Con Ramadhan,2024,Sistem Informasi,Cuti,Jakarta,2024-08-01
+2430196,Eoh Nugroho,2024,Sistem Informasi,AKTIF,Jakarta,2024-08-01
+2430197,Fud Putra,2024,Sistem Informasi,lulus,Medan,2024-08-01
+2430198,Pip Maulana,2024,Sistem Informasi,Cuti,Bandung,2024-08-01
+2430199,Eot Rahmawati,2024,Sistem Informasi,aktif,Medan,2024-08-01
+2430200,Wer Anggraini,2024,Sistem Informasi,cuti,Medan,2024-08-01
+2430201,Rab Nugroho,2024,Sistem Informasi,lulus,Semarang,2024-08-01
+2430202,Mup Kusuma,2024,Sistem Informasi,Cuti,Yogyakarta,2024-08-01
+2430203,Gaw Saputra,2024,Sistem Informasi,Cuti,Bandung,2024-08-01
+2430204,Wel Wulandari,2024,Sistem Informasi,Aktif,Jakarta,2024-08-01
+2430205,Guw Wulandari,2024,Sistem Informasi,lulus,Yogyakarta,2024-08-01
+2430206,Sat Maulana,2024,Sistem Informasi,Lulus,Makassar,2024-08-01
+2430207,Lad Anggraini,2024,Sistem Informasi,aktif,Bandung,2024-08-01
+2430208,Cip Wijaya,2024,Sistem Informasi,Aktif,Surabaya,2024-08-01
+2430209,Get Sari,2024,Sistem Informasi,cuti,Makassar,2024-08-01
+2430210,Lir Anggraini,2024,Sistem Informasi,Aktif,Yogyakarta,2024-08-01
+2430211,Bem Wulandari,2024,Sistem Informasi,aktif,Medan,2024-08-01
+2430212,Ber Rahmawati,2024,Sistem Informasi,AKTIF,Bandung,2024-08-01
+2430213,Fiy Wijaya,2024,Sistem Informasi,Lulus,Medan,2024-08-01
+2430214,Jat Nugroho,2024,Sistem Informasi,lulus,Surabaya,2024-08-01
+2430215,Jew Ramadhan,2024,Sistem Informasi,aktif,Jakarta,2024-08-01
+2430216,Gub Lestari,2024,Sistem Informasi,Aktif,Jakarta,2024-08-01
+2430217,Tok Firdaus,2024,Sistem Informasi,Aktif,Kupang,2024-08-01
+2430218,Eer Lestari,2024,Sistem Informasi,Aktif,Bandung,2024-08-01
+2430219,Neh Wijaya,2024,Sistem Informasi,do,Medan,2024-08-01
+2430220,Iok Ramadhan,,Sistem Informasi,Aktif,Medan,2024-08-01
+2430221,Hur Saputra,2024,Sistem Informasi,Cuti,Semarang,2024-08-01
+2430222,Rer Ramadhan,2024,Sistem Informasi,do,Semarang,2024-08-01
+2430223,Eur Wulandari,2024,Sistem Informasi,Aktif,Bandung,2024-08-01
+2430224,Kib Rahmawati,2024,Sistem Informasi,Cuti,Kupang,2024-08-01
+2430225,Kun Rahmawati,2024,Sistem Informasi,lulus,Makassar,2024-08-01
+2430226,Aup Putra,2024,Sistem Informasi,aktif,Kupang,2024-08-01
+2430227,Bub Wijaya,2024,Sistem Informasi,do,Yogyakarta,2024-08-01
+2430228,Eag Wijaya,2024,Sistem Informasi,cuti,Makassar,2024-08-01
+2430229,Eab Hidayat,2024,Sistem Informasi,lulus,Yogyakarta,2024-08-01
+2430230,Tur Wijaya,2024,Sistem Informasi,do,Bandung,2024-08-01
+2430231,Mir Wulandari,2024,Sistem Informasi,AKTIF,Semarang,2024-08-01
+2430232,Fed Rahmawati,2024,Sistem Informasi,Cuti,Kupang,2024-08-01
+2430233,Did Nugroho,2024,Sistem Informasi,AKTIF,Bandung,2024-08-01
+2430234,Yak Nugroho,2024,Sistem Informasi,Cuti,Medan,2024-08-01
+2430235,Fen Wulandari,,Sistem Informasi,lulus,Bandung,2024-08-01
+2430236,Weh Anggraini,2024,Sistem Informasi,Cuti,Semarang,2024-08-01
+2430237,Wen Saputra,2024,Sistem Informasi,Cuti,Kupang,2024-08-01
+2430238,Sak Lestari,2024,Sistem Informasi,Aktif,Medan,2024-08-01
+2430239,Aig Hidayat,2024,Sistem Informasi,Lulus,Yogyakarta,2024-08-01
+2430240,Yim Sari,2024,Sistem Informasi,AKTIF,Kupang,2024-08-01
+2430241,Dol Ramadhan,2024,Sistem Informasi,lulus,Medan,2024-08-01
+2430242,Fuy Lestari,2024,Sistem Informasi,Lulus,Semarang,2024-08-01
+2430243,Aah Anggraini,2024,Sistem Informasi,do,Bandung,2024-08-01
+2430244,Taw Hidayat,2024,Sistem Informasi,Cuti,Bandung,2024-08-01
+2430245,Bon Lestari,2024,Sistem Informasi,Cuti,Kupang,2024-08-01
+2430246,Eog Kusuma,2024,Sistem Informasi,AKTIF,Medan,2024-08-01
+2430247,Kiy Anggraini,2024,Sistem Informasi,Lulus,Semarang,2024-08-01
+2430248,Biy Firdaus,2024,Sistem Informasi,aktif,Yogyakarta,2024-08-01
+2430249,Kin Saputra,2024,Sistem Informasi,aktif,Semarang,2024-08-01
+2430250,Aiw Hidayat,2024,Sistem Informasi,Cuti,Yogyakarta,2024-08-01
+2430251,Aes Kusuma,2024,Sistem Informasi,do,Surabaya,2024-08-01
+2430252,Kin Rahmawati,2024,Sistem Informasi,cuti,Bandung,2024-08-01
+2430253,Mag Ramadhan,2024,Sistem Informasi,Cuti,Yogyakarta,2024-08-01
+2430254,Geg Pratama,2024,Sistem Informasi,Aktif,Bandung,2024-08-01
+2430255,Aen Ramadhan,2024,Sistem Informasi,aktif,Medan,2024-08-01
+2430256,Pup Maulana,2024,Sistem Informasi,aktif,Medan,2024-08-01
+2430257,Jum Rahmawati,2024,Sistem Informasi,Lulus,Makassar,2024-08-01
+2430258,Auw Wulandari,2024,Sistem Informasi,aktif,Yogyakarta,2024-08-01
+2430259,Nuk Saputra,2024,Sistem Informasi,Cuti,Semarang,2024-08-01
+2430260,Fiy Wijaya,2024,Sistem Informasi,Lulus,Semarang,2024-08-01
+2430261,Nol Pratama,2024,Sistem Informasi,Aktif,Semarang,2024-08-01
+2430262,Yan Rahmawati,2024,Sistem Informasi,cuti,Medan,2024-08-01
+2430263,Jup Maulana,2024,Sistem Informasi,do,Surabaya,2024-08-01
+2430264,Gap Firdaus,2024,Sistem Informasi,lulus,Bandung,2024-08-01
+2430265,Ruy Pratama,2024,Sistem Informasi,lulus,Jakarta,2024-08-01
+2430266,Hal Nugroho,2024,Sistem Informasi,do,Semarang,2024-08-01
+2430267,Jab Nugroho,2024,Sistem Informasi,AKTIF,Medan,2024-08-01
+2430268,Rit Nugroho,2024,Sistem Informasi,Lulus,Surabaya,2024-08-01
+2430269,Aed Wijaya,2024,Sistem Informasi,Cuti,Jakarta,2024-08-01
+2430270,Aim Maulana,2024,Sistem Informasi,AKTIF,Jakarta,2024-08-01
+2430271,Hor Pratama,2024,Sistem Informasi,Aktif,Bandung,2024-08-01
+2430272,Ler Maulana,2024,Sistem Informasi,Cuti,Bandung,2024-08-01
+2430273,Lik Kusuma,2024,Sistem Informasi,cuti,Makassar,2024-08-01
+2430274,Way Lestari,2024,Sistem Informasi,cuti,Bandung,2024-08-01
+2430275,Cad Nugroho,2024,Sistem Informasi,AKTIF,Medan,2024-08-01
+2430276,Nen Lestari,2024,Sistem Informasi,do,Jakarta,2024-08-01
+2430277,Kek Nugroho,2024,Sistem Informasi,lulus,Jakarta,2024-08-01
+2430278,Cod Pratama,2024,Sistem Informasi,lulus,Kupang,2024-08-01
+2430279,Lom Wijaya,2024,Sistem Informasi,lulus,Surabaya,2024-08-01
+2430280,Iut Firdaus,2024,Sistem Informasi,Cuti,Surabaya,2024-08-01
+2430281,Foy Wijaya,2024,Sistem Informasi,Lulus,Medan,2024-08-01
+2430282,Biy Firdaus,2024,Sistem Informasi,Aktif,Bandung,2024-08-01
+2430283,Rig Firdaus,2024,Sistem Informasi,AKTIF,Jakarta,2024-08-01
+2430284,Del Anggraini,2024,Sistem Informasi,lulus,Semarang,2024-08-01
+2430285,Jat Putra,2024,Sistem Informasi,lulus,Semarang,2024-08-01
+2430286,Run Anggraini,2024,Sistem Informasi,lulus,Medan,2024-08-01
+2430287,Loy Anggraini,2024,Sistem Informasi,aktif,Makassar,2024-08-01
+2430288,Fir Ramadhan,2024,Sistem Informasi,cuti,Yogyakarta,2024-08-01
+2430289,Siw Rahmawati,2024,Sistem Informasi,Cuti,Jakarta,2024-08-01
+2430290,Dok Sari,2024,Sistem Informasi,Lulus,Bandung,2024-08-01
+2430291,Sot Wulandari,2024,Sistem Informasi,aktif,Jakarta,2024-08-01
+2430292,Jit Hidayat,2024,Sistem Informasi,lulus,Semarang,2024-08-01
+2430293,Kil Rahmawati,2024,Sistem Informasi,AKTIF,Semarang,2024-08-01
+2430294,Yad Anggraini,2024,Sistem Informasi,cuti,Jakarta,2024-08-01
+2430295,Rew Maulana,2024,Sistem Informasi,Lulus,Kupang,2024-08-01
+2430296,Par Pratama,2024,Sistem Informasi,aktif,Semarang,2024-08-01
+2430297,Gar Wijaya,2024,Sistem Informasi,lulus,Bandung,2024-08-01
+2430298,Fop Ramadhan,2024,Sistem Informasi,cuti,Kupang,2024-08-01
+2430299,Sih Saputra,2024,Sistem Informasi,AKTIF,Makassar,2024-08-01
+2430300,Sup Maulana,2024,Sistem Informasi,do,Surabaya,2024-08-01

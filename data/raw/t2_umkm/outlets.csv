@@ -1,0 +1,5 @@
+outlet_id,nama_outlet,kota,tipe,aktif,dibuka_sejak
+OUT-A,Outlet A - Pusat,Bandung,outlet_pusat,ya,2023-03-01
+OUT-B,Outlet B - Stasiun,Bandung,outlet_transit,ya,2023-11-01
+OUT-C,Outlet C - Kampus,Sumedang,outlet_kampus,ya,2023-06-01
+OUT-D,Outlet D - Lama (tutup),Cirebon,outlet_tutup,tidak,2023-06-01

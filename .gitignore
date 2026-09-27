@@ -1,0 +1,20 @@
+# artefak hasil kerja — jangan di-commit
+*.duckdb
+*.duckdb.wal
+logs/
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# kecuali fallback dari dosen
+!warehouse/fallback/*.duckdb
+
+# venv lokal
+.venv/
+venv/
+.env
+
+# kunci jawaban dosen — jangan pernah ikut ke repo mahasiswa
+_KUNCI_PENYUNTIKAN.md
