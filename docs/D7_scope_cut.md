@@ -3,7 +3,7 @@
 > Diisi tim **sebelum** menghadap dosen. Dosen hanya mencoret dan tanda tangan.
 > Form ini yang jadi acuan rubrik di Sesi 15–16: yang kamu potong tidak dihitung sebagai kekurangan.
 
-Tim: ____________________  Topik / slice: ____________________  Tanggal: __________
+Tim: Kelompok 6 | Topik / slice: ____________________ | Tanggal: __________
 
 ## AKAN DIBANGUN (maksimal 1 fact table + 1 conformed dimension per RPS butir 8)
 
@@ -26,4 +26,4 @@ Tim: ____________________  Topik / slice: ____________________  Tanggal: _______
 | Tim | Dosen |
 |---|---|
 |  |  |
-| [tanda tangan] | [tanda tangan] |
+| ![Tanda Tangan Tim](../images/tanda_tangan_titanio.jpg) | [tanda tangan] |
