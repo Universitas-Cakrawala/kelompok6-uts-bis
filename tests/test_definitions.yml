@@ -63,67 +63,99 @@ tests:
     perkiraan_baris: 62
     justifikasi: Slice tim dibentuk dari angkatan; baris tanpa angkatan tidak masuk tim mana pun.
 
-  # ---------------------------------------------------------------- T2 POS UMKM
-  - name: transaction_id_duplikat
+  # ---------------------------------------------------------------- T2 POS UMKM / Kelompok 6 / k9
+  - name: transaction_id_duplikat_k9
     topic: t2
     severity: blocking
     scope: source
     sql: >-
-      SELECT count(*) FROM (SELECT transaction_id FROM raw_transactions
-      GROUP BY 1 HAVING count(*) > 1)
+      WITH slice AS (SELECT t.* FROM raw_transactions t WHERE t.outlet_id = 'OUT-A' AND CAST(CASE WHEN
+      upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT TIME ZONE
+      'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) >= DATE '2025-01-01' AND
+      CAST(CASE WHEN upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT
+      TIME ZONE 'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) < DATE '2025-07-01')
+      SELECT count(*) FROM (SELECT transaction_id FROM slice GROUP BY 1 HAVING count(*) > 1)
     expected: fail
-    perkiraan_baris: 219
-    justifikasi: ID transaksi yang kembar membuat omzet terhitung dua kali.
-  - name: item_fk_orphan
+    perkiraan_baris: 34
+    justifikasi: ID transaksi kembar pada Outlet A/periode menyebabkan item ter-join berulang; unitnya kelompok ID.
+  - name: transaction_id_konflik_k9
     topic: t2
     severity: blocking
     scope: source
     sql: >-
-      SELECT count(*) FROM raw_transaction_items i
-      WHERE NOT EXISTS (SELECT 1 FROM raw_products p WHERE p.product_id = i.product_id)
+      WITH slice AS (SELECT t.* FROM raw_transactions t WHERE t.outlet_id = 'OUT-A' AND CAST(CASE WHEN
+      upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT TIME ZONE
+      'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) >= DATE '2025-01-01' AND
+      CAST(CASE WHEN upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT
+      TIME ZONE 'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) < DATE '2025-07-01')
+      SELECT count(*) FROM (SELECT transaction_id FROM slice GROUP BY 1 HAVING count(DISTINCT
+      concat_ws('|',coalesce(outlet_id,''),coalesce(customer_id,''),coalesce(tanggal_waktu,''),coalesce(status,''),coalesce(total_bayar,'')))
+      > 1)
     expected: fail
-    perkiraan_baris: 1
-    justifikasi: Item tanpa produk tidak bisa di-join ke dimensi — butuh anggota Unknown, bukan dibuang diam-diam.
-  - name: timestamp_utc_tanpa_zona
-    topic: t2
-    severity: warning
-    scope: source
-    sql: >-
-      SELECT count(*) FROM raw_transactions WHERE tanggal_waktu LIKE '%Z'
-    expected: fail
-    perkiraan_baris: 2389
-    justifikasi: 15% timestamp UTC tanpa tanda, 85% waktu lokal — kalau tidak dikonversi, omzet per jam salah 7 jam.
-  - name: transaksi_tanpa_item
-    topic: t2
-    severity: warning
-    scope: source
-    sql: >-
-      SELECT count(*) FROM raw_transactions t
-      WHERE NOT EXISTS (SELECT 1 FROM raw_transaction_items i WHERE i.transaction_id = t.transaction_id)
-    expected: fail
-    perkiraan_baris: 158
-    justifikasi: Reconciliation transaksi ↔ item; tanpa ini, total transaksi dan total item tidak akan pernah cocok.
-  - name: qty_negatif_bukan_refund
-    topic: t2
-    severity: warning
-    scope: source
-    sql: >-
-      SELECT count(*) FROM raw_transaction_items i
-      JOIN raw_transactions t USING (transaction_id)
-      WHERE TRY_CAST(i.qty AS INT) < 0 AND upper(trim(t.status)) <> 'REFUND'
-    expected: fail
-    perkiraan_baris: 621
-    justifikasi: qty negatif hanya sah untuk retur; di luar itu, tandanya salah.
-  - name: harga_satuan_tidak_positif
+    perkiraan_baris: 4
+    justifikasi: Header dengan ID sama tetapi atribut berbeda tidak punya aturan pilih yang aman dan harus dikarantina; unitnya ID.
+  - name: item_id_duplikat_k9
     topic: t2
     severity: blocking
     scope: source
     sql: >-
-      SELECT count(*) FROM raw_transaction_items WHERE TRY_CAST(harga_satuan AS BIGINT) <= 0
+      WITH slice AS (SELECT t.* FROM raw_transactions t WHERE t.outlet_id = 'OUT-A' AND CAST(CASE WHEN
+      upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT TIME ZONE
+      'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) >= DATE '2025-01-01' AND
+      CAST(CASE WHEN upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT
+      TIME ZONE 'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) < DATE '2025-07-01'),
+      item_slice AS (SELECT i.* FROM raw_transaction_items i WHERE EXISTS (SELECT 1 FROM slice t WHERE
+      t.transaction_id=i.transaction_id)) SELECT count(*) FROM (SELECT item_id FROM item_slice GROUP BY 1
+      HAVING count(*) > 1)
+    expected: fail
+    perkiraan_baris: 42
+    justifikasi: Item ID kembar menggandakan nilai penjualan; unitnya kelompok item_id sebelum deduplikasi.
+  - name: qty_negatif_paid_k9
+    topic: t2
+    severity: blocking
+    scope: source
+    sql: >-
+      WITH slice AS (SELECT t.* FROM raw_transactions t WHERE t.outlet_id = 'OUT-A' AND CAST(CASE WHEN
+      upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT TIME ZONE
+      'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) >= DATE '2025-01-01' AND
+      CAST(CASE WHEN upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT
+      TIME ZONE 'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) < DATE '2025-07-01')
+      SELECT count(*) FROM raw_transaction_items i WHERE TRY_CAST(i.qty AS INTEGER) < 0 AND EXISTS (SELECT 1
+      FROM slice t WHERE t.transaction_id=i.transaction_id AND upper(trim(t.status)) = 'PAID')
+    expected: fail
+    perkiraan_baris: 92
+    justifikasi: Qty negatif pada transaksi PAID membuat nilai item tidak layak dijumlah; unitnya baris item mentah, tanpa JOIN pengganda.
+  - name: transaksi_tanpa_item_k9
+    topic: t2
+    severity: warning
+    scope: source
+    sql: >-
+      WITH slice AS (SELECT t.* FROM raw_transactions t WHERE t.outlet_id = 'OUT-A' AND CAST(CASE WHEN
+      upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT TIME ZONE
+      'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) >= DATE '2025-01-01' AND
+      CAST(CASE WHEN upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT
+      TIME ZONE 'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) < DATE '2025-07-01')
+      SELECT count(*) FROM slice t WHERE NOT EXISTS (SELECT 1 FROM raw_transaction_items i WHERE
+      i.transaction_id=t.transaction_id)
+    expected: fail
+    perkiraan_baris: 21
+    justifikasi: Header tanpa item membuat total header tidak bisa dijelaskan pada grain fact item; unitnya baris header.
+  - name: item_produk_orphan_k9
+    topic: t2
+    severity: blocking
+    scope: source
+    sql: >-
+      WITH slice AS (SELECT t.* FROM raw_transactions t WHERE t.outlet_id = 'OUT-A' AND CAST(CASE WHEN
+      upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT TIME ZONE
+      'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) >= DATE '2025-01-01' AND
+      CAST(CASE WHEN upper(trim(t.tanggal_waktu)) LIKE '%Z' THEN TRY_CAST(t.tanggal_waktu AS TIMESTAMPTZ) AT
+      TIME ZONE 'Asia/Jakarta' ELSE TRY_CAST(t.tanggal_waktu AS TIMESTAMP) END AS DATE) < DATE '2025-07-01')
+      SELECT count(*) FROM raw_transaction_items i WHERE EXISTS (SELECT 1 FROM slice t WHERE
+      t.transaction_id=i.transaction_id) AND NOT EXISTS (SELECT 1 FROM raw_products p WHERE
+      p.product_id=i.product_id)
     expected: pass
     perkiraan_baris: 0
-    justifikasi: Harga nol/negatif merusak semua measure omzet di hilir.
-
+    justifikasi: Item tanpa produk tidak bisa dipetakan ke dimensi produk; unitnya baris item mentah.
   # ---------------------------------------------------------------- T3 Cuaca BMKG
   - name: duplikat_grain_desa_slot
     topic: t3

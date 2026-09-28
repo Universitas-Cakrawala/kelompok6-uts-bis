@@ -8,3 +8,5 @@
 | `30_fact_<x>.sql` | **kamu** | 3 (DDL) → 4 (load) |
 | `40_analytics/q01..q08.sql` | **kamu** | 6 |
 | `50_metrics/<metrik>.sql` | **kamu** | 7 — satu berkas per metrik di kamus |
+
+SQL aktif untuk UTS berada pada berkas dimensi, fact, analitik, dan metrik di atas. Template dan contoh lama telah dipisahkan dari repo penilaian; tidak termasuk pola SQL aktif untuk checkpoint.
