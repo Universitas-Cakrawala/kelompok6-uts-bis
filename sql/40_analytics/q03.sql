@@ -9,6 +9,7 @@ SELECT strftime(d.full_date, '%Y-%m') AS bulan,
        round(100.0 * count(DISTINCT CASE WHEN f.status_transaksi = 'REFUND' THEN f.transaction_id END)
              / nullif(count(DISTINCT f.transaction_id), 0), 2) AS rasio_refund_persen
 FROM fact_sales_item f
+JOIN dim_date d ON d.date_sk = f.date_sk
 JOIN dim_outlet o ON o.outlet_sk = f.outlet_sk
 WHERE o.outlet_id = 'OUT-A'
   AND d.full_date >= DATE '2025-01-01' AND d.full_date < DATE '2025-07-01'

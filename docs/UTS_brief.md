@@ -1,6 +1,6 @@
 # Brief desain UTS — Kelompok 6 / T2 POS UMKM / slice k9
 
-**Status:** jumlah dimensi dan pemotongan scope sudah dikonfirmasi dosen; rancangan teknis masih menunggu kesepakatan isi D7 dari kelompok. **Batas:** Outlet A (`OUT-A`) dan transaksi tanggal lokal WIB 1 Januari–30 Juni 2025. Sumber penugasan adalah `sandbox/kelompok_topik.md`; folder `data/raw/t2_umkm/` adalah dataset yang diberikan. Scope −20% tidak menghapus tujuh deliverable UTS.
+**Status:** jumlah dimensi dan pemotongan scope sudah dikonfirmasi dosen; target jumlah metrik/tile dan deadline D7 telah disepakati kelompok pada 29 September 2026. **Batas:** Outlet A (`OUT-A`) dan transaksi tanggal lokal WIB 1 Januari–30 Juni 2025. Folder `data/raw/t2_umkm/` adalah dataset yang diberikan. Scope −20% tidak menghapus tujuh deliverable UTS.
 
 ## Tujuan dan keputusan
 
@@ -92,6 +92,6 @@ Satu metrik UTS adalah **nilai item PAID valid Outlet A**. Dua belas field, SQL 
 
 ## D7 dan batas pekerjaan
 
-`docs/D7_scope_cut.md` merinci apa yang akan dibangun menuju UAS dan apa yang dicabut: Outlet B/C, perbandingan antar-outlet, serta periode di luar Januari–Juni 2025. Dosen mengonfirmasi pembatasan Outlet A/enam bulan sudah memenuhi scope −20%. Isi target metrik/tile, deadline, dan persetujuan kelompok tetap harus diputuskan bersama. D7 cukup diisi dan dibaca dosen; tidak memerlukan tanda tangan atau salinan dalam PDF pengumpulan.
+`docs/D7_scope_cut.md` merinci apa yang akan dibangun menuju UAS dan apa yang dicabut: Outlet B/C, perbandingan antar-outlet, serta periode di luar Januari–Juni 2025. Dosen mengonfirmasi pembatasan Outlet A/enam bulan sudah memenuhi scope −20%. Kelompok menyepakati target 2 dari 3 metrik dan 3 tile dengan deadline bersama 30 September 2026; definisi metrik kedua dirinci saat pembangunan. D7 cukup diisi dan dibaca dosen; tidak memerlukan tanda tangan atau salinan dalam PDF pengumpulan.
 
 Paket desain UTS meliputi brief ini, DDL, desain load, YAML test dan bukti profiling, tiga query, kamus metrik, batas desain, serta D7 terisi sebagai berkas repo terpisah. PDF hanya memuat enam deliverable desain pertama; D7 dibaca dari `docs/D7_scope_cut.md` sesuai jawaban dosen. Dosen menilai repo dengan commit/tag `UTS`. `sandbox/` diabaikan Git sehingga ringkasan penugasan dan keputusan penting harus tinggal di berkas `docs/` yang dilacak.
