@@ -13,7 +13,7 @@
 | 7 | Time basis | Tanggal transaksi lokal WIB (`Asia/Jakarta`), 1 Januari 2025 inklusif sampai 1 Juli 2025 eksklusif; string `Z` dikonversi dari UTC. |
 | 8 | Satuan | Rupiah (Rp), dengan asumsi kerja bahwa `harga_satuan` dan `diskon` pada sumber adalah nominal rupiah. |
 | 9 | Dimensi yang boleh dipotong | Tanggal/bulan, produk/kategori, dan pelanggan; outlet hanya `OUT-A` melalui `dim_outlet` sebagai batas cakupan. Setiap fact hanya cocok ke satu versi produk. Jangan SUM harga satuan atau rasio. |
-| 10 | Filter default | `outlet_id='OUT-A'`, tanggal WIB `[2025-01-01, 2025-07-01)` dan item fact yang telah lolos validasi; hanya status PAID menyumbang nilai. |
+| 10 | Filter default | `outlet_id='OUT-A'`, tanggal WIB `(2025-01-01, 2025-07-01)` dan item fact yang telah lolos validasi; hanya status PAID menyumbang nilai. |
 | 11 | Arti nilai kosong | Jika tidak ada baris fact untuk tanggal/outlet, hasil tidak tersedia/NULL (tidak ada data); jika ada baris valid tetapi semuanya VOID/REFUND, hasil 0. Ini bukan bukti outlet tutup. |
 | 12 | Versi | v1, berlaku mulai 28 September 2026 untuk desain UTS; perubahan rumus/status harus menaikkan versi. |
 
