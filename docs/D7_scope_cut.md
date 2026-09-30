@@ -1,6 +1,6 @@
 # D7 â€” Batas lingkup capstone Kelompok 6
 
-> **Ruang lingkup, target jumlah metrik/tile, dan deadline disepakati kelompok sebelum defense Sesi 8.** Dosen mengonfirmasi form D7 cukup diisi dan dibaca, tanpa tanda tangan dan tanpa dimasukkan ke PDF pengumpulan. Form ini menjadi acuan scope pembangunan sesudah UTS; dashboard tidak dibangun saat UTS.
+> **Ruang lingkup, target jumlah metrik/tile, dan batas finalisasi desain D7 disepakati kelompok sebelum defense Sesi 8.** Tanggal 30 September 2026 adalah batas finalisasi keputusan desain pada form ini, bukan tenggat membangun warehouse, metrik kedua, atau dashboard. Jadwal implementasi menuju UAS belum ditetapkan. Dosen mengonfirmasi form D7 cukup diisi dan dibaca, tanpa tanda tangan dan tanpa dimasukkan ke PDF pengumpulan.
 
 Tim: **Kelompok 6**
 
@@ -19,7 +19,7 @@ Anggota dan NIM:
 
 ## AKAN DIBANGUN (maksimal 1 fact table + 1 conformed dimension per RPS butir 8)
 
-| # | Artefak | Ukuran selesai | Deadline |
+| # | Artefak yang direncanakan | Ukuran selesai saat implementasi | Batas finalisasi desain D7 |
 |---|---|---|---|
 | 1 | `fact_sales_item` untuk `OUT-A`, tanggal WIB 2025-01-01 s.d. 2025-06-30 | Satu baris per `item_id` valid, tanpa duplikat, FK terisi, jumlah/nominal lolos rekonsiliasi yang disepakati. | **30 September 2026** |
 | 2 | `dim_date` sebagai conformed dimension | Setiap fact punya tepat satu `date_sk` yang cocok; tanggal WIB dan rentang kalender terdokumentasi. Dimensi produk, outlet, dan customer mendukung fact sesuai desain star; `outlet_sk` fact merujuk `OUT-A` pada `dim_outlet`. | **30 September 2026** |
@@ -40,6 +40,6 @@ Dosen mengonfirmasi batas k9 (Outlet A selama enam bulan) sudah memenuhi scope â
 
 ## Kesepakatan kelompok dan pembacaan dosen
 
-- Seluruh deadline pada tabel disepakati anggota kelompok pada **29 September 2026**: batas selesai bersama **30 September 2026**.
+- Batas finalisasi keputusan desain D7 pada tabel disepakati anggota kelompok pada **29 September 2026**: **30 September 2026**. Tanggal penyelesaian implementasi setiap artefak belum ditetapkan.
 - Jumlah target **2 dari 3 metrik** dan **3 tile** juga disepakati empat anggota pada **29 September 2026**. Definisi metrik kedua masih perlu dirinci saat pembangunan; ini tidak menambah deliverable desain UTS.
 - Sesuai jawaban lisan dosen yang dicatat kelompok, D7 tidak memerlukan tanda tangan dan tidak perlu disertakan dalam PDF. Dosen cukup membaca berkas ini dari repo.
