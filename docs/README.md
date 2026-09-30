@@ -1,6 +1,7 @@
 # docs/
 
-Satu berkas per artefak. Template diisi, bukan dihapus.
+Satu berkas per artefak yang relevan. Dokumen contoh dan template di luar paket UTS
+Kelompok 6 disimpan sebagai arsip lokal di `sandbox/knowledge_kelompok6/repo_starter_docs/`.
 
 D0 inventaris keputusan · D1 8 pertanyaan bisnis · D2 star schema + grain ·
 D3 catatan pemuatan · D4 justifikasi pengujian · D5 keputusan pra-agregasi ·
