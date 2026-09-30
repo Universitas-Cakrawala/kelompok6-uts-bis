@@ -1,7 +1,7 @@
 # 6 test kualitas data — severity wajib: blocking | warning
 # expected: pass | fail   (fail = memang menangkap masalah yang kamu lihat di profil)
 # sql harus mengembalikan SATU angka: jumlah baris yang melanggar.
-# Angka di `perkiraan_baris` diambil dari `pipeline.profile`, bukan tebakan.
+# Angka T2/k9 di `perkiraan_baris` berasal dari query CSV baca-saja yang benar-benar memfilter slice; lihat docs/profile_t2_k9_slice.md. Profil bawaan pipeline.profile tidak memfilter k9.
 
 tests:
   # ---------------------------------------------------------------- T1 Kampus
