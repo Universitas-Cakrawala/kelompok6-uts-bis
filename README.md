@@ -3,6 +3,19 @@
 Repo template untuk 9 tim. Satu repo per tim (`Use this template`), semua artefak dikerjakan **di
 dalam sesi** dan dibuktikan lewat commit bertanggal sebelum 20:00.
 
+## Kelompok 6
+
+Topik: **T2 POS UMKM, slice k9 — Outlet A, Januari–Juni 2025**
+
+Ketua belum ditetapkan secara eksplisit pada dokumen proyek. Nama ketua dapat diperbarui setelah disepakati kelompok.
+
+| Status | Nama | NIM |
+|---|---|---|
+| Ketua | Titanio Yudista | 24120500031 |
+| Anggota | Taufiqurrahman | 24130500005 |
+| Anggota | Zaki Khabibi Ziwab | 24130500009 |
+| Anggota | Wildan Rizky Wijaya | 24110500029 |
+
 ## Setup 5 menit
 
 ```bash
