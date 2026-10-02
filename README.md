@@ -7,8 +7,6 @@ dalam sesi** dan dibuktikan lewat commit bertanggal sebelum 20:00.
 
 Topik: **T2 POS UMKM, slice k9 — Outlet A, Januari–Juni 2025**
 
-Ketua belum ditetapkan secara eksplisit pada dokumen proyek. Nama ketua dapat diperbarui setelah disepakati kelompok.
-
 | Status | Nama | NIM |
 |---|---|---|
 | Ketua | Titanio Yudista | 24120500031 |
