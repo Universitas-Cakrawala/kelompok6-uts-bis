@@ -1,0 +1,94 @@
+[
+  {
+    "tabel": "transactions",
+    "query": "SELECT count(*) AS baris, count(DISTINCT transaction_id) AS id_unik FROM read_csv_auto('{D}/transactions.csv', all_varchar=true)",
+    "kolom": [
+      "baris",
+      "id_unik"
+    ],
+    "hasil": [
+      [
+        "15892",
+        "15671"
+      ]
+    ]
+  },
+  {
+    "tabel": "transactions",
+    "query": "SELECT count(*) AS id_duplikat FROM (SELECT transaction_id FROM read_csv_auto('{D}/transactions.csv', all_varchar=true) GROUP BY 1 HAVING count(*) > 1)",
+    "kolom": [
+      "id_duplikat"
+    ],
+    "hasil": [
+      [
+        "219"
+      ]
+    ]
+  },
+  {
+    "tabel": "transactions",
+    "query": "SELECT count(*) FILTER (WHERE tanggal_waktu LIKE '%Z') AS timestamp_utc, count(DISTINCT status) AS varian_status FROM read_csv_auto('{D}/transactions.csv', all_varchar=true)",
+    "kolom": [
+      "timestamp_utc",
+      "varian_status"
+    ],
+    "hasil": [
+      [
+        "2389",
+        "5"
+      ]
+    ]
+  },
+  {
+    "tabel": "transactions",
+    "query": "SELECT count(*) AS tanpa_item FROM read_csv_auto('{D}/transactions.csv', all_varchar=true) t WHERE NOT EXISTS (SELECT 1 FROM read_csv_auto('{D}/transaction_items.csv', all_varchar=true) i WHERE i.transaction_id = t.transaction_id)",
+    "kolom": [
+      "tanpa_item"
+    ],
+    "hasil": [
+      [
+        "158"
+      ]
+    ]
+  },
+  {
+    "tabel": "transaction_items",
+    "query": "SELECT count(*) FILTER (WHERE TRY_CAST(qty AS INT) < 0) AS qty_negatif, count(*) AS baris FROM read_csv_auto('{D}/transaction_items.csv', all_varchar=true)",
+    "kolom": [
+      "qty_negatif",
+      "baris"
+    ],
+    "hasil": [
+      [
+        "628",
+        "31343"
+      ]
+    ]
+  },
+  {
+    "tabel": "transaction_items",
+    "query": "SELECT count(*) AS fk_orphan FROM read_csv_auto('{D}/transaction_items.csv', all_varchar=true) i WHERE NOT EXISTS (SELECT 1 FROM read_csv_auto('{D}/products.csv', all_varchar=true) p WHERE p.product_id = i.product_id)",
+    "kolom": [
+      "fk_orphan"
+    ],
+    "hasil": [
+      [
+        "1"
+      ]
+    ]
+  },
+  {
+    "tabel": "products",
+    "query": "SELECT count(DISTINCT harga_satuan) AS varian_harga, count(*) AS produk FROM read_csv_auto('{D}/products.csv', all_varchar=true)",
+    "kolom": [
+      "varian_harga",
+      "produk"
+    ],
+    "hasil": [
+      [
+        "9",
+        "120"
+      ]
+    ]
+  }
+]
