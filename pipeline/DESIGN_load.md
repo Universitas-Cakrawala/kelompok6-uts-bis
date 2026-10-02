@@ -94,4 +94,21 @@ Partisi logis adalah bulan transaksi WIB, tetapi **tidak ada `updated_at`** pada
 5. Lookup tepat satu SK per dimensi dan MERGE/hapus terbatas pada `fact_sales_item` k9.
 6. Bandingkan jumlah item valid terhadap fact, hitung ID unik/duplikat, pastikan tidak ada SK NULL atau versi produk ganda, lalu catat selisih `total_bayar` header sebagai warning untuk diteliti.
 
-Dimensi harus siap sebelum fact agar setiap FK dapat diisi. Baris Unknown/ANONIM harus dibuat sekali saja dan tidak berubah saat rerun. Semua kontrol ini dirancang untuk implementasi setelah UTS; tidak ada load yang dieksekusi sekarang.
+Dimensi harus siap sebelum fact agar setiap FK dapat diisi. Baris Unknown/ANONIM harus dibuat sekali saja dan tidak berubah saat rerun. Saat penyerahan UTS, semua kontrol ini berupa desain; implementasi setelah UTS dicatat berikut ini.
+
+## Catatan implementasi setelah UTS — 2 Oktober 2026
+
+Atas permintaan kelompok, `sql/load.sql` kini mengimplementasikan desain untuk **t2/k9**. Staging diganti per snapshot; dimensi domain mempertahankan surrogate key dari sequence, produk menyimpan versi Type 2, dan fact memakai MERGE serta penghapusan terbatas pada k9. Seluruh load dibungkus transaksi dengan rollback saat gagal. PK/FK/CHECK mengikuti DDL dimensi domain dan fact; key kalender divalidasi secara logis karena generator `dim_date` memakai CTAS.
+
+Perubahan atribut produk memakai tanggal pengamatan snapshot. Karena batas versi bertipe DATE, perubahan kedua pada produk yang sama dalam hari yang sama ditolak agar tidak membentuk interval kosong atau menimpa histori. Jika kasus tersebut diperlukan, sepakati resolusi waktu dan migrasi skema terlebih dahulu. Tanggal awal sentinel tetap hanya menyatakan atribut yang diketahui dari snapshot, bukan bukti histori sumber.
+
+Database legacy tanpa PK dari loader full replace ditolak. Arsipkan database tersebut sebelum rebuild dari CSV; jangan memakai rebuild untuk database yang sudah menyimpan histori nyata. Arsip lokal hasil loader lama berada di `sandbox/knowledge_kelompok6/load_archive/` dan tidak untuk GitHub. PDF penyerahan UTS tetap menjadi snapshot desain yang telah disetujui.
+
+Verifikasi implementasi:
+
+```bash
+.venv/bin/python -m unittest discover -s tests -p test_load_regression.py
+.venv/bin/python -m pipeline.load --topic t2 --slice k9 --twice
+```
+
+Regresi menggunakan salinan CSV dalam folder sementara dan database di memori. Pengujian mencakup kesamaan seluruh isi dimensi/fact pada rerun, SK stabil, histori dan lookup tanggal produk, Type 1, karantina item/transaksi, konflik header, koreksi/hapus fact terbatas pada k9, dan rollback. `--twice` sendiri hanya memeriksa jumlah baris, sehingga tidak cukup untuk membuktikan semua aspek idempotensi.

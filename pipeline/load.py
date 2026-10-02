@@ -1,18 +1,9 @@
-"""D3 — load idempoten: satu dimensi + satu fact, dijalankan dua kali tanpa menggandakan baris.
+"""Eksekusi SQL load tim: staging snapshot, dimensi Type 1/2, dan MERGE fact.
 
-Dua mode:
-
-    full        CREATE OR REPLACE TABLE  (idempoten secara konstruksi — acuan repo ini)
-    insert_only INSERT polos pada run kedua — MENGGANDAKAN baris. Hanya untuk demonstrasi Sesi 4.
-
-Strategi lain (upsert lewat natural key, DELETE partisi + INSERT) **ditulis tim sendiri** di
-`pipeline/DESIGN_load.md` dan di SQL mereka — repo ini tidak menyediakan flag untuk itu, karena
-memilihnya adalah bagian dari penilaian, bukan pengaturan.
-
-Pakai:
-    python -m pipeline.load --topic t2 --slice k8 --twice
-    python -m pipeline.load --topic t2 --slice k8 --strategy insert_only --twice   # demo jebol
-    python -m pipeline.load --topic t1 --slice k4 --fallback                       # tulis warehouse/fallback/
+Pakai .venv/bin/python -m pipeline.load --topic t2 --slice k9 --twice.
+Mode full menjalankan strategi yang tertulis di SQL. Mode insert_only hanya
+untuk demonstrasi CTAS pada SQL alternatif melalui --sql, bukan loader k9.
+--twice membandingkan jumlah baris; regresi juga memeriksa nilai dan histori.
 """
 
 from __future__ import annotations
@@ -28,9 +19,10 @@ from pipeline import config
 
 
 def render(sql: str, ctx: dict) -> str:
-    """Isi {D} (folder seed) dan {SLICE_<nama>} (predikat slice, TRUE kalau tidak dipakai)."""
+    """Isi folder seed, identitas topik/slice, dan predikat {SLICE_<nama>}."""
     where = ctx["cfg"]["slices"][ctx["slice"]].get("where", {})
     sql = sql.replace("{D}", ctx["dir"])
+    sql = sql.replace("{TOPIC}", ctx["topic"]).replace("{SLICE}", ctx["slice"])
     for key in re.findall(r"\{SLICE_([a-z_]+)\}", sql):
         sql = sql.replace(f"{{SLICE_{key}}}", where.get(key, "TRUE"))
     return sql
@@ -47,12 +39,17 @@ def counts(con: duckdb.DuckDBPyConnection) -> dict[str, int]:
 
 
 def run_once(con: duckdb.DuckDBPyConnection, stmts: list[str], strategy: str, sudah_ada: bool) -> None:
-    """strategi `full`   = CREATE OR REPLACE (idempoten secara konstruksi)
-       strategi `insert_only` = CREATE pada run-1, INSERT polos pada run-2 (contoh yang sengaja jebol)."""
-    for stmt in stmts:
-        if strategy == "insert_only" and sudah_ada and re.match(r"CREATE OR REPLACE TABLE \w+ AS", stmt, re.I):
-            stmt = re.sub(r"^CREATE OR REPLACE TABLE", "INSERT INTO", stmt, flags=re.I)
-        con.execute(stmt)
+    """Jalankan SQL dan rollback jika gagal; insert_only adalah demo CTAS alternatif."""
+    try:
+        for stmt in stmts:
+            if strategy == "insert_only" and sudah_ada and re.match(r"CREATE OR REPLACE TABLE \w+ AS", stmt, re.I):
+                stmt = re.sub(r"^CREATE OR REPLACE TABLE", "INSERT INTO", stmt, flags=re.I)
+            con.execute(stmt)
+    except Exception:
+        # load.sql dapat membungkus snapshot dalam BEGIN/COMMIT.
+        # Batalkan juga ketika pemanggil memakai koneksi yang tetap terbuka.
+        con.rollback()
+        raise
 
 
 def main() -> None:
@@ -68,6 +65,8 @@ def main() -> None:
 
     ctx = config.resolve(args.topic, args.slice)
     path = args.sql or os.path.join(config.SQL, "load.sql")
+    if args.strategy == "insert_only" and os.path.realpath(path) == os.path.realpath(os.path.join(config.SQL, "load.sql")):
+        ap.error("Loader k9 memakai MERGE/SCD. Demo insert_only memerlukan SQL CTAS alternatif melalui --sql.")
     if not os.path.exists(path):
         raise SystemExit(f"SQL tidak ditemukan: {path}")
     if "TODO" in open(path, encoding="utf-8").read():
